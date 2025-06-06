@@ -62,6 +62,6 @@ Satoshium is open by default — all contributions are made in the spirit of pub
 
 - X (Twitter): [@SatoshiumAI](https://x.com/SatoshiumAI)  
 - Website: [satoshium.ai](https://satoshium.ai)  
-- Email: [dev@satoshium.info](mailto:dev@satoshium.info)
+- Email: [dev@satoshium.ai](mailto:dev@satoshium.ai)
 
 Let’s build something incorruptible — together.
