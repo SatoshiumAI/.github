@@ -60,8 +60,8 @@ Satoshium is open by default — all contributions are made in the spirit of pub
 
 ## 🛰️ Stay Connected
 
-- Twitter: [@SatoshiumAI](https://x.com/SatoshiumAI)  
+- X (Twitter): [@SatoshiumAI](https://x.com/SatoshiumAI)  
 - Website: [satoshium.ai](https://satoshium.ai)  
-- Email: [christopher@satoshium.info](mailto:christopher@satoshium.info)
+- Email: [dev@satoshium.info](mailto:dev@satoshium.info)
 
 Let’s build something incorruptible — together.
