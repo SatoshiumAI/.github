@@ -54,68 +54,78 @@ You can help by:
 
 Start with [`WHY.md`](../main/WHY.md) and the Builder’s Guide to understand our goals and design values.
 
+---
+
 ### 2. 🔍 Find What Needs Work
 
 - Browse open issues and discussions  
 - Review `TODO.md` files in each repo  
 - Suggest improvements or open a feature request
 
-### 3. 🍴 Fork and Branch
+---
 
-```bash
+### 3. 🍴 Fork and Branch
 
 Use clear, descriptive branch names like:
 
-fix/agent-policy-bug
+- `fix/agent-policy-bug`  
+- `feat/docs-enhancement`  
+- `chore/update-readme`
 
-feat/docs-enhancement
+---
 
-chore/update-readme
+### 4. 🧼 Follow Style Guidelines
 
-4. 🧼 Follow Style Guidelines
-Keep commits atomic
+- ✅ Keep commits atomic  
+- ✅ Write concise, meaningful commit messages  
+- ✅ Follow consistent formatting and folder structure  
+- ✅ Reference related issues in your PR when relevant
 
-Write concise, meaningful commit messages
+---
 
-Follow consistent formatting and folder structure
+### 5. 📬 Open a Pull Request (PR)
 
-Reference related issues in your PR when relevant
+- 🔀 Push your branch to your fork  
+- 📤 Open a PR against `main` or `dev`  
+- 📄 Include a clear summary:
 
-5. 📬 Open a Pull Request (PR)
-Push your branch
+  - What your contribution does  
+  - How it aligns with Satoshium’s principles  
+  - Any limitations, scope notes, or open questions
 
-Open a PR against main or dev
+---
 
-Include a summary of:
+## ⚖️ Code of Conduct
 
-What your contribution does
+All contributors are expected to uphold our [Code of Conduct](CODE_OF_CONDUCT.md):
 
-How it aligns with Satoshium's principles
+- 💬 Treat others with respect and civility  
+- 🚫 Harassment, gatekeeping, or exclusionary behavior is not tolerated  
+- 🤝 Assume positive intent and be generous with feedback
 
-Any limitations, scope, or open questions
+---
 
-⚖️ Code of Conduct
-All contributors are expected to uphold our Code of Conduct:
+## 📝 Licensing
 
-Treat others with respect and civility
+By contributing, you agree to license your work under the [MIT License](LICENSE).
 
-Harassment, gatekeeping, or exclusionary behavior will not be tolerated
+Satoshium is open by default — all contributions are made in the spirit of:
 
-Assume positive intent and be generous with feedback
+- 🔓 Transparency  
+- 🤝 Collaboration  
+- 🏛️ Public good
 
-📝 Licensing
-By contributing, you agree to license your work under the MIT License.
+---
 
-Satoshium is open by default. All contributions are made in the spirit of public good, transparency, and collaborative innovation.
+## 🛰️ Stay Connected
 
-🛰️ Stay Connected
-X (Twitter): @SatoshiumAI
+- **X (Twitter):** [@SatoshiumAI](https://twitter.com/SatoshiumAI)  
+- **Website:** [https://satoshium.ai](https://satoshium.ai)  
+- **Email:** [dev@satoshium.ai](mailto:dev@satoshium.ai)
 
-Website: https://satoshium.ai
+---
 
-Email: dev@satoshium.ai
+> _Together, we build something incorruptible._  
+> **“Rules, not rulers. Truth, not trust.”** ⚡
 
-Together, we build something incorruptible.
-“Rules, not rulers. Truth, not trust.” ⚡
-
-Let’s do this.
+**Let’s do this.**
