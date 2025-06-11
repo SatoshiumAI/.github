@@ -13,7 +13,7 @@ This file will be expanded as contributions grow.
 ### GitHub Contributors
 
 You can view the full list of contributors here:
-[https://github.com/satoshium/.github/graphs/contributors](https://github.com/satoshium/.github/graphs/contributors)
+[https://github.com/satoshium/.github/graphs/contributors](https://github.com/satoshium/.github/graphs/contributors.md)
 
 ---
 
