@@ -5,7 +5,7 @@ We recognize and thank the individuals helping build **Satoshium** — a decentr
 This project exists because of the time, effort, and dedication of its contributors.  
 We honor transparency, sovereignty, and open collaboration.
 
-This file will be expanded as contributions grow.
+This file will expand as contributions grow.
 
 ---
 
@@ -15,30 +15,32 @@ This file will be expanded as contributions grow.
 
 ---
 
-### Core Maintainers
+## 🧠 Core Maintainers
 
-* @satoshiumai — Founder, Architect
+- @satoshiumai — Founder, Architect
+
+---
+
+## 👥 GitHub Contributors
+
+- *Pending*
 
 ---
 
-### GitHub Contributors
-
-* PENDING
-
----
 ## ✨ How to Get Listed
 
-As the project grows, this file will reflect all contributors who have made meaningful contributions — whether through code, ideas, design, documentation, or community coordination.
+This file reflects meaningful contributions — whether through code, ideas, documentation, design, simulations, or community coordination.
 
-To be added:
-- Make a meaningful pull request or contribution.
-- Ensure your GitHub profile is linked.
-- Your name will appear automatically in GitHub’s Contributors tab.
+To be included:
+- Make a meaningful pull request or project contribution.
+- Ensure your GitHub profile is associated with your commits.
+- Your name will also appear automatically in GitHub’s Contributors tab.
 
-For non-code contributions or pseudonymous participation, email us at [contact@satoshium.ai](mailto:contact@satoshium.ai).
+For non-code or pseudonymous participation, email [contact@satoshium.ai](mailto:contact@satoshium.ai).
 
 ---
 
-Satoshium is a shared protocol. Together, we build something incorruptible. Your contributions help build something incorruptible.
+Satoshium is not a product. It’s a shared protocol.  
+Your efforts help build something incorruptible.
 
-“Rules, not rulers. Truth, not trust.” ⚡
+**“Rules, not rulers. Truth, not trust.” ⚡**
