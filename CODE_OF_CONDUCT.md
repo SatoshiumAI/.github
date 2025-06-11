@@ -37,4 +37,4 @@ It is a movement — and movements thrive through mutual respect, shared values,
 
 Let’s build something incorruptible — together.
 
-_Last updated - June 2025_
+_Last updated - June_2025_
