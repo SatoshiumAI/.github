@@ -28,5 +28,4 @@ This is a **new foundation**.
 ---
 
 > This document explains the “why” behind everything we build.  
-> For deeper implementation notes, see the [Builder’s Guide](satoshium-agent-lab
-/BUILDERS_GUIDE.md).
+> For deeper implementation notes, see the [Builder’s Guide](satoshium-agent-lab/BUILDERS_GUIDE.md).
