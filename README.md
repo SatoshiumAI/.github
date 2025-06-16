@@ -1,6 +1,16 @@
 # Welcome to Satoshium
 
-🛰️ Try the [Hello Protocol](hello.py) → `python hello.py`
+## 🛰️ Hello Protocol
+
+> The first signal from a decentralized agent.
+
+👉 [View hello.py](hello.py)  
+To run it locally:
+```bash
+python hello.py
+```
+
+---
 
 🚀 **Satoshium** is a decentralized intelligence infrastructure governed by Bitcoin.  
 Autonomous agents. Trustless systems. Open coordination.
