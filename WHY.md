@@ -28,4 +28,4 @@ This is a **new foundation**.
 ---
 
 > This document explains the “why” behind everything we build.  
-> For deeper implementation notes, see the [Builder’s Guide](link-to-your-private-doc-if-made-public).
+> For deeper implementation notes, see the [Builder’s Guide](BUILDERS_GUIDE.md).
