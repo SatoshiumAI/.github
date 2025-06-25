@@ -12,6 +12,5 @@ These files guide contributors and maintainers in writing clear, consistent, and
 - `protocol.md` — Architecture or layered overview (optional)
 - `governance.md` — Contribution or review standards (optional)
 - `manifesto.md` — Satoshium’s foundational principles and long-term vision
-- `readme.md` — Introductory guide to this folder
 
 > These files serve as a documentation backbone across all Satoshium modules.
