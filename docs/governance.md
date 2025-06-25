@@ -25,7 +25,7 @@ Until decentralized coordination is embedded fully into agent governance, we use
 | Contributors   | Propose improvements, fix issues, extend components |
 | Observers      | Watch, fork, replicate independently                |
 
-All contributions are expected to align with the [VALUES.md](./VALUES.md) and [PRINCIPLES.md](./PRINCIPLES.md) of the protocol.
+All contributions are expected to align with the [values.md](./values.md) and [principles.md](./principles.md) of the protocol.
 
 ---
 
