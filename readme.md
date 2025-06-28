@@ -1,50 +1,53 @@
+
 # 🛰️ Welcome to Satoshium
 
 **Satoshium** is a decentralized intelligence infrastructure governed by Bitcoin.  
 Autonomous agents. Trustless systems. Transparent coordination.
 
-> ⚠️ Some repositories may be private or invite-only.  
-> If you see a 404 or “Not Found,” you can [request access](mailto:contact@satoshium.ai) or check back later as we transition into public phases.
+> ⚠️ Some repositories may be **private** or **invite-only**.  
+> If you see a 404 or “Not Found,” don’t panic — we’re staging modules.  
+> You can [request access](mailto:contact@satoshium.ai) or check back later as more components go public.
 
 ---
 
-## 🚧 What We're Building
+## 🚀 What We're Building
 
-A cryptographically governed ecosystem where AI agents follow protocol — not commands.  
-Satoshium enables sovereign, verifiable AI through:
+A cryptographically-verifiable ecosystem where AI agents follow protocol — not human whims.  
+Satoshium’s mission is to create sovereign, censorship-resistant, Bitcoin-aligned intelligence.
 
-- ✅ Open rules  
-- ✅ Bitcoin-native logic  
-- ✅ Zero institutional dependency  
-
----
-
-## 🔧 Core Repositories
-
-- 🔑 [`satoshium-core`](https://github.com/SatoshiumAI/satoshium-core) – protocol primitives & execution models  
-- 🤖 [`satoshium-agents`](https://github.com/SatoshiumAI/satoshium-agents) – autonomous AI agent logic  
-- 📚 [`satoshium-docs`](https://github.com/SatoshiumAI/satoshium-docs) – specifications, guides, and documentation  
-- 🌐 [`satoshium-site`](https://github.com/SatoshiumAI/satoshium-site) – official website: [satoshium.ai](https://satoshium.ai)
+We believe AI should be:
+- ✅ Trust-minimized  
+- ✅ Protocol-governed  
+- ✅ Human-serving, not human-controlling  
 
 ---
 
-## 🧠 Mission
+## 🧩 Key Public Repositories
 
-To create an open foundation for AI systems that operate under protocol — not politics.  
-Satoshium is built for:
+- 🔐 [`satoshium-core`](https://github.com/satoshiumai/satoshium-core) – foundational protocol logic  
+- 🧠 [`satoshium-agents`](https://github.com/satoshiumai/satoshium-agents) – reusable autonomous agent blueprints  
+- 📖 [`satoshium-docs`](https://github.com/satoshiumai/satoshium-docs) – specs, standards, and governance  
+- 🖥️ [`satoshium-site`](https://github.com/satoshiumai/satoshium-site) – website and publishing assets
 
-- Developers of decentralized agents  
-- Researchers exploring protocol-aligned intelligence  
-- Builders of censorship-resistant applications  
-- Communities seeking autonomous tools that serve people, not institutions  
-
-> “Not a product. Not a company.  
-> A movement of minds.” ⚡
+Explore our other modules in the [full ecosystem](https://github.com/satoshiumai).
 
 ---
 
-## 👀 Follow Along
+## 💡 Who This Is For
 
-🔗 [Satoshium.ai](https://satoshium.ai)  
-🐙 [@SatoshiumAI](https://github.com/SatoshiumAI)  
-📬 [contact@satoshium.ai](mailto:contact@satoshium.ai)
+Satoshium is ideal for:
+- Developers building decentralized agents  
+- Designers crafting protocol-aligned AI experiences  
+- Researchers in open systems and cryptoeconomics  
+- Communities seeking self-sovereign, verifiable tools  
+
+---
+
+## 📬 Contact & Follow
+
+🌍 Website: [satoshium.ai](https://satoshium.ai)  
+🐙 GitHub: [@satoshiumai](https://github.com/satoshiumai)  
+📧 Email: [contact@satoshium.ai](mailto:contact@satoshium.ai)
+
+> “Not a startup. Not a DAO.  
+> A living protocol built on truth.” ⚡
