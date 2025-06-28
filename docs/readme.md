@@ -30,7 +30,7 @@ Describes the purpose and structure of the `.github/docs/` folder for new visito
 This folder is publicly visible and serves as the authoritative documentation layer for anyone interacting with the Satoshium GitHub organization.
 
 - All files in this folder are Markdown formatted for readability across the GitHub web interface.
-- Edits to these files should be made via pull request and follow the contribution protocol outlined in `CONTRIBUTING.md`.
+- Edits to these files should be made via pull request and follow the contribution protocol outlined in `contributing.md`.
 
 ---
 
