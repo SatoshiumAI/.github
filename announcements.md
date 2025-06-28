@@ -1,37 +1,33 @@
-# 📣 Satoshium — Announcements
+# 📣 Announcements
 
-This page contains select announcements about the Satoshium project. It is not an exhaustive changelog, but a curated log of meaningful milestones and public moments.
+Welcome to the official announcements hub for the **Satoshium** project.
 
-For detailed technical updates, see `RELEASE_NOTES.md` in individual repositories.
-
----
-
-## 🆕 Latest Highlights
-
-### 🗓️ 2025-06 — Phase 1 Foundations Complete
-- Core agent logic established  
-- Multi-repo ecosystem structured and documented  
-- Initial mesh simulation environment operational
-
-### 🗓️ 2025-06 — Public Onboarding Refinements
-- `.github` repo updated with official welcome `README.md`  
-- Removed test scripts for cleaner public presentation  
-- Added advisory for private repo access visibility
-
-### 🗓️ 2025-05 — Satoshium GitHub Org Live
-- Repos initialized with foundational files  
-- `.github` made publicly visible with essential onboarding docs
+This file is intended for project maintainers and contributors to log major public-facing updates, including:
+- Version milestones
+- Governance changes
+- Release highlights
+- Policy shifts
+- Public roadmap announcements
 
 ---
 
-## ⏳ Future Updates Will Include:
+## 📅 Recent Announcements
 
-- Public release of test environments  
-- Governance model publication  
-- satoshium.ai first-look portal launch  
-- Community contribution guidelines expansion
+### June 28, 2025
+**Phase 2 Begins** — The Satoshium project has officially entered Phase 2 of its roadmap, focused on reusable utility modules, agent logic development, and public interface stabilization.
+
+### June 15, 2025
+**CODEX Audit Complete** — All repositories in the Satoshium ecosystem have undergone initial CODEX audits and passed remediation steps. Phase 1 is officially closed out.
 
 ---
 
-> Want real-time updates?  
-> Follow [@SatoshiumAI](https://twitter.com/satoshiumAI) for occasional insights and milestones.
+## 🔄 Update Policy
+
+This file should be updated whenever:
+- A major feature is introduced
+- A milestone is completed
+- A new phase of development begins
+
+For internal logs, refer to `journal/` or `/logs/` within each repository.
+
+Stay tuned, and thank you for being part of the Satoshium journey.
