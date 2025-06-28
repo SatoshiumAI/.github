@@ -1,40 +1,43 @@
-# Code of Conduct
 
-Welcome to Satoshium — a decentralized intelligence protocol governed by Bitcoin.
+# 🤝 Code of Conduct
 
-This project exists to build trustless systems, not to control people. But respect is the foundation of every open system, and we expect all contributors to act in good faith.
+## Our Commitment
+
+We are committed to fostering an open, inclusive, and respectful community. All contributors, maintainers, and users of the Satoshium project are expected to uphold this code of conduct to ensure a welcoming environment for everyone.
+
+## Guiding Principles
+
+- **Respect**: Treat others with dignity, kindness, and empathy.
+- **Constructive Collaboration**: Embrace feedback and work towards shared goals.
+- **Inclusivity**: Encourage diverse perspectives and participation across backgrounds and identities.
+- **Transparency**: Communicate clearly and honestly.
+- **Security**: Report vulnerabilities and security concerns responsibly.
+
+## Unacceptable Behavior
+
+- Discrimination, harassment, or exclusionary behavior
+- Personal attacks or derogatory comments
+- Trolling, spamming, or deliberate disruption of discussions
+- Publishing others' private information without consent
+- Any behavior that violates applicable laws or ethical norms
+
+## Scope
+
+This Code of Conduct applies across all Satoshium spaces, including:
+- GitHub repositories (issues, pull requests, comments)
+- Community forums and discussion channels
+- Events, meetups, and related activities
+
+## Reporting and Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening a private issue in the governance repo or contacting us directly at [contact@satoshium.ai](mailto:contact@satoshium.ai).
+
+All reports will be reviewed confidentially and investigated promptly. Violators may be warned, suspended, or permanently removed from participation.
+
+## Attribution
+
+This Code of Conduct is adapted from the Contributor Covenant (version 2.1), available at https://www.contributor-covenant.org.
 
 ---
 
-## 🧭 Guiding Principles
-
-- **Respect Autonomy:** We value sovereign thought and decentralized voices. Engage respectfully — even when you disagree.
-- **Assume Integrity:** Challenge ideas, not identities. We assume contributors act in good faith unless proven otherwise.
-- **No Gatekeeping:** We do not tolerate exclusion based on race, gender, religion, politics, or ideology. Merit matters. Openness matters more.
-- **Stay on Mission:** Keep conversations focused on building systems that embody transparency, cryptographic truth, and decentralization.
-
----
-
-## 🛠️ Unacceptable Behavior
-
-- Personal attacks or harassment
-- Threats, doxxing, or intimidation
-- Malicious code, exploits, or attempts to deceive the community
-- Spam, trolling, or persistent off-topic disruption
-
----
-
-## 🛡️ Enforcement
-
-Violations may result in warnings, PR rejections, or removal from community spaces. Enforcement is at the discretion of maintainers, always in the spirit of openness and fairness.
-
----
-
-## 🤝 Final Note
-
-Satoshium is not owned. It is not controlled.  
-It is a movement — and movements thrive through mutual respect, shared values, and sovereign minds.
-
-Let’s build something incorruptible — together.
-
-_Last updated - June_2025_
+Together, let’s build a decentralized intelligence ecosystem grounded in trust, respect, and collaboration.
