@@ -15,8 +15,8 @@ If you have questions, feedback, or need assistance contributing to the project,
 
 Start with our documentation and project overview:
 
-- [`README.md`](../main/README.md)
-- [`WHY.md`](../main/WHY.md)
+- [`readme.md`](../main/readme.md)
+- [`why.md`](../main/why.md)
 - Builder's Guide (in relevant repos)
 
 ### 2. 🧵 GitHub Discussions *(Coming Soon)*
