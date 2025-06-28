@@ -1,147 +1,70 @@
-# 🤝 Contributing to Satoshium (.github)
 
-Thank you for your interest in contributing to **Satoshium** — a decentralized intelligence infrastructure governed by Bitcoin.
+# 🤝 Contributing to Satoshium
 
-This repository (`.github`) serves as the central coordination hub for our GitHub-wide standards, community engagement, and shared configuration files.
+Welcome, Builder. Your participation in the **Satoshium** ecosystem strengthens our mission to create decentralized, transparent, and cryptographically governed intelligence.
 
----
-
-### 🚀 TL;DR – Getting Started
-
-- 🔍 Read the [WHY.md](https://github.com/SatoshiumAI/.github/blob/main/WHY.md)  
-- 🧭 Choose a repo (core, agents, docs, etc.)  
-- 📘 Check issues or TODOs  
-- 🛠 Fork → branch → PR  
+We welcome contributions from developers, researchers, designers, and decentralization advocates.
 
 ---
 
-## 🧭 Purpose of This Repo
+## 🛠️ Ways You Can Contribute
 
-This `.github` repo manages global behaviors and shared documentation across all Satoshium repositories:
+### 🧪 Code Contributions
+- Fork the repository you'd like to work on.
+- Create a new feature branch.
+- Submit a pull request with clear details about what was added or changed.
+- Ensure that any changes pass **CODEX audit** checks and do not break other modules.
 
-- ✅ Issue and Pull Request templates  
-- ✅ Community health files (`CODE_OF_CONDUCT.md`, `SECURITY.md`)  
-- ✅ GitHub Actions and global workflows  
-- ✅ Shared documentation (`README.md`, `WHY.md`, `TODO.md`)  
-- ✅ Contribution onboarding files  
+### 📚 Documentation
+- Help improve or expand Markdown documentation across repos.
+- Update or fix typos in the `/docs` or `README.md` files.
+- Add examples or architecture diagrams where missing.
 
----
+### 🧠 Ideas and Feedback
+- Open issues for bugs, features, or design suggestions.
+- Use the `discussion` tab (if enabled) to propose high-level shifts.
 
-## 🧠 Philosophy
-
-Satoshium is **a protocol, not a product**.
-
-We aim to build a world where AI follows **cryptographic rules**, not human whims.
-
-This means:
-
-- 🟡 Permissionless coordination  
-- 🟡 Verifiable logic  
-- 🟡 Sovereign participation  
-- 🟡 Open-source integrity  
-
-All contributions should reflect these foundational principles.
+### 🧪 Testing
+- Review test coverage under `/tests/` folders.
+- Suggest improvements for unit or integration tests.
+- Report edge cases or vulnerabilities not covered.
 
 ---
 
-## 📌 Contributor Notice (2025–2026)
+## 🧾 Contribution Rules
 
-Thanks for reaching out.  
-**Satoshium is currently in deep build mode and not accepting external collaborators or partnerships.**  
-Feel free to check back in **mid-2026** when we expect to open up contributions more widely.
-
----
-
-## 🔧 Ways to Contribute (once open)
-
-You will eventually be able to help by:
-
-- 📦 Submitting code (agents, interfaces, network components — see relevant repo README for structure)  
-- 📘 Improving documentation or tutorials  
-- 🧠 Proposing governance models, logic templates, or simulations  
-- 🎨 Designing visuals, diagrams, or educational content  
-- 🐛 Reporting bugs or requesting enhancements  
-- 💬 Joining GitHub Discussions (coming soon)
+- Always follow the **Satoshium Style Guide** (`docs/style-guide.md`).
+- Every repo should comply with `CODEX` standards.
+- Files should be lowercase and hyphenated (e.g., `data-handler.ts`).
+- Keep pull requests atomic and purpose-driven.
+- Add comments and docstrings to new functions/modules.
 
 ---
 
-## 🛠 How to Contribute
+## 🧱 Contribution Structure
 
-### 1. 📖 Read Our Vision
-
-Start with [WHY.md](https://github.com/SatoshiumAI/.github/blob/main/WHY.md) and the Builder’s Guide in the main repo to understand our goals and design values.
-
----
-
-### 2. 🔍 Find What Needs Work
-
-- Browse open issues and discussions  
-- Review `TODO.md` files in each repo  
-- Suggest improvements or open a feature request  
+Each repository typically includes:
+- `/docs`: High-level and technical documentation
+- `/tests`: Unit tests and sample input/output
+- `/logs`: Historical metadata or agent activities
+- `/examples`: Live demonstrations or workflows
 
 ---
 
-### 3. 🍴 Fork and Branch
+## 📮 Submit a Pull Request
 
-Use clear, descriptive branch names like:
-
-- `fix/agent-policy-bug`  
-- `feat/docs-enhancement`  
-- `chore/update-readme`  
-
----
-
-### 4. 🧼 Follow Style Guidelines
-
-- ✅ Keep commits atomic  
-- ✅ Write concise, meaningful commit messages  
-- ✅ Follow consistent formatting and folder structure  
-- ✅ Reference related issues in your PR when relevant  
+1. Open your PR against the appropriate `main` or `dev` branch.
+2. Include a detailed description.
+3. Link to any related issues.
+4. Include screenshots if UI changes were made.
+5. A member of the Satoshium team will review it soon.
 
 ---
 
-### 5. 📬 Open a Pull Request (PR)
+## 🙏 Thank You
 
-- 🔀 Push your branch to your fork  
-- 📤 Open a PR against `main` or `dev`  
-- 📄 Include a clear summary:
-  - What your contribution does  
-  - How it aligns with Satoshium’s principles  
-  - Any limitations, scope notes, or open questions  
+Every contribution—large or small—helps grow this decentralized future.
 
----
+> *Satoshium is governed by cryptographic protocol, not personal command.*
 
-## ⚖️ Code of Conduct
-
-All contributors are expected to uphold our [Code of Conduct](CODE_OF_CONDUCT.md):
-
-- 💬 Treat others with respect and civility  
-- 🚫 Harassment, gatekeeping, or exclusionary behavior is not tolerated  
-- 🤝 Assume positive intent and be generous with feedback  
-
----
-
-## 📝 Licensing
-
-By contributing, you agree to license your work under the [MIT License](https://github.com/SatoshiumAI/satoshium-core/blob/main/LICENSE), used across all Satoshium repositories.
-
-Satoshium is open by default — all contributions are made in the spirit of:
-
-- 🔓 Transparency  
-- 🤝 Collaboration  
-- 🏛️ Public good  
-
----
-
-## 🛰️ Stay Connected
-
-- **X (Twitter):** [@SatoshiumAI](https://twitter.com/SatoshiumAI)  
-- **Website:** [https://satoshium.ai](https://satoshium.ai)  
-- **Email:** [dev@satoshium.ai](mailto:dev@satoshium.ai)
-
----
-
-> _Together, we build something incorruptible._  
-> **“Rules, not rulers. Truth, not trust.”** ⚡
-
-**Let’s do this.**
+Let’s build accordingly. 🧬
