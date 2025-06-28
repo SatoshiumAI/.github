@@ -1,46 +1,52 @@
+
 # 🌐 Contributors to Satoshium
 
 We recognize and thank the individuals helping build **Satoshium** — a decentralized intelligence protocol governed by Bitcoin.
 
-This project exists because of the time, effort, and dedication of its contributors.  
-We honor transparency, sovereignty, and open collaboration.
-
-This file will expand as contributions grow.
+This project exists because of the time, effort, and dedication of its contributors. Whether through code, design, documentation, testing, strategy, or community engagement — your involvement makes this movement stronger.
 
 ---
 
-## 🎓 Lead Maintainer
+## 👥 Acknowledged Contributors
 
-- [@SatoshiumAI](https://github.com/SatoshiumAI) — Founder and Architect of the Satoshium Protocol
-
----
-
-## 🧠 Core Maintainers
-
-- @satoshiumai — Founder, Architect
+- **Christopher D Burris** – Vision, architecture, policy governance, and protocol leadership
+- **Open Source Collaborators** – Anonymous contributors helping refine logic and modularity
+- **AI Co-Creators** – Agent-based development assistance powered by Satoshium prototypes
 
 ---
 
-## 👥 GitHub Contributors
+## 🧠 Contribute Your Expertise
 
-- *Pending*
+We welcome contributions in the following areas:
 
----
-
-## ✨ How to Get Listed
-
-This file reflects meaningful contributions — whether through code, ideas, documentation, design, simulations, or community coordination.
-
-To be included:
-- Make a meaningful pull request or project contribution.
-- Ensure your GitHub profile is associated with your commits.
-- Your name will also appear automatically in GitHub’s Contributors tab.
-
-For non-code or pseudonymous participation, email [contact@satoshium.ai](mailto:contact@satoshium.ai).
+- Software engineering (Python, JS, Node, React)
+- AI and agent-based systems
+- Decentralized protocol design
+- Policy and ethics frameworks
+- Documentation and educational content
+- Testing, QA, and simulation environments
 
 ---
 
-Satoshium is not a product. It’s a shared protocol.  
-Your efforts help build something incorruptible.
+## 📬 Get Involved
 
-**“Rules, not rulers. Truth, not trust.” ⚡**
+Reach out via:
+
+- **X (Twitter)**: [@satoshiumAI](https://twitter.com/satoshiumAI)
+- **GitHub Discussions**: [github.com/satoshiumai/.github/discussions](https://github.com/satoshiumai/.github/discussions)
+- **Email**: contact@satoshium.ai
+
+> Every contributor, big or small, helps push decentralized intelligence forward. Join us.
+
+---
+
+## 🔐 Contribution Ethics
+
+We operate under a principle of **transparent evolution**:
+- No closed-door decisions
+- All suggestions reviewed with clear feedback loops
+- Contributions evaluated on merit, clarity, and impact
+
+Thank you for being part of something foundational. 🧬
+
+— *The Satoshium Core Team*
