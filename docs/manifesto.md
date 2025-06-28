@@ -1,3 +1,4 @@
+
 # 📜 The Satoshium Manifesto  
 *“Not ruled. Not bought. Not stopped.”*
 
