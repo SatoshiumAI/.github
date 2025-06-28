@@ -1,66 +1,93 @@
 
-# 🧭 Governance — Satoshium Project
+# 🧭 Governance Overview
 
-This document outlines the current approach to decision-making, contributions, and evolution of the Satoshium protocol and its supporting repositories.
-
-While Satoshium is designed to minimize human discretion in runtime execution, human governance still plays a role in development, coordination, and community direction — especially in early stages.
+Satoshium follows a decentralized, transparent, and open governance model aligned with its mission: **AI governed by protocol, not politics.**
 
 ---
 
-## 🔐 Governance Philosophy
+## 🎯 Purpose
 
-- **Minimize trust, maximize clarity**
-- **Protocol behavior is not subject to votes**
-- **Coordination ≠ control**
+This document outlines the principles, structure, and participation pathways in the governance of the Satoshium project. It serves as both a reference and a living document that evolves with community contributions and agent-based audit cycles.
 
 ---
 
-## ⚙️ Current Governance Model
+## 🏛️ Governance Principles
 
-Until decentralized coordination is embedded fully into agent governance, we use the following interim structure:
-
-| Role           | Scope                                              |
-|----------------|-----------------------------------------------------|
-| Maintainers    | Merge PRs, update documentation, structure repos    |
-| Contributors   | Propose improvements, fix issues, extend components |
-| Observers      | Watch, fork, replicate independently                |
-
-All contributions are expected to align with the [values.md](./values.md) and [principles.md](./principles.md) of the protocol.
+1. **Decentralization First** – No single entity controls the project direction.
+2. **Transparency** – All decisions, proposals, and changes are logged, auditable, and public.
+3. **Protocol over Preference** – Agents follow protocol; humans follow process.
+4. **Reproducibility** – All decisions must be documented with enough clarity to be reproducible by another party.
+5. **Agent Oversight** – Specialized internal agents assist with audits, metrics, and policy enforcement.
 
 ---
 
-## 🔁 Decision-Making
+## 👥 Roles and Participation
 
-Decisions are made with these constraints:
-
-- Design changes must respect agent autonomy and protocol neutrality
-- No feature can introduce privileged access or override logic
-- Disagreements are resolved through forking — not enforcement
-
----
-
-## 🛡️ Protocol Changes
-
-Changes to core logic (agents, relays, policies) require:
-
-1. Clear problem definition
-2. Proposed logic that maintains determinism and verifiability
-3. Transparent discussion via GitHub issues or discussion threads
-4. Review by maintainers
-5. Optional simulation or test fork
+| Role               | Description                                                                  |
+|--------------------|------------------------------------------------------------------------------|
+| Core Contributor   | Maintains repos, writes documentation, and builds core features              |
+| Agent Architect    | Designs and implements internal agent logic and lifecycle                    |
+| Community Member   | Proposes changes, reports issues, participates in discussions                |
+| CODEX Reviewer     | Reviews structure, style, and compliance with internal audit standards       |
+| Maintainer         | Has commit access and merges approved pull requests                         |
 
 ---
 
-## 🧪 Future Governance Vision
+## 🗳️ Proposal Process
 
-As Satoshium matures:
-
-- Agents may participate in protocol-level signaling or consensus
-- Mesh-based quorum or voting may govern policy updates
-- Reputation-weighted relays or signaling may emerge
-
-But for now, **governance is open-source, discussion-based, and fork-friendly**.
+1. **Issue** – Anyone may open a GitHub issue labeled `proposal`.
+2. **Discussion** – Community discussion period of minimum 7 days.
+3. **Draft** – Pull request with a markdown file placed in `/proposals/`.
+4. **Agent Review** – Internal agents check for consistency, metadata, and audit status.
+5. **Approval** – Maintainer and/or quorum approves merge.
+6. **Log** – Entry is logged in `/logs/` with timestamp and hash.
 
 ---
 
-> Authority fades. Logic remains. That’s the path to protocol governance.
+## 🔁 Change Management
+
+All modifications to key governance, architecture, or protocol documents must:
+
+- Be proposed via PR
+- Undergo internal agent review
+- Be CODEX-auditable
+- Include a rationale, risk assessment, and metadata
+
+---
+
+## 🤖 Agent Involvement
+
+Governance-related internal agents include:
+
+- `policy-watcher`
+- `codex-reviewer`
+- `log-indexer`
+- `proposal-validator`
+- `metadata-inspector`
+
+---
+
+## 🔒 Voting Logic (Future)
+
+A tokenless, weighted-reputation system may be introduced in future versions, based on:
+
+- Contribution volume
+- CODEX compliance history
+- Proposal acceptance rate
+- Agent review alignment
+
+---
+
+## 🧠 Evolution Path
+
+Governance in Satoshium is not static—it is intended to evolve:
+
+- Quarterly snapshots of decision logs
+- Proposal retrospectives and reversal logic
+- Simulation of governance experiments via `satoshium-simulations`
+
+---
+
+## 📬 Contact
+
+For governance-related inquiries, contact the maintainers or open an issue labeled `governance`.
