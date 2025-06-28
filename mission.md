@@ -1,50 +1,24 @@
 
-# 🎯 Satoshium — Mission Statement
+🌍 Satoshium Mission
 
-**Satoshium** exists to explore a single question:
+At Satoshium, we believe intelligence should follow protocol — not politics, profits, or power.
 
-> What happens when intelligence is governed by protocol — not power?
+Our mission is to build a decentralized intelligence infrastructure governed by Bitcoin, where agents act based on cryptographic truth instead of centralized commands.
 
----
+We are committed to:
 
-## 🧠 Our Purpose
+⦁	🛡️ Reinforcing digital sovereignty through permissionless logic
 
-We believe that the future of intelligence lies in decentralization, verifiability, and trustless logic. Satoshium is an effort to build the infrastructure for that future — not as a product, but as a public good.
+⦁	📜 Creating verifiable, tamper-proof systems for AI and automation
 
----
+⦁	🤝 Empowering global builders with open tools and transparent processes
 
-## 🌐 Why It Matters
+⦁	🔁 Iterating publicly, ethically, and accountably
 
-In a world increasingly shaped by opaque systems and centralized control, we see the need for:
+Satoshium is a protocol-first project — not a product. Not a brand. Not a walled garden.
 
-- Transparent coordination
-- Forkable logic
-- Cryptographic accountability
-
-We aim to offer tools and principles for building systems where trust is minimized, not assumed — and where intelligence can act without bias, coercion, or hierarchy.
+We invite developers, researchers, and idealists to help us push back against the black box era — and forge a new foundation for intelligence, one verifiable step at a time.
 
 ---
 
-## 🛠 What We're Building
-
-We’re not creating a company, a token, or a platform.
-
-We’re creating a **protocol** — one that:
-
-- Encourages autonomy
-- Respects rules over rulers
-- Embeds integrity at the core of computation
-
----
-
-## 🚶 Our Approach
-
-- Open-source from the ground up
-- Community-shaped, not company-owned
-- Rooted in Bitcoin’s principles of verification, not trust
-
----
-
-> Intelligence should be something you **understand**, not just something you **use**.
->
-> Satoshium is for those who believe logic itself can be a form of freedom.
+Governed by Bitcoin. Guided by builders. Verified by code.
