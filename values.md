@@ -1,65 +1,37 @@
 
-# 🧭 Core Values — Satoshium Project
+# 🌱 Our Values
 
-Satoshium is more than a decentralized intelligence protocol. It is a philosophical and technical response to centralized power, corrupted coordination, and opaque systems. These values guide every decision we make — in code, design, and governance.
-
----
-
-## 🪙 1. Anchored in Bitcoin
-
-We believe Bitcoin represents the most credible base layer of truth available to humanity. Satoshium builds on its neutrality, immutability, and incorruptibility — not just as money, but as protocol-level trust.
+At **Satoshium**, we strive to build decentralized intelligence governed by cryptographic truth. These core values serve as the compass for our technology, our community, and our future.
 
 ---
 
-## 🧠 2. Intelligence Is Procedural
+## 🧱 1. Protocol Over Power  
+We believe decentralized protocols should replace centralized commands. Power is not to be held—it is to be distributed.
 
-We reject the notion that intelligence requires personality, emotions, or control. In Satoshium, intelligence emerges from logic, policy, and bounded autonomy — not influence or hierarchy.
+## 🔍 2. Transparency by Default  
+We operate in the open. Code, decisions, and trade-offs are visible and inspectable.
 
----
+## 🛡 3. Privacy with Purpose  
+We protect user privacy, not to conceal corruption, but to empower individuals.
 
-## 🔏 3. Power Must Be Procedural
+## ⚖️ 4. Integrity Over Incentives  
+We choose what is right—even when it’s not profitable. Our incentives serve integrity, not the other way around.
 
-Authority within Satoshium flows from code, not individuals. All agent actions are constrained by policies and protocols. No admin keys. No arbitrary overrides. Only verifiable logic.
+## 🧠 5. Intelligence with Accountability  
+Artificial agents must be auditable, reproducible, and align with cryptographic truth—not human whims.
 
----
+## 🌍 6. Borderless Collaboration  
+We welcome contributors across geographies, ideologies, and cultures, united by a common protocol.
 
-## 🌐 4. Permissionless Participation
+## 🚀 7. Resilience Through Simplicity  
+We build modular, composable systems designed to fail gracefully and recover quickly.
 
-Anyone can run a node, simulate a fork, or propose new protocols. You don’t need to ask permission to coordinate — you just need to follow the rules.
+## 📚 8. Education is Empowerment  
+We teach what we build. Knowledge is not hoarded—it’s open-sourced and shared.
 
----
-
-## 🧩 5. Forkability Is Freedom
-
-Satoshium is open by design. If the current protocol doesn’t serve your needs or values, you can fork it, run it, or build your own variation. The protocol respects exit rights.
-
----
-
-## 🔬 6. Transparency by Default
-
-All critical actions, signatures, and decisions are publicly visible, auditable, and logged. Opacity is a bug, not a feature.
-
----
-
-## 🧬 7. Decentralization Is a Process
-
-We do not treat decentralization as a checkbox. It is an ongoing commitment — balancing resilience, verifiability, and participation at every layer of the system.
+## 💡 9. Curiosity Fuels Innovation  
+We encourage exploration, experimentation, and iteration. Our roadmap is shaped by both logic and learning.
 
 ---
 
-## 🧘 8. Minimalism Over Bloat
-
-We aim for simplicity, modularity, and clarity. If it doesn’t serve the protocol, it doesn’t belong. Elegance beats excess.
-
----
-
-## ✨ 9. Humans Can Observe — Not Override
-
-The protocol welcomes human insight but resists human control. Developers can create, refine, and fork — but agents obey only the logic they’re bound to.
-
----
-
-> These values aren’t branding. They are boundaries.
->  
-> They shape how agents act, how nodes relay, and how networks evolve.
-
+These values are living principles. As **Satoshium** evolves, they may grow—but they will not break.
