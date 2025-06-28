@@ -1,29 +1,73 @@
-# Frequently Asked Questions (FAQ)
 
-### ❓ What is Satoshium?
-Satoshium is a decentralized intelligence protocol where autonomous agents follow cryptographic rules instead of human commands. Anchored in Bitcoin, it aims to create a trustless framework for AI.
+# ❓ Frequently Asked Questions (FAQ)
 
-### ❓ Why does Satoshium exist?
-Because we believe AI should be governed by logic, not influence. Our mission is to create autonomous honesty—agents that follow protocol, not politics.
-
-### ❓ What stage is the project currently in?
-We’re in Phase 1: laying the groundwork with core specs, architecture, style guides, and documentation. Most repos are private during this buildout phase.
-
-### ❓ How can I contribute?
-We’re not accepting public contributions just yet. Stay tuned via our [GitHub](https://github.com/satoshiumai), [Reddit](https://www.reddit.com/user/SatoshiumAI/), or [X (Twitter)](https://x.com/SatoshiumAI) accounts for updates.
-
-### ❓ Is there a roadmap?
-Yes. Our full project roadmap is under construction and will be linked once public. For now, development status is visible through structured commits and markdown files in each repo.
-
-### ❓ What license does Satoshium use?
-All code is licensed under the MIT License.
-
-### ❓ Will Satoshium ever become a company?
-No. Satoshium is a protocol, not a product. We’re committed to keeping it open-source, decentralized, and non-corporate.
-
-### ❓ Is this a crypto project?
-Satoshium is not a token or coin. It uses Bitcoin as a foundational truth layer for computation, not for speculation.
+This file addresses common questions about the Satoshium project and its GitHub repository structure.  
+It serves both new contributors and curious observers of our decentralized AI infrastructure effort.
 
 ---
 
-*Last updated: June 2025*
+## 🤖 What is Satoshium?
+
+Satoshium is a decentralized intelligence infrastructure governed by Bitcoin.  
+It is composed of multiple coordinated repositories, agents, and protocols intended to enable censorship-resistant, logic-driven AI systems built on cryptographic rules.
+
+---
+
+## 🧱 Why are there so many repositories?
+
+Satoshium emphasizes **modular architecture**.  
+Each repo plays a distinct role—examples include:
+
+- `satoshium-core`: Base constants, schemas, and internal logic
+- `satoshium-specs`: Specifications and standards for agents, models, and logic
+- `satoshium-ui`: Frontend user interfaces
+- `satoshium-agents`: Internal system agents like `system-maintainer`, `audit-helper`, etc.
+- `satoshium-scenarios`, `satoshium-certifier`, etc.: Future-stage repos focused on simulation and verification
+
+This design allows for auditability, composability, and collaborative scaling.
+
+---
+
+## 🔐 How is trust enforced?
+
+Satoshium operates under a principle of **protocol over command**.
+
+- Internal agents follow signed rules, not instructions.
+- CODEX audits define the minimum compliance threshold.
+- Contributors are encouraged to preserve the principles of decentralization and transparency.
+
+All commits are verifiable, and logs are optionally stored in `/logs/`.
+
+---
+
+## 🧪 How can I test or simulate agents?
+
+Use the `satoshium-demos`, `satoshium-simulations`, or `satoshium-agent-lab` repositories.  
+Each contains test scaffolds, simulations, or execution environments.  
+Check each repo's `/docs/` folder and README for detailed walkthroughs.
+
+---
+
+## 🙋 How can I contribute?
+
+Please review the following:
+
+- [CODE OF CONDUCT](../code-of-conduct.md)
+- [CONTRIBUTING GUIDE](../contributing.md)
+- [COMMUNITY GUIDELINES](../community.md)
+
+Fork, propose, test, and help us build a better intelligence infrastructure.
+
+---
+
+## 📩 Still have questions?
+
+Open an issue or reach out via discussions in the `satoshium-interface` repo.
+
+---
+
+## 🔁 File Update Cycle
+
+This FAQ is updated as new contributors join and new questions arise.  
+Feel free to submit PRs with suggested clarifications or additions.
+
