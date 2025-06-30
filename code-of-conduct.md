@@ -9,7 +9,6 @@ We are committed to fostering an open and respectful community. All contributors
 
 - **Respect**: Treat others with dignity, kindness, and empathy.
 - **Constructive Collaboration**: Embrace feedback and work towards shared goals.
-- **Inclusivity**: Encourage diverse perspectives and participation across backgrounds and identities.
 - **Transparency**: Communicate clearly and honestly.
 - **Security**: Report vulnerabilities and security concerns responsibly.
 
