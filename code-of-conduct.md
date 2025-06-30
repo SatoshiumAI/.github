@@ -3,7 +3,7 @@
 
 ## Our Commitment
 
-We are committed to fostering an open, inclusive, and respectful community. All contributors, maintainers, and users of the Satoshium project are expected to uphold this code of conduct to ensure a welcoming environment for everyone.
+We are committed to fostering an open and respectful community. All contributors, maintainers, and users of the Satoshium project are expected to uphold this code of conduct to ensure a welcoming environment for everyone.
 
 ## Guiding Principles
 
