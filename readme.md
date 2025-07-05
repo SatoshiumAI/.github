@@ -4,9 +4,11 @@
 **Satoshium** is a decentralized intelligence infrastructure governed by Bitcoin.  
 Autonomous agents. Trustless systems. Transparent coordination.
 
-> ⚠️ Some repositories may be **private** or **invite-only**.  
-> If you see a 404 or “Not Found,” don’t panic — we’re staging modules.  
-> You can [request access](mailto:contact@satoshium.ai) or check back later as more components go public.
+> ⚠️ Many of our repositories are currently **private** or **invite-only**.  
+> If you encounter a 404 or “Not Found” error, rest assured — it doesn’t mean the project is gone.  
+> These modules are in active development and will be unveiled gradually.  
+> Only the number of private repos and total contributions are publicly visible — **not the repo names or their contents**.  
+> You may [request access](mailto:contact@satoshium.ai) if appropriate, or check back as components become public.
 
 ---
 
@@ -29,7 +31,11 @@ We believe AI should be:
 - 📖 [`satoshium-docs`](https://github.com/satoshiumai/satoshium-docs) – specs, standards, and governance  
 - 🖥️ [`satoshium-site`](https://github.com/satoshiumai/satoshium-site) – website and publishing assets
 
-Explore our other modules in the [full ecosystem](https://github.com/satoshiumai).
+🚧 Private Work in Progress  
+🔐 **40 Private Repositories** | 🧮 **3,779 Contributions Logged**  
+_(as of July 4, 2025)_
+
+Explore our full ecosystem at [@satoshiumai](https://github.com/satoshiumai)
 
 ---
 
