@@ -14,7 +14,8 @@ Autonomous agents. Trustless systems. Transparent coordination.
 
 ## 🚀 What We're Building
 
-A cryptographically-verifiable ecosystem where AI agents follow protocol — not human whims.  
+A cryptographically-verifiable ecosystem where AI agents follow protocol — not human whims.
+
 Satoshium’s mission is to create sovereign, censorship-resistant, Bitcoin-aligned intelligence.
 
 We believe AI should be:
