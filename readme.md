@@ -24,7 +24,7 @@ We believe AI should be:
 
 ---
 
-## 🧩 Key Public Repositories
+## 🧩 Key Repositories (Private)
 
 - 🔐 [`satoshium-core`](https://github.com/satoshiumai/satoshium-core) – foundational protocol logic  
 - 🧠 [`satoshium-agents`](https://github.com/satoshiumai/satoshium-agents) – reusable autonomous agent blueprints  
