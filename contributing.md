@@ -1,70 +1,76 @@
-
 # 🤝 Contributing to Satoshium
 
-Welcome, Builder. Your participation in the **Satoshium** ecosystem strengthens our mission to create decentralized, transparent, and cryptographically governed intelligence.
+Welcome to the Satoshium project! Whether you're here to build agents, write documentation, run tests, or challenge assumptions—we're glad to have you.
 
-We welcome contributions from developers, researchers, designers, and decentralization advocates.
-
----
-
-## 🛠️ Ways You Can Contribute
-
-### 🧪 Code Contributions
-- Fork the repository you'd like to work on.
-- Create a new feature branch.
-- Submit a pull request with clear details about what was added or changed.
-- Ensure that any changes pass **CODEX audit** checks and do not break other modules.
-
-### 📚 Documentation
-- Help improve or expand Markdown documentation across repos.
-- Update or fix typos in the `/docs` or `README.md` files.
-- Add examples or architecture diagrams where missing.
-
-### 🧠 Ideas and Feedback
-- Open issues for bugs, features, or design suggestions.
-- Use the `discussion` tab (if enabled) to propose high-level shifts.
-
-### 🧪 Testing
-- Review test coverage under `/tests/` folders.
-- Suggest improvements for unit or integration tests.
-- Report edge cases or vulnerabilities not covered.
+This document outlines how to contribute in a structured, respectful, and agent-aligned way.
 
 ---
 
-## 🧾 Contribution Rules
+## 🌐 Guiding Principles
 
-- Always follow the **Satoshium Style Guide** (`docs/style-guide.md`).
-- Every repo should comply with `CODEX` standards.
-- Files should be lowercase and hyphenated (e.g., `data-handler.ts`).
-- Keep pull requests atomic and purpose-driven.
-- Add comments and docstrings to new functions/modules.
+- **💡 Rule-first contributions** — Everything must be testable, verifiable, and auditable.
+- **📜 Clear over clever** — Prioritize logic that can be read, reused, and reasoned about.
+- **🧪 Trust through structure** — All contributions must uphold our protocol integrity and agent safety standards.
 
----
-
-## 🧱 Contribution Structure
-
-Each repository typically includes:
-- `/docs`: High-level and technical documentation
-- `/tests`: Unit tests and sample input/output
-- `/logs`: Historical metadata or agent activities
-- `/examples`: Live demonstrations or workflows
+> “We don't just write code. We codify principles.”
 
 ---
 
-## 📮 Submit a Pull Request
+## 🛠️ How to Contribute
 
-1. Open your PR against the appropriate `main` or `dev` branch.
-2. Include a detailed description.
-3. Link to any related issues.
-4. Include screenshots if UI changes were made.
-5. A member of the Satoshium team will review it soon.
+### 1. Fork and Clone
+
+```bash
+git clone https://github.com/YOUR-USERNAME/satoshium-REPO-NAME.git
+```
+
+### 2. Create a Branch
+
+Use descriptive branch names:
+
+```
+git checkout -b feat/add-agent-debrief
+```
+
+### 3. Make Your Changes
+
+Follow our style rules:  
+📄 Refer to `docs/style-guide.md` for formatting, emoji use, and file conventions.
+
+### 4. Commit Clearly
+
+Use this structure:
+
+```
+add: new trust score logic for profile audit
+fix: patch logic error in role pattern matching
+doc: update glossary with agent terms
+```
+
+### 5. Open a Pull Request
+
+- Keep it atomic (one focused change per PR)
+- Reference related issues (e.g., `Closes #42`)
+- Include a test plan or reasoning in the PR description
 
 ---
 
-## 🙏 Thank You
+## 📂 Where You Can Help
 
-Every contribution—large or small—helps grow this decentralized future.
+- 🧠 Improve agent logic (`/agents`)
+- 📚 Expand documentation (`/docs`)
+- 🔎 Test rule engines (`/tests`)
+- 🧪 Simulate edge cases (`/scenarios`)
+- 🧩 Refactor shared utilities (`/utils`)
 
-> *Satoshium is governed by cryptographic protocol, not personal command.*
+---
 
-Let’s build accordingly. 🧬
+## 🤖 Behavior Expectations
+
+- Respect time, structure, and contribution intent
+- Avoid debates without proposals
+- Uphold system legibility over ego-driven cleverness
+
+> “We build for the next dev. The next agent. The next generation.”
+
+Thank you for helping build Satoshium. 🧠⚙️ Your contributions fuel a transparent future.
