@@ -1,76 +1,68 @@
-# 🤝 Contributing to Satoshium
+# 🆘 Support & Escalation Guide
 
-Welcome to the Satoshium project! Whether you're here to build agents, write documentation, run tests, or challenge assumptions—we're glad to have you.
-
-This document outlines how to contribute in a structured, respectful, and agent-aligned way.
-
----
-
-## 🌐 Guiding Principles
-
-- **💡 Rule-first contributions** — Everything must be testable, verifiable, and auditable.
-- **📜 Clear over clever** — Prioritize logic that can be read, reused, and reasoned about.
-- **🧪 Trust through structure** — All contributions must uphold our protocol integrity and agent safety standards.
-
-> “We don't just write code. We codify principles.”
+Welcome to the Satoshium project support center.  
+This guide outlines how contributors, testers, and collaborators can seek help, report issues, or escalate concerns—without disrupting decentralized progress.
 
 ---
 
-## 🛠️ How to Contribute
+## 💬 General Questions
 
-### 1. Fork and Clone
+For quick questions or clarification about:
 
-```bash
-git clone https://github.com/YOUR-USERNAME/satoshium-REPO-NAME.git
-```
+- Project structure  
+- File locations  
+- Style or formatting rules  
+- Contribution etiquette
 
-### 2. Create a Branch
-
-Use descriptive branch names:
-
-```
-git checkout -b feat/add-agent-debrief
-```
-
-### 3. Make Your Changes
-
-Follow our style rules:  
-📄 Refer to `docs/style-guide.md` for formatting, emoji use, and file conventions.
-
-### 4. Commit Clearly
-
-Use this structure:
-
-```
-add: new trust score logic for profile audit
-fix: patch logic error in role pattern matching
-doc: update glossary with agent terms
-```
-
-### 5. Open a Pull Request
-
-- Keep it atomic (one focused change per PR)
-- Reference related issues (e.g., `Closes #42`)
-- Include a test plan or reasoning in the PR description
+Please open a **GitHub Discussion** or tag an open issue with the `question` label.
 
 ---
 
-## 📂 Where You Can Help
+## 🐞 Bug Reporting
 
-- 🧠 Improve agent logic (`/agents`)
-- 📚 Expand documentation (`/docs`)
-- 🔎 Test rule engines (`/tests`)
-- 🧪 Simulate edge cases (`/scenarios`)
-- 🧩 Refactor shared utilities (`/utils`)
+To report a bug:
+
+1. Open an Issue with the `bug` label  
+2. Include reproduction steps, logs, screenshots, or agent states  
+3. Mention the affected repository and context (e.g., `/interface`, `/agents`, `/core`)
+
+> 🚫 Please avoid vague reports like “it doesn’t work”—we’re a trust-layered project!
 
 ---
 
-## 🤖 Behavior Expectations
+## 🚨 Security or Protocol Violations
 
-- Respect time, structure, and contribution intent
-- Avoid debates without proposals
-- Uphold system legibility over ego-driven cleverness
+If you suspect:
 
-> “We build for the next dev. The next agent. The next generation.”
+- A security vulnerability  
+- Cryptographic misuse  
+- Broken trust assumptions  
+- Agent execution bypass  
+- Unauthorized logic injection
 
-Thank you for helping build Satoshium. 🧠⚙️ Your contributions fuel a transparent future.
+Please **do not** post publicly.
+
+🔒 Instead, email us directly:  
+📬 **security@satoshium.ai**
+
+We take these issues seriously and will acknowledge receipt within 72 hours.
+
+---
+
+## 📮 Project Maintainer Contact
+
+For project-wide concerns, contributor recognition, or philosophical escalation, contact:
+
+- **contact@satoshium.ai**
+
+We operate with asynchronous respect and cryptographic intent—please allow 3–5 days for non-urgent messages.
+
+---
+
+## 🙏 Final Notes
+
+We aim to create an ecosystem of clarity, accountability, and layered trust.
+
+> “In Satoshium, support isn’t about hierarchy—it’s about responsibility.”
+
+Thank you for being part of the mission. 🧠⚙️
