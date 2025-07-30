@@ -21,7 +21,7 @@ This document outlines how to contribute in a structured, respectful, and agent-
 ### 1. Fork and Clone
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/satoshium-REPO-NAME.git
+git clone https://github.com/YOUR-USERNAME/REPO-NAME.git
 ```
 
 ### 2. Create a Branch
