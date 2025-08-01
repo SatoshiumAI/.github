@@ -1,72 +1,50 @@
+# 🛟 Support
 
-# 🛠️ Support Guide for Satoshium (`.github`)
+Thanks for being part of the Satoshium project!
 
-Thank you for your interest in **Satoshium** — a decentralized intelligence infrastructure governed by Bitcoin.
-
-This `.github` repository contains global GitHub settings, issue templates, and shared documentation. If you're looking for help, you've come to the right place.
-
----
-
-## 🙋 Where to Get Help
-
-If you have questions, feedback, or need assistance contributing to the project, here are your best options:
-
-### 1. 📚 Documentation
-
-Start with our documentation and project overview:
-
-- [`readme.md`](../main/readme.md)
-- [`why.md`](../main/why.md)
-- Builder's Guide (in relevant repos)
-
-### 2. 🧵 GitHub Discussions *(Coming Soon)*
-
-Join or start a discussion to connect with other contributors and maintainers.
-
-### 3. 🐛 Issues
-
-If you've found a bug or have a feature request:
-
-- Go to the relevant repo
-- Check open issues first
-- Create a new issue if necessary, using the appropriate template
-
-### 4. ✉️ Contact Us Directly
-
-For private or sensitive matters:
-
-- Email: [dev@satoshium.ai](mailto:dev@satoshium.ai)
+This file outlines how to get help, report issues, and escalate concerns in any Satoshium repository.
 
 ---
 
-## 🧠 What We Support
+## 🔧 Need Help?
 
-We provide support for:
+If you’re stuck, have a question, or just need clarification:
 
-- Project structure, contribution workflows, and repo-specific questions
-- Bug reports, enhancements, and roadmap suggestions
-- Clarifications on project scope and vision
-- Contributor onboarding and best practices
-
----
-
-## 🚫 Out of Scope
-
-We do **not** provide support for:
-
-- Financial advice or token speculation
-- Projects unrelated to the Satoshium GitHub ecosystem
-- Technical support for third-party tools outside our scope
-- Requests outside the open-source mission
+- 🧠 Start by reviewing the `docs/` folder in this repository
+- 🔍 Search existing issues before opening a new one
+- 💬 You may also check if Discussions are enabled for this repo
 
 ---
 
-## 📝 Helpful Links
+## 🐛 Found a Bug?
 
-- 🌐 Website: [https://satoshium.ai](https://satoshium.ai)
-- 🐦 X (Twitter): [@SatoshiumAI](https://x.com/SatoshiumAI)
-- 📬 Email: [dev@satoshium.ai](mailto:dev@satoshium.ai)
+Please open a GitHub Issue and include:
+
+- ✅ A clear description of the bug
+- 📍 Steps to reproduce
+- 📷 Screenshots, logs, or stack traces if available
+- 💡 Any suggestions for a fix
 
 ---
 
-> “Support is not a service — it’s a shared mission. Governed by Bitcoin.” ✨
+## 🛡️ Security or Sensitive Issues?
+
+If you believe you've found a security flaw or protocol vulnerability:
+
+1. Do **not** open a public issue.
+2. Instead, email: **security@satoshium.ai**
+
+We take protocol safety and agent integrity seriously. You’ll receive a prompt, confidential response.
+
+---
+
+## 📬 Escalation Paths
+
+For unresolved concerns or sensitive project coordination:
+
+- 🧭 General Contact: **contact@satoshium.ai**
+- 🧠 Project Lead: [Christopher D Burris](https://github.com/cdburris)
+
+---
+
+> “Support isn’t just for problems—it’s how we stay aligned.” 🧭🤖
