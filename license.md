@@ -1,26 +1,53 @@
 
-# MIT License
+# 📄 License – Satoshium Project
 
-##Copyright (c) 2025 Satoshium Project Contributors
+This repository is part of the **Satoshium** decentralized intelligence infrastructure.  
+By contributing or using this code, you agree to the terms below.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy  
-of this software and associated documentation files (the "Software"), to deal  
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:
+---
 
-📜 The above copyright notice and this permission notice shall  
-be included in all copies or substantial portions of the Software.
+## ⚖️ License Type
 
-⚠️ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,  
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF  
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY  
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,  
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE  
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Unless otherwise specified, this repository is licensed under the:
 
-🧠 Built by the community for the decentralized future.
+**MIT License**
 
-🔗 Governed by Bitcoin. Powered by protocol. Fueled by purpose.
+This license allows:
+
+- ✅ Commercial use  
+- ✅ Modification  
+- ✅ Distribution  
+- ✅ Private use
+
+---
+
+## 📜 Terms and Conditions
+
+### 📌 Attribution
+
+You **must** include the original license and copyright notice
+in any copy or substantial portion of this software.
+
+### ⛔ Liability
+
+This software is provided “as is”, without warranty of any kind.  
+The Satoshium team is **not liable** for any damages or misuse.
+
+### 🔐 Security Assumptions
+
+All deployed agents and protocols must undergo independent review before production use.  
+Licensees are responsible for security testing within their own environments.
+
+---
+
+## 🧠 Summary
+
+> “Use it, fork it, build on it—but verify it.”
+
+You are free to build on this work—just make sure you understand its responsibilities.
+
+For any clarifications, email us at: **contact@satoshium.ai**
+
+---
+
+© 2025-present [Satoshium Contributors](https://github.com/satoshiumai)
