@@ -17,7 +17,9 @@ This file is intended for project maintainers and contributors to log major publ
 
 ### August 1, 2025
 **🎵 Satoshium Music Expansion + `.github/todo.md` Milestone** —
-The third music video in the Satoshium series, _Rise of the Signal_, was released, continuing the narrative of decentralized agents governed by Bitcoin. In parallel, `.github/todo.md` Task #3 was completed—standardizing `readme.md` and `license.md` files across all repositories.
+The third music video in the Satoshium series, Rise of the Signal, was released, continuing the narrative of decentralized agents governed by Bitcoin. Visual scenes, lyrics, and symbolic direction were shaped to reflect the transition from black-box AI to cryptographic transparency. YouTube debut: [Rise of the Signal](https://youtu.be/ZiM4jTuXbfI). 
+
+In parallel, `.github/todo.md` Task #3 was completed—standardizing `readme.md` and `license.md` files across all repositories.
 
 ---
 
@@ -26,13 +28,6 @@ The third music video in the Satoshium series, _Rise of the Signal_, was release
 **🏛️ U.S. Government Releases Digital Asset Strategy Report** —
 The White House issued its long-awaited digital assets report under Executive Order 14178, outlining regulatory pathways and acknowledging Bitcoin's role as a long-term sovereign-grade asset. The Satoshium project will incorporate insights from the report into upcoming trust and governance modules.
 
-
----
-
-
-### July 28, 2025
-**🧠 Music Video #3 Released: Rise of the Signal** —
-Published third Satoshium music video, focusing on decentralized AI agents governed by protocol. Visual scenes, lyrics, and symbolic direction were shaped to reflect the transition from black-box AI to cryptographic transparency. YouTube debut: [Rise of the Signal](https://youtu.be/ZiM4jTuXbfI). 
 
 ---
 
