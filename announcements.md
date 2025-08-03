@@ -72,6 +72,12 @@ Initial short-term game concepts have been drafted to explore creative ways to s
 
 ---
 
+### June 26, 2025
+**🎵 First Satoshium Music Video Released: Protocol Horizon** —
+The debut song Protocol Horizon was published on YouTube, launching the official music narrative of the Satoshium project. The video introduces the concept of AI governed by Bitcoin, setting the tone for the series that blends cryptographic truth with sound and storytelling. YouTube debut: [Protocol Horizon](https://youtu.be/7clb8kK6yaM)
+
+---
+
 ## 🔄 Update Policy
 
 Update this file whenever the project reaches:
