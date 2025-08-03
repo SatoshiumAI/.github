@@ -1,4 +1,3 @@
-
 # 🛡️ Satoshium Risk Model
 
 This document outlines the primary risk domains facing the Satoshium project and the mitigation strategies in place to ensure system integrity, resilience, and trustworthiness.
