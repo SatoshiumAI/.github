@@ -1,4 +1,3 @@
-
 # 🕵️ Disclosure Policy
 
 At **Satoshium**, we believe in open collaboration, responsible transparency, and ethical behavior.  
