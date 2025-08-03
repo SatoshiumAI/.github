@@ -1,4 +1,3 @@
-
 # 🧭 Satoshium — Design Philosophy
 
 Satoshium is not a product. It’s a proposition.
