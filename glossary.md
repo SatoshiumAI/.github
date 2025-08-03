@@ -1,4 +1,3 @@
-
 # 📘 Glossary of Terms
 
 This glossary defines key concepts and standardized terminology used throughout the **Satoshium** ecosystem. Each entry below is foundational to understanding the structure, logic, and mission of the decentralized intelligence infrastructure we are building.
