@@ -1,5 +1,3 @@
-
-
 # 🌟 Why Satoshium?
 
 > "Because the world doesn't need another centralized AI—it needs a decentralized intelligence protocol governed by Bitcoin."
