@@ -57,15 +57,6 @@ This roadmap outlines the phased development of the Satoshium project—our dece
 
 ---
 
-## 🧭 Contribute or Follow Along
-
-We welcome code, feedback, ideas, or just watchful observers. Feel free to:
-
-- ⭐ Star and Watch key repositories
-- 📬 Open Issues or Pull Requests
-- 🧠 Suggest use cases or join scenarios
-- 🛠️ Propose internal or external agents
-
 > For questions, email us at: [contact@satoshium.ai](mailto:contact@satoshium.ai)
 
 ---
