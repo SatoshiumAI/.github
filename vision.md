@@ -1,4 +1,3 @@
-
 # 🌌 Vision for Satoshium
 
 > *"The future of intelligence isn't controlled. It's coordinated."*
@@ -37,4 +36,3 @@ This repository may serve both public-facing documentation and internal planning
 ## 🌐 Join the Journey
 
 Whether you're a developer, researcher, or just curious—Satoshium welcomes participation. Fork, clone, contribute—or just follow along as we build the next generation of decentralized intelligence.
-
