@@ -1,4 +1,3 @@
-
 # 🤝 Code of Conduct
 
 ## Our Commitment
@@ -14,7 +13,7 @@ We are committed to fostering an open and respectful community. All contributors
 
 ## Unacceptable Behavior
 
-- Discrimination, harassment, or exclusionary behavior
+- Discrimination or harassment behavior
 - Personal attacks or derogatory comments
 - Trolling, spamming, or deliberate disruption of discussions
 - Publishing others' private information without consent
