@@ -1,4 +1,3 @@
-
 # 🎯 Satoshium — Mission Statement
 
 **Satoshium** exists to explore a single question:
