@@ -1,4 +1,3 @@
-
 # 🌐 Contributors to Satoshium
 
 We recognize and thank the individuals helping build **Satoshium** — a decentralized intelligence protocol governed by Bitcoin.
