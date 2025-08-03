@@ -1,4 +1,3 @@
-
 # 🔐 Security Policy
 
 At **Satoshium**, the integrity of our code and the safety of our contributors and users are top priorities. We actively monitor, respond to, and resolve any reported security issues across all repositories.
