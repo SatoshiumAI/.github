@@ -1,4 +1,3 @@
-
 # 👁️ First Look at Satoshium
 
 Welcome to **Satoshium** — a decentralized intelligence protocol governed by Bitcoin.
