@@ -1,4 +1,3 @@
-
 # 🌐 Satoshium Principles
 
 At Satoshium, our guiding principles are more than philosophy — they are protocol.
