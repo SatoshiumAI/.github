@@ -1,4 +1,3 @@
-
 # ❓ Frequently Asked Questions (FAQ)
 
 This file addresses common questions about the Satoshium project and its GitHub repository structure.  
@@ -70,4 +69,3 @@ Open an issue or reach out via discussions in the `satoshium-interface` repo.
 
 This FAQ is updated as new contributors join and new questions arise.  
 Feel free to submit PRs with suggested clarifications or additions.
-
