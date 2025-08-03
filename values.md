@@ -1,4 +1,3 @@
-
 # 🌱 Our Values
 
 At **Satoshium**, we strive to build decentralized intelligence governed by cryptographic truth. These core values serve as the compass for our technology, our community, and our future.
