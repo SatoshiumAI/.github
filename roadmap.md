@@ -1,34 +1,40 @@
+# 🗺️ Satoshium Roadmap
 
-# 🚀 Satoshium: Public Roadmap
-
-Welcome to the **Satoshium Public Roadmap** — a high-level glimpse into the evolution of our decentralized intelligence ecosystem. This roadmap is meant for **public visibility only** and does **not** reflect internal governance votes or private development branches.
-
-> ⚠️ **Important**: If you are viewing this in a public repository, know that this roadmap may intentionally exclude certain experimental or strategic features. For the full vision, internal contributors should refer to protected planning channels.
+This roadmap outlines the phased development of the Satoshium project—our decentralized AI infrastructure governed by Bitcoin-based protocols. Each phase builds upon the previous, forming a cohesive evolution from foundation to deployment.
 
 ---
 
-## 📅 2025–2026 Roadmap Overview
+### ✅ **Phase 0 – Genesis & Vision**  
+*Status: Completed (May 2025)*
 
-### ✅ **Phase 1 – Infrastructure Foundation**  
-*Status: Complete (January – June 2025)*
+- 🧠 Defined core philosophy: Agents that follow **rules, not rulers**
+- 📜 Drafted the initial **Satoshium Manifesto**
+- 🏗️ Created foundational GitHub structure across 20+ repositories
 
-- 🌐 Launched foundational repositories (core, UI, agents, interface)
-- 📚 Established protocol docs, governance files, and contributor standards
-- 🔐 Completed CODEX audit for all core and auxiliary repositories
-- 🧠 Finalized internal agent architecture (`system-maintainer`, `audit-helper`, `template-builder`, `doc-writer`)
-- 📦 Created first backup snapshot (C:/satoshium/bu2025-06-28)
+---
+
+### 🚧 **Phase 1 – Architecture & Foundations**  
+*Status: Completed (June – July 2025)*
+
+- 🧱 Built core modules: `satoshium-core`, `satoshium-interface`, `satoshium-devtools`
+- 📦 Structured standardized `/docs`, `/specs`, and `.github/` folders across all repos
+- 🧪 Conducted full CODEX audit for consistency and security
+- 🧠 Launched music videos to emotionally communicate the mission:
+  - `Protocol Horizon` (June 26, 2025)
+  - `Echoes of Genesis` (July 17, 2025)
+  - `Rise of the Signal` (August 1, 2025)
 
 ---
 
 ### 🛠️ **Phase 2 – Utility & Modularity**  
-*Status: In Progress (June – October 2025)*
+*Status: In Progress (August – October 2025)*
 
 - 🧩 Develop reusable utility modules: encryption, messaging, simulation
 - 🧪 Introduce consistent testing frameworks across repos
 - 📁 Formalize scenario-based testing under `satoshium-scenarios`
 - 🧭 Deploy internal operational agents (e.g., `repo-ops-agent`)
 - 💾 Expand structured `/docs` and `/specs` across repos
-- 🔐 Begin public-facing GitHub `.github` polish (this file is part of that!)
+- 🔐 Finalize public-facing GitHub `.github` polish (including roadmap, contributions, announcements)
 
 ---
 
