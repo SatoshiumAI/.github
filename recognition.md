@@ -1,4 +1,3 @@
-
 # 🌟 Recognition
 
 > "In decentralized systems, recognition isn’t requested — it's earned."
