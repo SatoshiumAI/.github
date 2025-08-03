@@ -1,4 +1,3 @@
-
 # 🌐 Community Guidelines
 
 Welcome to the Satoshium Community! We're building a decentralized intelligence protocol together — one contribution, one conversation, and one block at a time. To maintain a healthy and productive environment, we ask all participants to follow these guidelines.
