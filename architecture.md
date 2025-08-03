@@ -1,4 +1,3 @@
-
 # 🏗️ Architecture
 
 This document outlines the high-level structure and key architectural decisions that shape the Satoshium ecosystem. It serves as a source of truth for contributors seeking to understand how the protocol is structured, how its components interact, and why certain design principles were chosen.
