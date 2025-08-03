@@ -1,4 +1,3 @@
-
 # 📄 License – Satoshium Project
 
 This repository is part of the **Satoshium** decentralized intelligence infrastructure.  
