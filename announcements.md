@@ -26,8 +26,7 @@ In parallel, `.github/todo.md` Task #3 was completed—standardizing `readme.md`
 
 ### July 30, 2025
 **🏛️ U.S. Government Releases Digital Asset Strategy Report** —
-The White House issued its long-awaited digital assets report under Executive Order 14178, outlining regulatory pathways and acknowledging Bitcoin's role as a long-term sovereign-grade asset. The Satoshium project will incorporate insights from the report into upcoming trust and governance modules.
-
+The White House issued its long-awaited digital assets report under Executive Order 14178, outlining regulatory pathways and acknowledging Bitcoin's role as a long-term sovereign-grade asset. The Satoshium project will incorporate insights from the report into upcoming trust and governance modules. Link to [Official Report](https://www.whitehouse.gov/wp-content/uploads/2025/07/Digital-Assets-Report-EO14178.pdf)
 
 ---
 
