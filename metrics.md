@@ -1,4 +1,3 @@
-
 # 📊 Project Metrics
 
 Welcome to the **Satoshium Metrics Dashboard** — a space where transparency meets growth.  
@@ -43,4 +42,3 @@ All metrics gathering tools adhere to open-source observability standards.
 
 Want to suggest a new metric or provide feedback on tracking methods?  
 Open an issue or drop a note in the `community.md` file. We’re building this together — and learning as we go.
-
