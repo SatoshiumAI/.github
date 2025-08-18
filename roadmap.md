@@ -56,7 +56,7 @@ This roadmap outlines the phased development of the Satoshium project — our de
 ---
 
 ### 🌐 **Phase 3 – Simulation & Certification**  
-*Status: Planned (November – December 2025)*
+*Status: Planned (August – September 2026)*
 
 - 🧬 Launch multi-agent simulations within `satoshium-simulations`
 - ✅ Create certification standards via `satoshium-certifier`
@@ -65,7 +65,7 @@ This roadmap outlines the phased development of the Satoshium project — our de
 ---
 
 ### 🌎 **Phase 4 – Network Readiness & Engagement**  
-*Status: Forecasted (2026)*
+*Status: Forecasted (October - December 2026)*
 
 - 🔗 Connect decentralized agents to live endpoints and data streams
 - 🌱 Recruit aligned contributors, reviewers, and node operators
