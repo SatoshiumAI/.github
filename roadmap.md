@@ -27,7 +27,7 @@ This roadmap outlines the phased development of the Satoshium project — our de
 ---
 
 ### 🚧 **Phase 2 – Utility & Modularity**  
-*Status: In Progress (August – October 2025)*
+*Status: In Progress (August 2025)*
 
 - 🧩 Develop reusable utility modules: encryption, messaging, simulation
 - 🧪 Introduce consistent testing frameworks across repos
