@@ -47,7 +47,7 @@ Updated on **2025-08-18**.
 - **Oct 2025** — *EchoBot* (message relay + memory): retention windows, integrity checks, mirror logging
 - **Nov 2025** — *SayNoBot* (rejection & compliance): category‑aware refusals, severity gating
 - **Dec 2025** — *GuardianNet* (impersonation & escalation): high‑severity routes, alerting
-- **Jan 2025** — *CertifierBot* (rules validation): scoring pipelines, report schema
+- **Jan 2026** — *CertifierBot* (rules validation): scoring pipelines, report schema
 - **Feb–Jul 2026** — subsequent domain agents per roadmap; each must ship with scenarios, metrics, and replayable logs
 
 > Each agent deliverable = **spec → minimal agent → scenarios → metrics → mirror logs → (optional) certifier hook**.
