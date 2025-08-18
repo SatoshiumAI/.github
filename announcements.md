@@ -13,6 +13,26 @@ This file is intended for project maintainers and contributors to log major publ
 
 ## 📅 Recent Announcements
 
+**August 17, 2025**  
+🗺️ **Roadmap Expansion — AI Agent Development Schedule Added**  
+The Satoshium roadmap has been updated to include a **month-by-month bot development plan** starting August 2025 through July 2026.  
+This schedule ensures transparent, incremental progress across 12 dedicated AI agents, each focused on a unique domain:  
+
+- August 2025 — Principle-in-Action Agent (ethics + verification)  
+- September 2025 — EchoBot (message relay + memory)  
+- October 2025 — SayNoBot (rejection & compliance enforcement)  
+- November 2025 — LedgerBot (transaction & hashing focus)  
+- December 2025 — PolicyBot (decision + governance modeling)  
+- January 2026 — CertifierBot (testing & certification)  
+- February 2026 — ScenarioBot (simulation scaffolding)  
+- March 2026 — SecurityBot (threat models + enforcement)  
+- April 2026 — MetricsBot (performance + trust scoring)  
+- May 2026 — JournalBot (record-keeping + logging)  
+- June 2026 — OpsBot (repo maintenance + CI/CD)  
+- July 2026 — NetworkBot (real-world integration trials)  
+
+This marks the official extension of **Phase 2 (Utility & Modularity)** into a concrete agent-driven development path.  
+
 ---
 
 ### August 1, 2025
