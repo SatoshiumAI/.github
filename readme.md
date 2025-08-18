@@ -58,3 +58,6 @@ Satoshium is ideal for:
 
 > “Not a startup. Not a DAO.  
 > A living protocol built on truth.” ⚡
+
+---
+Last update: **August 17, 2025**
