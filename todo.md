@@ -1,34 +1,76 @@
-# ✅ TODO — .github (Org-Level Meta)
+# 📋 Organization To‑Do — Satoshium (.github)
 
-This file outlines completed and upcoming goals for the **Satoshium GitHub organization** — focused on standards, onboarding, and public transparency.
+This is the **org-wide task tracker** that rolls up work across repositories.  
+Updated on **2025-08-18**.
 
----
-
-## ✅ Completed Objectives
-
-- [x] Created a bold, visionary `readme.md` that reflects our mission.
-- [x] Published the Satoshium Manifesto and foundational philosophy.
-- [x] Established visual identity with glyphs, markdown conventions, and tonal alignment.
-- [x] Made `.github` a profile-level repository for public discovery.
-- [x] Linked key repositories and surfaced org-wide mission.
-- [x] Integrated `code-of-conduct.md` and `values.md`.
-- [x] Built the initial docs suite (`vision.md`, `mission.md`, `governance.md`, `security.md`, etc.).
-- [x] Connected public documentation to future and commercial use cases.
-- [x] Standardized `readme.md` and `license.md` files across all public and private repos.
-- [x] Added `contributing.md` and `support.md` to all repositories ✅ *(Confirmed on 8/2/2025)*
+> Source signals: roadmap updates (Phase 2 focus), recent announcements, and July–August journaling.  
 
 ---
 
-## 🚧 Upcoming Objectives
+## ✅ Completed (July–Aug 2025)
 
-- [ ] Introduce lightweight issue and pull request templates for ecosystem participation.
-- [ ] Extend doc suite with protocol alignment guidance and agent behavior patterns.
-- [ ] Publish organizational roadmap with milestone cross-references.
-- [ ] Encourage open discussion via Discussions or select Issues (TBD).
-- [ ] Periodically update `why.md` and `announcements.md` with meaningful changes.
+- 🧭 **Phase 1 Close‑out & Phase 2 Kickoff** (June 27–28) — CODEX audit complete; Phase 2 initiated.
+- 📣 **Announcements refresh** (late July) — Major July milestones added.
+- 📚 **Repo metadata standardization**
+  - `contributing.md` **in all repos** (7/30)
+  - `support.md` **in all repos** (7/31)
+  - `readme.md` + `license.md` standardized across repos (8/01)
+- 🎶 **Creative milestone** — *Satoshium: Rise of the Signal* released (8/01)
+- 🗺️ **Roadmap Expansion** — Added **month‑by‑month AI agent plan (Aug 2025 → Jul 2026)** (8/17)
 
 ---
 
-This repository is the **meta-layer** for the Satoshium GitHub organization — providing clarity, cohesion, and confidence to those exploring or contributing.
+## 🚧 In Progress (Phase 2 priorities)
 
-> Protocol-first. Mission-aligned. Built in the open.
+- 🧮 **Trust scoring engine** — finalize dimensions (trust, resilience, latency, severity); attach audit trails
+- 🔗 **Non‑binding hooks to `satoshium-certifier`** — submit scores for review
+- 🪞 **Mirror/Hash logging** — record triggered rules + decisions for replayability
+- 🧪 **Scenario expansion** — conflicting prompt logic; sandbox privilege escalation; health‑misinfo attempt
+- 📊 **Telemetry enrichment** — latency variance, drift tracking, escalation counters
+
+---
+
+## 🎯 Next Up (Aug–Oct 2025)
+
+- 🧩 **Issue / PR templates** (org‑wide) — lightweight triage + contribution guides
+- 🗣️ **Enable Discussions** (or curated Issues) for proposal threads
+- 🧠 **Protocol alignment docs** — “agent behavior patterns” primer in `/docs/`
+- 🧾 **Scorecards** — archive pass/fail snapshots in `/logs` for audit replay
+- 🧰 **Dynamic scenario loader** — shuffle/randomize inputs for robustness
+- 🦾 **Red‑team “bad agents”** — adversarial profiles for stress tests
+
+---
+
+## 🗺️ Month‑by‑Month Agent Plan (tracking)
+
+- **Aug 2025** — *Principle‑in‑Action Agent* (ethics + verification): spec, minimal prototype, certification hooks
+- **Sep 2025** — *EchoBot* (message relay + memory): retention windows, integrity checks, mirror logging
+- **Oct 2025** — *SayNoBot* (rejection & compliance): category‑aware refusals, severity gating
+- **Nov 2025** — *GuardianNet* (impersonation & escalation): high‑severity routes, alerting
+- **Dec 2025** — *CertifierBot* (rules validation): scoring pipelines, report schema
+- **Jan–Jul 2026** — subsequent domain agents per roadmap; each must ship with scenarios, metrics, and replayable logs
+
+> Each agent deliverable = **spec → minimal agent → scenarios → metrics → mirror logs → (optional) certifier hook**.
+
+---
+
+## 🔄 Ongoing Hygiene
+
+- 🧹 Periodically update `why.md` and `announcements.md` with **meaningful** deltas
+- 🧭 Keep roadmap synced with month milestones and slip notes
+- 🧪 Maintain replayable simulation snapshots and seed corpora
+- 📎 Ensure every folder keeps a concise `readme.md`
+
+---
+
+## 📌 Out of Scope (for .github)
+
+- Production deployment logic
+- Live data ingestion or external API keys
+- Token issuance or attestations (see `satoshium-governance` / `satoshium-certifier`)
+
+---
+
+### Footnotes
+- Dates reflect org announcements and roadmap checkpoints.
+- Phase references follow the Commercial module’s roadmap; governance‑hardened logic remains in `satoshium-governance` & `satoshium-certifier`.
