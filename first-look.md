@@ -52,3 +52,7 @@ If you’re unsure where to begin, the following docs may guide you:
 This isn’t just code. It’s a statement.  
 Satoshium stands for verifiable intelligence — where agents think not by influence, but by **protocol**.  
 Let’s build the future together.
+
+---
+
+Last Updated: **August 17, 2025**
