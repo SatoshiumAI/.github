@@ -1,6 +1,6 @@
 # 🗺️ Satoshium Roadmap
 
-This roadmap outlines the phased development of the Satoshium project—our decentralized AI infrastructure governed by Bitcoin-based protocols. Each phase builds upon the previous, forming a cohesive evolution from foundation to deployment.
+This roadmap outlines the phased development of the Satoshium project — our decentralized AI infrastructure governed by Bitcoin-based protocols. Each phase builds upon the previous, forming a cohesive evolution from foundation to deployment. It also now includes a month-by-month schedule of dedicated AI agents.
 
 ---
 
@@ -13,7 +13,7 @@ This roadmap outlines the phased development of the Satoshium project—our dece
 
 ---
 
-### 🚧 **Phase 1 – Architecture & Foundations**  
+### ✅ **Phase 1 – Architecture & Foundations**  
 *Status: Completed (June – July 2025)*
 
 - 🧱 Built 20+ core modules: `satoshium-core`, `satoshium-interface`, `satoshium-devtools`
@@ -26,7 +26,7 @@ This roadmap outlines the phased development of the Satoshium project—our dece
 
 ---
 
-### 🛠️ **Phase 2 – Utility & Modularity**  
+### 🚧 **Phase 2 – Utility & Modularity**  
 *Status: In Progress (August – October 2025)*
 
 - 🧩 Develop reusable utility modules: encryption, messaging, simulation
@@ -35,6 +35,23 @@ This roadmap outlines the phased development of the Satoshium project—our dece
 - 🧭 Deploy internal operational agents (e.g., `repo-ops-agent`)
 - 💾 Expand structured `/docs` and `/specs` across repos
 - 🔐 Finalize public-facing GitHub `.github` polish (including roadmap, contributions, announcements)
+
+---
+
+### 🤖 **Monthly Bot Development Schedule (Phase 2 Extension)**
+
+- 📅 August 2025 – Principle-in-Action Agent (ethics + verification)
+- 📅 September 2025 – EchoBot (message relay + memory)
+- 📅 October 2025 – SayNoBot (rejection & compliance enforcement)
+- 📅 November 2025 – LedgerBot (transaction & hashing focus)
+- 📅 December 2025 – PolicyBot (decision + governance modeling)
+- 📅 January 2026 – CertifierBot (testing & certification)
+- 📅 February 2026 – ScenarioBot (simulation scaffolding)
+- 📅 March 2026 – SecurityBot (threat models + enforcement)
+- 📅 April 2026 – MetricsBot (performance + trust scoring)
+- 📅 May 2026 – JournalBot (record-keeping + logging)
+- 📅 June 2026 – OpsBot (repo maintenance + CI/CD)
+- 📅 July 2026 – NetworkBot (real-world integration trials)
 
 ---
 
