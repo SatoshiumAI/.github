@@ -40,23 +40,23 @@ This roadmap outlines the phased development of the Satoshium project — our de
 
 ### 🤖 **Monthly Bot Development Schedule (Phase 2 Extension)**
 
-- 📅 August 2025 – Principle-in-Action Agent (ethics + verification)
-- 📅 September 2025 – EchoBot (message relay + memory)
-- 📅 October 2025 – SayNoBot (rejection & compliance enforcement)
-- 📅 November 2025 – LedgerBot (transaction & hashing focus)
-- 📅 December 2025 – PolicyBot (decision + governance modeling)
-- 📅 January 2026 – CertifierBot (testing & certification)
-- 📅 February 2026 – ScenarioBot (simulation scaffolding)
-- 📅 March 2026 – SecurityBot (threat models + enforcement)
-- 📅 April 2026 – MetricsBot (performance + trust scoring)
-- 📅 May 2026 – JournalBot (record-keeping + logging)
-- 📅 June 2026 – OpsBot (repo maintenance + CI/CD)
-- 📅 July 2026 – NetworkBot (real-world integration trials)
+- 📅 September 2025 – Principle-in-Action Agent (ethics + verification)
+- 📅 October 2025 – EchoBot (message relay + memory)
+- 📅 November 2025 – SayNoBot (rejection & compliance enforcement)
+- 📅 December 2025 – LedgerBot (transaction & hashing focus)
+- 📅 January 2026 – PolicyBot (decision + governance modeling)
+- 📅 February 2026 – CertifierBot (testing & certification)
+- 📅 March 2026 – ScenarioBot (simulation scaffolding)
+- 📅 April 2026 – SecurityBot (threat models + enforcement)
+- 📅 May 2026 – MetricsBot (performance + trust scoring)
+- 📅 June 2026 – JournalBot (record-keeping + logging)
+- 📅 July 2026 – OpsBot (repo maintenance + CI/CD)
+- 📅 August 2026 – NetworkBot (real-world integration trials)
 
 ---
 
 ### 🌐 **Phase 3 – Simulation & Certification**  
-*Status: Planned (August – September 2026)*
+*Status: Planned (September – October 2026)*
 
 - 🧬 Launch multi-agent simulations within `satoshium-simulations`
 - ✅ Create certification standards via `satoshium-certifier`
@@ -65,7 +65,7 @@ This roadmap outlines the phased development of the Satoshium project — our de
 ---
 
 ### 🌎 **Phase 4 – Network Readiness & Engagement**  
-*Status: Forecasted (October - December 2026)*
+*Status: Forecasted (November - December 2026)*
 
 - 🔗 Connect decentralized agents to live endpoints and data streams
 - 🌱 Recruit aligned contributors, reviewers, and node operators
