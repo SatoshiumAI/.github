@@ -1,7 +1,7 @@
 # 📋 Organization To‑Do — Satoshium (.github)
 
 This is the **org-wide task tracker** that rolls up work across repositories.  
-Updated on **2025-08-18**.
+Updated on **2025-08-17**.
 
 > Source signals: roadmap updates (Phase 2 focus), recent announcements, and July–August journaling.  
 
