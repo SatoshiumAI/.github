@@ -1,7 +1,7 @@
 # 🔐 Security Policy
 
 ⚠️ **Project Pause Notice**  
-As of **September 4, 2025**, the Satoshium project is temporarily on hold.  
+As of **September 27, 2025**, the Satoshium project is temporarily on hold.  
 While active development is paused, we remain committed to handling any **serious security disclosures** responsibly. Please continue to follow the instructions below for reporting vulnerabilities.
 
 ---
