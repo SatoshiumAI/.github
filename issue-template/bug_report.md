@@ -1,3 +1,6 @@
+⚠️ Project Pause Notice  
+Satoshium is temporarily on hold as of September 27, 2025.  
+New issues and feature requests are not being accepted until development resumes. 
 ---
 name: 🐞 Bug Report
 about: Report a bug to help us improve Satoshium
