@@ -1,7 +1,7 @@
 # 🤝 Contributing to Satoshium
 
-⚠️ **Project Status Update (September 4, 2025)**  
-The Satoshium project is currently on **temporary pause** due to personal circumstances.  
+⚠️ **Project Status Update (September 27, 2025)**  
+The Satoshium project is currently on **temporary pause**.  
 Active development and contributions are on hold until further notice.  
 
 This is not the end of the project—contributions will reopen once work resumes.  
