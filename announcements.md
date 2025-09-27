@@ -10,6 +10,14 @@ This file is intended for project maintainers and contributors to log major publ
 
 # 📅 Recent Announcements  
 
+## September 4, 2025  
+⏸️ Temporary Pause — The Satoshium project is currently on hold.  
+For personal reasons, active development is paused until further notice.  
+This is not the end of the project; progress will resume once circumstances allow.  
+
+🔒 Note: This announcement is public-facing to inform contributors and visitors.  
+Internal work (such as Principle-in-Action Agent development) is paused alongside.  
+
 ## September 3, 2025  
 ⚙️ Internal PIAA Progress — Development work continued on the Principle-in-Action Agent (ethics + verification).  
 This session included:  
