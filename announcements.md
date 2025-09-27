@@ -12,7 +12,7 @@ This file is intended for project maintainers and contributors to log major publ
 
 ## September 27, 2025  
 ⏸️ Temporary Pause — The Satoshium project is currently on hold.  
-For personal reasons, active development is paused until further notice.  
+Active development is paused until further notice.  
 
 This is not the end of the project; progress will resume once circumstances allow.  
 Community members and contributors are encouraged to stay connected, as updates will be shared here once development resumes.  
