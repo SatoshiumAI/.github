@@ -10,10 +10,12 @@ This file is intended for project maintainers and contributors to log major publ
 
 # 📅 Recent Announcements  
 
-## September 4, 2025  
+## September 27, 2025  
 ⏸️ Temporary Pause — The Satoshium project is currently on hold.  
 For personal reasons, active development is paused until further notice.  
+
 This is not the end of the project; progress will resume once circumstances allow.  
+Community members and contributors are encouraged to stay connected, as updates will be shared here once development resumes.  
 
 🔒 Note: This announcement is public-facing to inform contributors and visitors.  
 Internal work (such as Principle-in-Action Agent development) is paused alongside.  
