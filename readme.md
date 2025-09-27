@@ -1,5 +1,5 @@
 ⏸️ Project Status: Temporary Pause
-For personal reasons, active development of Satoshium is currently paused (as of September 4, 2025).  
+For personal reasons, active development of Satoshium is currently paused (as of September 27, 2025).  
 This is **not the end of the project** — work will resume once circumstances allow.  
 
 ---
