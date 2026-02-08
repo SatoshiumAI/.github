@@ -1,93 +1,128 @@
+# 🧭 Governance — Satoshium
 
-# 🧭 Governance Overview
+Satoshium is being built as a long-term public project focused on verifiable systems, Bitcoin-aligned intelligence, and durable digital infrastructure.
 
-Satoshium follows a decentralized, transparent, and open governance model aligned with its mission: **AI governed by protocol, not politics.**
+Governance during this phase is intentionally simple, transparent, and steady.
 
----
-
-## 🎯 Purpose
-
-This document outlines the principles, structure, and participation pathways in the governance of the Satoshium project. It serves as both a reference and a living document that evolves with community contributions and agent-based audit cycles.
+The goal is clarity and continuity — not complexity.
 
 ---
 
-## 🏛️ Governance Principles
+## 🎯 Purpose of Governance
 
-1. **Decentralization First** – No single entity controls the project direction.
-2. **Transparency** – All decisions, proposals, and changes are logged, auditable, and public.
-3. **Protocol over Preference** – Agents follow protocol; humans follow process.
-4. **Reproducibility** – All decisions must be documented with enough clarity to be reproducible by another party.
-5. **Agent Oversight** – Specialized internal agents assist with audits, metrics, and policy enforcement.
+Governance within Satoshium exists to ensure:
 
----
+- consistent direction  
+- architectural integrity  
+- clear documentation  
+- responsible evolution  
+- long-term sustainability  
 
-## 👥 Roles and Participation
-
-| Role               | Description                                                                  |
-|--------------------|------------------------------------------------------------------------------|
-| Core Contributor   | Maintains repos, writes documentation, and builds core features              |
-| Agent Architect    | Designs and implements internal agent logic and lifecycle                    |
-| Community Member   | Proposes changes, reports issues, participates in discussions                |
-| CODEX Reviewer     | Reviews structure, style, and compliance with internal audit standards       |
-| Maintainer         | Has commit access and merges approved pull requests                         |
+It provides structure for decision-making while preserving flexibility as the ecosystem develops.
 
 ---
 
-## 🗳️ Proposal Process
+## 🧱 Current Governance Model (Phase003)
 
-1. **Issue** – Anyone may open a GitHub issue labeled `proposal`.
-2. **Discussion** – Community discussion period of minimum 7 days.
-3. **Draft** – Pull request with a markdown file placed in `/proposals/`.
-4. **Agent Review** – Internal agents check for consistency, metadata, and audit status.
-5. **Approval** – Maintainer and/or quorum approves merge.
-6. **Log** – Entry is logged in `/logs/` with timestamp and hash.
+Satoshium currently operates under a **founder-led, transparent public build model**.
 
----
+This means:
 
-## 🔁 Change Management
+- Direction is guided by the project's creator and maintainer  
+- All development occurs publicly through documentation and repositories  
+- Changes are visible, trackable, and intentional  
+- Feedback is welcomed and considered thoughtfully  
+- Complexity is introduced only when necessary  
 
-All modifications to key governance, architecture, or protocol documents must:
-
-- Be proposed via PR
-- Undergo internal agent review
-- Be CODEX-auditable
-- Include a rationale, risk assessment, and metadata
+This structure allows the project to mature without premature decentralization or governance overhead.
 
 ---
 
-## 🤖 Agent Involvement
+## 🧠 Guiding Principles
 
-Governance-related internal agents include:
+All governance decisions align with core Satoshium principles:
 
-- `policy-watcher`
-- `codex-reviewer`
-- `log-indexer`
-- `proposal-validator`
-- `metadata-inspector`
+### Clarity over complexity  
+Decisions should improve understanding and usability.
 
----
+### Transparency over opacity  
+Changes and direction remain visible to observers.
 
-## 🔒 Voting Logic (Future)
+### Durability over speed  
+Long-term usefulness matters more than rapid expansion.
 
-A tokenless, weighted-reputation system may be introduced in future versions, based on:
+### Structure over improvisation  
+Systems evolve intentionally rather than reactively.
 
-- Contribution volume
-- CODEX compliance history
-- Proposal acceptance rate
-- Agent review alignment
+### Contribution over control  
+Future participation will be welcomed as the foundation stabilizes.
 
 ---
 
-## 🧠 Evolution Path
+## 🔄 How Decisions Are Made
 
-Governance in Satoshium is not static—it is intended to evolve:
+At this stage, decisions typically occur through:
 
-- Quarterly snapshots of decision logs
-- Proposal retrospectives and reversal logic
-- Simulation of governance experiments via `satoshium-simulations`
+1. Research and exploration  
+2. Documentation and architectural review  
+3. Practical testing or implementation  
+4. Public release or update  
+5. Ongoing refinement  
+
+Major structural changes are made carefully to preserve continuity.
 
 ---
 
-## 📬 Contact
+## 🤝 Future Participation
 
-For governance-related inquiries, contact the maintainers or open an issue labeled `governance`.
+As Satoshium matures, governance may expand to include:
+
+- structured contributor pathways  
+- documentation review participation  
+- testing and simulation feedback  
+- research collaboration  
+- modular development contributions  
+
+Clear contribution and governance expansion guidelines will be introduced when appropriate.
+
+Premature complexity is intentionally avoided.
+
+---
+
+## 🧩 What Governance Is Not (Right Now)
+
+Satoshium governance is **not currently**:
+
+- token-based  
+- DAO-controlled  
+- vote-driven  
+- reputation-scored  
+- automated by agents  
+
+These models may be explored conceptually or experimentally in the future, but they are not required for the current build phase.
+
+---
+
+## 🔭 Long-Term Direction
+
+Over time, governance may evolve toward:
+
+- structured contributor coordination  
+- transparent proposal pathways  
+- verifiable decision logs  
+- agent-assisted auditing and review  
+- durable institutional memory  
+
+All changes will be introduced carefully and publicly.
+
+---
+
+## 📬 Communication
+
+Questions or thoughtful feedback are always welcome.
+
+🌍 https://satoshium.ai  
+🐙 https://github.com/SatoshiumAI  
+
+Governance at this stage is simple by design:
+clear direction, open visibility, and steady progress.
