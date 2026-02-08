@@ -1,42 +1,100 @@
-# 🤝 Code of Conduct
+# 🤝 Satoshium Code of Conduct (Phase003)
 
-⚠️ **Project Status Update (September 27, 2025)**  
-The Satoshium project is currently on **temporary pause**.  
-Active development and community engagement are on hold until further notice.  
+Satoshium is being built as a calm, long-term public project exploring Bitcoin-aligned intelligence and verifiable systems.
 
-This is not the end of the project—participation will reopen once work resumes.  
-Community members are welcome to stay connected and follow announcements in `.github/announcements.md`.
+A respectful and thoughtful environment helps ensure clarity, collaboration, and durable progress.
+
+This Code of Conduct outlines expectations for participation across all Satoshium spaces.
 
 ---
 
-## Our Commitment
-We are committed to fostering an open and respectful community. All contributors, maintainers, and users of the Satoshium project are expected to uphold this code of conduct to ensure a welcoming environment for everyone.
+# 🧭 Our Commitment
 
-## Guiding Principles
-- **Respect**: Treat others with dignity, kindness, and empathy.  
-- **Constructive Collaboration**: Embrace feedback and work towards shared goals.  
-- **Transparency**: Communicate clearly and honestly.  
-- **Security**: Report vulnerabilities and security concerns responsibly.  
+We are committed to maintaining a welcoming, respectful, and constructive environment for:
 
-## Unacceptable Behavior
-- Discrimination or harassing behavior  
-- Personal attacks or derogatory comments  
-- Trolling, spamming, or deliberate disruption of discussions  
-- Publishing others' private information without consent  
-- Any behavior that violates applicable laws or ethical norms  
+- contributors  
+- learners  
+- observers  
+- collaborators  
+- future builders  
 
-## Scope
-This Code of Conduct applies across all Satoshium spaces, including:
-- GitHub repositories (issues, pull requests, comments)  
-- Community forums and discussion channels  
-- Events, meetups, and related activities  
+All participants are expected to act with professionalism and mutual respect.
 
-## Reporting and Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening a private issue in the governance repo or contacting us directly at **contact@satoshium.ai**.
+---
 
-All reports will be reviewed confidentially and investigated promptly. Violators may be warned, suspended, or permanently removed from participation.
+# 🌱 Guiding Principles
 
-## Attribution
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org) (version 2.1).
+### Respect
+Treat others with dignity, patience, and professionalism.
 
-Together, let’s build a decentralized intelligence ecosystem grounded in trust, respect, and collaboration.
+### Constructive Collaboration
+Offer feedback thoughtfully and focus on improving clarity and usefulness.
+
+### Transparency
+Communicate honestly and clearly.  
+Avoid unnecessary conflict or ambiguity.
+
+### Responsibility
+Help maintain a stable, thoughtful environment aligned with long-term goals.
+
+---
+
+# 🚫 Unacceptable Behavior
+
+The following behaviors are not acceptable within Satoshium spaces:
+
+- Harassment or discrimination of any kind  
+- Personal attacks or inflammatory language  
+- Trolling, spamming, or intentional disruption  
+- Publishing private or sensitive information without consent  
+- Malicious or deceptive activity  
+- Any behavior violating applicable laws or ethical norms  
+
+---
+
+# 🌐 Scope
+
+This Code of Conduct applies to all Satoshium-related spaces, including:
+
+- GitHub repositories (issues, discussions, pull requests)  
+- Documentation and collaboration channels  
+- Public discussions tied directly to the project  
+- Future community environments  
+
+---
+
+# 🛡️ Reporting Concerns
+
+If you experience or observe behavior that violates this Code of Conduct:
+
+You may report it by contacting:
+
+📧 contact@satoshium.ai
+
+Reports will be reviewed respectfully and confidentially.
+
+---
+
+# ⚖️ Enforcement
+
+Maintainers may take appropriate action in response to unacceptable behavior, including:
+
+- guidance or warning  
+- removal of content  
+- temporary or permanent restriction from participation  
+
+Actions will be taken thoughtfully and proportionally.
+
+---
+
+# 🧠 Final Note
+
+Satoshium is being built carefully and publicly.  
+A respectful environment ensures the project remains:
+
+- clear  
+- stable  
+- collaborative  
+- useful for the long term  
+
+Thank you for contributing to a thoughtful and constructive ecosystem.
