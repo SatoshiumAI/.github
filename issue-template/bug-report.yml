@@ -1,48 +1,82 @@
-⚠️ Project Pause Notice  
-Satoshium is temporarily on hold as of September 27, 2025.  
-New issues and feature requests are not being accepted until development resumes. 
----
-name: "🐞 Bug Report"
-description: Report something that isn't working as expected.
-labels: ["bug", "triage"]
+name: 🐞 Bug Report
+description: Report something that is not working as expected within the Satoshium ecosystem
+title: "[BUG] "
+labels: ["bug"]
 assignees: []
+
 body:
+
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting a bug in Satoshium! Please provide as much detail as possible.
+        ## 🧭 Satoshium Bug Report
+        
+        Thank you for helping improve Satoshium.
+        
+        This project is being built carefully and publicly.  
+        Clear, thoughtful reports help maintain stability and long-term quality.
+        
+        Please provide as much useful detail as possible.
+
   - type: input
-    id: title
+    id: summary
     attributes:
-      label: Bug Title
-      placeholder: Brief summary of the issue
+      label: 🪪 Short summary
+      description: Briefly describe the issue
+      placeholder: Example — Page does not load correctly, link broken, formatting issue
     validations:
       required: true
+
   - type: textarea
     id: description
     attributes:
-      label: Describe the Bug
-      placeholder: What happened? What did you expect?
+      label: 📋 Detailed description
+      description: Explain what happened and what you expected to happen
+      placeholder: Provide clear and structured details
     validations:
       required: true
+
   - type: textarea
     id: steps
     attributes:
-      label: Steps to Reproduce
-      placeholder: 1. Go to...
-2. Click...
-3. Observe...
-  - type: dropdown
-    id: repo
-    attributes:
-      label: Affected Repository
-      options:
-        - satoshium-core
-        - satoshium-agents
-        - satoshium-docs
-        - satoshium-site
-        - other
-  - type: input
+      label: 🔁 Steps to reproduce
+      description: How can this issue be reproduced?
+      placeholder: |
+        1. Go to...
+        2. Click...
+        3. Observe...
+    validations:
+      required: false
+
+  - type: textarea
     id: environment
     attributes:
-      label: Environment (OS, Browser, etc.)
+      label: 🖥️ Environment (if applicable)
+      description: Device, browser, OS, or context where the issue occurred
+      placeholder: |
+        Browser:
+        Device:
+        OS:
+        Repo/Page:
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 📎 Additional context
+      description: Add screenshots, links, or other helpful context
+      placeholder: Optional but helpful
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 🧠 Note
+        
+        Satoshium is a long-term public build.  
+        Issues are reviewed thoughtfully and addressed when appropriate.
+        
+        Thank you for contributing to clarity and stability.
