@@ -1,50 +1,105 @@
-# 📘 Public Documentation Index – Satoshium GitHub
+# 📘 Satoshium Documentation Hub
 
-Welcome to the `.github/docs/` folder, which houses key public-facing documents that communicate the philosophy, structure, and operational integrity of the Satoshium project. This folder is intended for contributors, developers, researchers, and the broader community seeking insight into how Satoshium works and why it exists.
+Welcome to the Satoshium documentation directory.
 
----
+This folder contains the core public-facing documents that explain how Satoshium is being built, what it represents, and how its systems are structured.
 
-## 📂 Included Documents
+Satoshium is a long-term public build exploring Bitcoin-aligned intelligence, verifiable systems, and durable digital infrastructure.
 
-Below is an overview of the core files typically located in this directory:
-
-### 1. `manifesto.md`
-Outlines the foundational vision, principles, and driving purpose behind Satoshium — a protocol for decentralized intelligence governed by Bitcoin.
-
-### 2. `governance.md`
-Defines the decision-making structures, consensus models, and roles used to coordinate contributions and upgrades across Satoshium.
-
-### 3. `protocol.md`
-Details the rules, logic, and cryptographic commitments that agents within the Satoshium ecosystem must follow.
-
-### 4. `install.md`
-Provides a starting guide for setting up local environments, agents, and simulations. Includes platform recommendations and environment notes.
-
-### 5. `readme.md` (this file)
-Describes the purpose and structure of the `.github/docs/` folder for new visitors and contributors.
+Built calmly.  
+Built publicly.  
+Built to last.
 
 ---
 
-## ✅ Usage
+## 🧭 Purpose of This Folder
 
-This folder is publicly visible and serves as the authoritative documentation layer for anyone interacting with the Satoshium GitHub organization.
+The `/docs` directory serves as the primary documentation layer for the Satoshium ecosystem.
 
-- All files in this folder are Markdown formatted for readability across the GitHub web interface.
-- Edits to these files should be made via pull request and follow the contribution protocol outlined in `contributing.md`.
+It exists to provide clarity around:
+- guiding philosophy  
+- architectural direction  
+- system structure  
+- operational principles  
+- long-term vision  
 
----
-
-## 🔒 Trust & Transparency
-
-To preserve community trust and minimize ambiguity:
-- Changes to `manifesto.md` or `governance.md` should trigger multi-agent review.
-- All documentation updates should be cryptographically signed when possible.
-- Immutable records of updates may be hashed and logged into the `/logs` repo.
+These documents help contributors, observers, and future builders understand the foundation being established.
 
 ---
 
-## 📬 Questions or Feedback?
+## 📂 Core Documents
 
-If you’d like to propose edits, start a discussion in the `satoshium-governance` repo or submit a PR referencing the relevant Markdown file.
+Key documents typically found in this directory include:
 
-Together, we maintain the integrity and transparency of this open protocol.
+### `manifesto.md`
+High-level statement of purpose and direction for Satoshium.
+
+### `governance.md`
+Describes how decisions and structural changes are approached as the ecosystem evolves.
+
+### `protocol.md`
+Outlines guiding rules, expectations, and conceptual structure for Satoshium systems and agents.
+
+### `install.md`
+Provides setup guidance and environment notes where applicable.
+
+### `readme.md` (this file)
+Acts as an orientation guide for navigating the documentation layer.
+
+Additional files may be added over time as the ecosystem expands.
+
+---
+
+## 🧠 Documentation Philosophy
+
+Satoshium documentation aims to be:
+
+- Clear rather than complex  
+- Transparent rather than opaque  
+- Durable rather than trend-driven  
+- Useful rather than performative  
+
+Documents evolve as understanding deepens and systems mature.
+
+Updates occur when meaningful improvements are available.
+
+---
+
+## 🛠️ How to Use These Documents
+
+These files are publicly visible and intended for:
+
+- developers exploring the ecosystem  
+- researchers studying verifiable systems  
+- contributors preparing for future participation  
+- observers seeking clarity on direction  
+
+They provide context rather than rigid instruction.
+
+---
+
+## 🔭 Ongoing Evolution
+
+Satoshium is a long-term project.
+
+Documentation will continue to evolve alongside:
+- architecture  
+- tools  
+- public resources  
+- research  
+- released components  
+
+Changes are made carefully to preserve clarity and continuity.
+
+---
+
+## 📬 Feedback
+
+Thoughtful feedback is always welcome.
+
+🌍 https://satoshium.ai  
+🐙 https://github.com/SatoshiumAI  
+
+As contribution pathways expand, clearer collaboration channels will emerge.
+
+For now, this documentation serves as the living reference layer for the Satoshium ecosystem.
