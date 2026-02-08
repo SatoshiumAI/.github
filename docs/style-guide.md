@@ -1,87 +1,217 @@
+# 🎨 Satoshium Style Guide (Phase003)
 
-# 🧭 Satoshium Style Guide
+This style guide defines the writing, formatting, and structural standards for all Satoshium documentation and public-facing content.
 
-This style guide outlines formatting, naming conventions, and markdown practices for all documentation within the Satoshium project. It ensures consistency, clarity, and accessibility across all repositories.
+Its purpose is to ensure clarity, consistency, and long-term readability across all repositories and materials.
 
----
+Satoshium is being built as durable digital infrastructure.
+Documentation should reflect that same durability.
 
-## 📁 Folder and File Naming
-
-- Use **lowercase** letters.
-- Separate words with **hyphens** (`-`), not underscores (`_`) or camelCase.
-- Examples:
-  - `readme.md`
-  - `glossary.md`
-  - `code-of-conduct.md`
+Built calmly.
+Built publicly.
+Built to last.
 
 ---
 
-## 📄 Markdown Structure
+# 🧭 Core Style Philosophy
 
-- Always start with a top-level heading (`# Title`) that clearly reflects the document purpose.
-- Use emoji headers for readability and categorization.
-- Include a summary at the end whenever appropriate.
+All Satoshium documentation should aim to be:
 
----
+* Clear rather than complex
+* Calm rather than promotional
+* Structured rather than improvised
+* Timeless rather than trend-driven
+* Educational rather than performative
 
-## 📝 File Format Guidelines
-
-- All files should end in `.md` unless otherwise noted.
-- Use UTF-8 encoding.
-- Keep line width to approximately 80–100 characters for easier reading.
+The goal is long-term usefulness and readability.
 
 ---
 
-## 🔠 Heading Hierarchy
+# 📁 File & Folder Naming Standards
 
-Use consistent heading levels:
+Use consistent, predictable naming conventions.
 
-```markdown
-# Top Level Title
-## Section Title
-### Subsection Title
+### General rules
+
+* Use **lowercase** letters only
+* Separate words using **hyphens** (`-`)
+* Avoid underscores, spaces, or camelCase
+* Keep names descriptive but simple
+
+### Examples
+
+* `readme.md`
+* `glossary.md`
+* `code-of-conduct.md`
+* `risk-model.md`
+* `first-look.md`
+
+Consistency improves navigation and automation compatibility.
+
+---
+
+# 📄 Markdown Structure Standards
+
+Every document should follow a clean, readable structure.
+
+### Opening
+
+Begin with a clear top-level heading:
+
+```
+# Title of Document
 ```
 
-Avoid skipping levels or using nonstandard formats.
+Follow with a short paragraph explaining the purpose of the file.
 
 ---
 
-## 🔗 Links and References
+### Headings
 
-- Use absolute links for cross-repository references when needed.
-- Keep inline links readable and clean:
-  ```markdown
-  [Satoshium Core](https://github.com/satoshiumai/satoshium-core)
-  ```
+Use consistent hierarchy:
 
----
+```
+# Title  
+## Section  
+### Subsection  
+```
 
-## 📌 Metadata and Notices
-
-- Include YAML front-matter only if needed for parsing.
-- License and disclaimer sections should go at the bottom of a file.
+Avoid skipping heading levels.
 
 ---
 
-## 💬 Comments in Markdown
+### Tone
 
-Use the standard HTML-style comments for internal notes (they won’t display in render):
+Write in a calm, professional voice.
 
-```html
-<!-- TODO: Expand on glossary terms -->
+Avoid:
+
+* hype language
+* aggressive marketing tone
+* unnecessary urgency
+* excessive technical jargon
+
+Prefer:
+
+* clarity
+* readability
+* structured explanation
+* long-term perspective
+
+---
+
+# 🧠 Emoji Usage
+
+Emoji may be used sparingly to improve readability and navigation.
+
+Use them primarily:
+
+* in headings
+* for section markers
+* for visual organization
+
+Avoid overuse.
+
+Example:
+
+```
+## 🧭 Purpose
+## 🔐 Security Model
+## 🛠️ Setup
 ```
 
 ---
 
-## 🧪 Document Testing and Validation
+# 🔗 Links & References
 
-- Validate formatting with markdown linters (optional).
-- Spellcheck using extensions or integrated tools when available.
-- Ensure links are not broken.
+Use clear, readable links.
+
+### Example
+
+```
+[Satoshium Main Site](https://satoshium.ai)
+```
+
+Prefer descriptive link text over raw URLs when possible.
+
+Use absolute links when referencing external or cross-repo resources.
 
 ---
 
-## 🧾 Summary
+# 🧾 Formatting Guidelines
 
-The **Satoshium Style Guide** is a foundational reference to maintain documentation quality.  
-Adhering to these practices ensures contributors, readers, and automation tools can interpret and process Satoshium documentation consistently across time and teams.
+### File format
+
+* Use `.md` for documentation
+* UTF-8 encoding preferred
+* Maintain readable spacing
+
+### Line width
+
+Aim for ~80–100 characters per line for readability.
+
+### Lists
+
+Use consistent bullet or numbered formatting.
+
+### Code blocks
+
+Always use fenced code blocks:
+
+````
+```bash
+git clone https://github.com/satoshiumai/example
+````
+
+```
+
+---
+
+# 🧩 Documentation Principles
+
+When creating or updating documentation:
+
+- Explain before assuming knowledge  
+- Keep structure predictable  
+- Avoid unnecessary repetition  
+- Update outdated references  
+- Maintain consistency across repos  
+
+Documentation should help future readers understand quickly.
+
+---
+
+# 🧪 Quality Checks (Optional but Recommended)
+
+Before finalizing a document:
+
+- Check spelling and grammar  
+- Confirm links work  
+- Ensure formatting renders cleanly  
+- Keep structure consistent  
+
+Small refinements create long-term clarity.
+
+---
+
+# 🔭 Evolution of This Guide
+
+This style guide will evolve alongside the Satoshium ecosystem.
+
+As new repositories, tools, and contributors emerge, standards may expand while preserving core principles of:
+
+- clarity  
+- consistency  
+- durability  
+- transparency  
+
+---
+
+# 🧠 Final Thought
+
+Good documentation is not decoration.
+
+It is infrastructure.
+
+This guide exists to ensure Satoshium remains understandable and maintainable for years to come.
+```
