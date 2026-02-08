@@ -12,6 +12,20 @@ But to help shape durable digital infrastructure aligned with truth rather than 
 
 ---
 
+## 🧱 Foundational Idea
+
+Satoshium is built on a simple principle:
+
+Not ruled.  
+Not bought.  
+Not stopped.
+
+It is not a product.  
+Not a platform.  
+But a long-term exploration of what becomes possible when intelligence operates inside verifiable systems.
+
+---
+
 ## 🧭 Why Satoshium Exists
 
 We are entering a period where:
