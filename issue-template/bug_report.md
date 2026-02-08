@@ -1,41 +1,79 @@
-⚠️ Project Pause Notice  
-Satoshium is temporarily on hold as of September 27, 2025.  
-New issues and feature requests are not being accepted until development resumes. 
 ---
 name: 🐞 Bug Report
-about: Report a bug to help us improve Satoshium
+about: Report an issue to help improve the Satoshium ecosystem
 title: "[BUG] "
 labels: bug
 assignees: ''
+---
+
+# 🐞 Satoshium Bug Report
+
+Thank you for helping improve Satoshium.
+
+Satoshium is being built publicly and carefully.  
+Clear and thoughtful reports help maintain stability, clarity, and long-term quality.
+
+Please provide as much useful detail as possible.
 
 ---
 
-## 🐛 Description
-A clear and concise description of what the bug is.
+## 🪪 Summary
+Provide a short description of the issue.
 
-## 🔁 Steps to Reproduce
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Example:  
+Page not loading, broken link, formatting issue, incorrect information, etc.
+
+---
+
+## 📋 Description
+Describe what happened and what you expected to happen.
+
+Be clear and structured so the issue can be understood quickly.
+
+---
+
+## 🔁 Steps to Reproduce (if applicable)
+How can this issue be reproduced?
+
+Example:
+1. Go to...
+2. Click...
+3. Observe...
+
+---
 
 ## 🤔 Expected Behavior
-A clear and concise description of what you expected to happen.
+What did you expect to happen?
+
+---
 
 ## 🧪 Actual Behavior
 What actually happened instead?
 
-## 🖥️ Environment (please complete the following information):
-- OS: [e.g. macOS, Windows, Ubuntu]
-- Python Version: [e.g. 3.11]
-- Repo/Module: [e.g. satoshium-utils/encryption]
-- Browser (if applicable): [e.g. Chrome, Firefox]
+---
 
-## 📸 Screenshots
-If applicable, add screenshots to help explain your problem.
+## 🖥️ Environment (if applicable)
+- Device:
+- Operating System:
+- Browser:
+- Repo/Page/Module:
+- Any other relevant context:
+
+---
+
+## 📸 Screenshots (optional)
+Add screenshots if helpful.
+
+---
 
 ## 📝 Additional Context
-Add any other context about the problem here.
+Anything else that may help clarify the issue.
 
-🙏 Thanks for taking the time to help improve Satoshium!
+---
+
+## 🧠 Final Note
+
+Satoshium is a long-term public build focused on clarity and durability.  
+Issues are reviewed thoughtfully and addressed when appropriate.
+
+Thank you for helping improve the ecosystem.
