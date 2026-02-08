@@ -1,42 +1,77 @@
-⚠️ Project Pause Notice  
-Satoshium is temporarily on hold as of September 27, 2025.  
-New issues and feature requests are not being accepted until development resumes. 
----
-name: "🚀 Feature Request"
-description: Suggest an idea to improve the project.
+name: ✨ Feature Request
+description: Suggest an idea or improvement for the Satoshium ecosystem
+title: "[FEATURE] "
 labels: ["enhancement"]
 assignees: []
+
 body:
+
   - type: markdown
     attributes:
       value: |
-        We welcome feature suggestions for Satoshium! Help us understand your idea.
+        ## ✨ Satoshium Feature Request
+        
+        Thank you for sharing ideas.
+        
+        Satoshium is being built deliberately and thoughtfully.  
+        Suggestions are welcome and reviewed carefully for long-term alignment.
+        
+        Not every suggestion will be implemented, but all constructive ideas are appreciated.
+
   - type: input
-    id: title
+    id: summary
     attributes:
-      label: Feature Title
-      placeholder: A clear and descriptive title
+      label: 🪪 Feature summary
+      description: Provide a short, clear description of your idea
+      placeholder: Example — Add glossary search, improve navigation, expand Bitcoin education section
     validations:
       required: true
+
   - type: textarea
-    id: motivation
+    id: problem
     attributes:
-      label: Problem or Motivation
-      placeholder: What problem does this solve or opportunity does it enable?
+      label: 🧭 What problem does this solve?
+      description: Explain the need or gap this feature addresses
+      placeholder: Describe why this would be useful
     validations:
       required: true
+
   - type: textarea
-    id: solution
+    id: proposal
     attributes:
-      label: Suggested Solution
-      placeholder: Describe the desired behavior or design.
-  - type: dropdown
-    id: scope
+      label: 💡 Proposed solution or idea
+      description: Describe your suggested approach or feature
+      placeholder: Provide a clear and thoughtful explanation
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
     attributes:
-      label: Related Area
-      options:
-        - Agent Design
-        - Protocol Behavior
-        - Interface/User Flow
-        - Documentation
-        - Other
+      label: 🔄 Alternatives considered (optional)
+      description: Any other ideas or approaches considered?
+      placeholder: Optional
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: 🌐 Additional context
+      description: Add links, screenshots, or supporting details
+      placeholder: Optional but helpful
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 🧠 Note
+        
+        Satoshium prioritizes clarity, durability, and long-term usefulness.
+        
+        Suggestions that align with these principles are most likely to be explored.
+        
+        Thank you for contributing thoughtful ideas.
+
