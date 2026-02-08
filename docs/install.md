@@ -1,101 +1,132 @@
-# 🛠️ Installation Guide
+# 🛠️ Satoshium Installation & Setup (Phase003)
 
-Welcome to Satoshium. This guide walks you through setting up and installing the tools, dependencies, and environments required to contribute to or interact with Satoshium repositories.
+Welcome to **Satoshium**.
 
----
+Satoshium is not a traditional application you install —
+it is a decentralized intelligence ecosystem being built in the open.
 
-## 📦 Prerequisites
-
-Before proceeding, ensure you have the following installed on your machine:
-
-- [Python 3.10+](https://www.python.org/downloads/)
-- [Git](https://git-scm.com/)
-- [Node.js + npm](https://nodejs.org/)
-- [Poetry](https://python-poetry.org/docs/#installation) (for Python dependency management)
-- [VSCode](https://code.visualstudio.com/) or preferred code editor
+This guide explains how to **explore, learn from, and eventually build within** the Satoshium environment.
 
 ---
 
-## 🧰 Initial Setup
+# 🧭 First: What “Installation” Means Here
 
-Clone the desired repository:
+There is currently **no required installation** to follow Satoshium.
+
+You can engage with the ecosystem in three ways:
+
+1. 📖 Learn from the public website
+2. 🧠 Explore public repositories
+3. 🧪 (Future) Run agents and tools locally
+
+Phase003 focuses primarily on **learning, structure, and foundation**.
+
+---
+
+# 🌐 Explore Without Installing Anything
+
+Start here:
+
+* 🌍 Main site: [https://satoshium.ai](https://satoshium.ai)
+* 📘 Bitcoin education hub
+* 🧠 Satoshium philosophy & architecture
+* 🤖 Public AI demo (USPTO qualifying)
+* 🗺️ Public repo map
+
+You can follow the entire project without installing a single tool.
+
+---
+
+# 🧱 Optional: Local Exploration Setup (For Builders)
+
+If you want to explore repos locally:
+
+## 1. Install basic tools
+
+* Git
+* VS Code (recommended)
+* Modern web browser
+
+## 2. Clone public repositories
 
 ```bash
-git clone git@github.com:satoshiumai/<repo-name>.git
+git clone https://github.com/satoshiumai/<repo-name>
 cd <repo-name>
 ```
 
-Install Python dependencies using Poetry:
-
-```bash
-poetry install
-```
-
-Install Node dependencies (if UI or interface repo):
-
-```bash
-npm install
-```
+Many repos are documentation-first and require **no runtime install**.
 
 ---
 
-## 🧪 Testing the Setup
+# 🧪 Future Installation (Phase004+)
 
-To ensure everything is working, run:
+As Satoshium evolves, optional installs may include:
 
-```bash
-poetry run pytest
-```
+* Local AI agent sandboxes
+* Lightning-enabled identity tools
+* Verification agents
+* Trust and audit modules
 
-Or for JavaScript/TypeScript:
-
-```bash
-npm run test
-```
+When these become available, this guide will expand.
 
 ---
 
-## 🔁 Keeping Dependencies Updated
+# 🔐 Security Philosophy
 
-To update Python dependencies:
+Satoshium follows a simple rule:
 
-```bash
-poetry update
-```
+> Never require users to install risky software
+> just to understand the system.
 
-To update Node dependencies:
-
-```bash
-npm update
-```
+Education comes first.
+Tools come later.
+Trust must be earned.
 
 ---
 
-## 📁 Repository Conventions
+# 🧭 How to Participate Today
 
-Each repo may have unique folder structures, but the general expectation is:
+You can already:
 
-```
-/docs/          → Documentation
-/src/           → Core source code
-/tests/         → Unit and integration tests
-/scripts/       → Utilities and helpers
-/logs/          → Optional logs from internal agents
-```
+* Learn Bitcoin properly
+* Understand decentralized intelligence
+* Follow development publicly
+* Share feedback
+* Build your own aligned tools
 
----
-
-## 🔐 Security Notes
-
-- Always review `.env.example` and never commit sensitive credentials.
-- Use SSH keys for secure GitHub access.
+Satoshium is open by design.
 
 ---
 
-## 🧾 Additional Help
+# 🚧 Development Status
 
-If you encounter installation issues, visit the [Support Documentation](support.md) or reach out through the Issues tab.
+**Phase003 Status:**
+Foundation, education, architecture, and public presence.
+
+**Not yet released:**
+
+* Full agent framework
+* Identity modules
+* Verification systems
+* Public tooling stack
+
+Those will arrive when ready — not before.
 
 ---
 
-Happy building with Satoshium!
+# 💬 Need Help?
+
+Visit:
+
+* Support docs
+* GitHub Issues (when enabled)
+* Future community channels
+
+---
+
+# 🧠 Final Note
+
+Satoshium is not software you install.
+It is a system you understand.
+
+And eventually — a system you can help build.
