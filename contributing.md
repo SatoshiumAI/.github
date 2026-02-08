@@ -1,64 +1,131 @@
 # 🤝 Contributing to Satoshium
 
-⚠️ **Project Status Update (September 27, 2025)**  
-The Satoshium project is currently on **temporary pause**.  
-Active development and contributions are on hold until further notice.  
+Thank you for your interest in Satoshium.
 
-This is not the end of the project—contributions will reopen once work resumes.  
-Community members are welcome to stay connected and follow announcements in `.github/announcements.md`.
+Satoshium is being built deliberately as long-term infrastructure exploring Bitcoin-aligned intelligence, verifiable systems, and transparent digital coordination.
+
+Contribution pathways will expand over time as the ecosystem stabilizes.
+
+For now, this document explains how thoughtful participation may occur as development continues.
 
 ---
 
-Welcome to the Satoshium project! Whether you're here to build agents, write documentation, run tests, or challenge assumptions—we're glad to have you.
+## 🧭 Current Phase — Public Build (Phase003)
 
-This document outlines how to contribute in a structured, respectful, and agent-aligned way.
+Satoshium is currently in an active public build phase.
 
-## 🌐 Guiding Principles
-💡 Rule-first contributions — Everything must be testable, verifiable, and auditable.  
-📜 Clear over clever — Prioritize logic that can be read, reused, and reasoned about.  
-🧪 Trust through structure — All contributions must uphold our protocol integrity and agent safety standards.  
+Focus areas include:
+- Educational infrastructure around Bitcoin and sovereignty  
+- Architecture and documentation refinement  
+- AI-assisted tool exploration  
+- Verifiable system design  
+- Long-term ecosystem alignment  
 
-> “We don't just write code. We codify principles.”
+Development is ongoing and steady.  
+However, structured external contributions are intentionally limited until core components stabilize.
 
-## 🛠️ How to Contribute
-1. **Fork and Clone**
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/REPO-NAME.git
-   ```
+This helps preserve:
+- clarity  
+- coherence  
+- architectural integrity  
+- long-term maintainability  
 
-2. **Create a Branch**  
-   Use descriptive branch names:  
-   ```bash
-   git checkout -b feat/add-agent-debrief
-   ```
+---
 
-3. **Make Your Changes**  
-   Follow our style rules:  
-   📄 Refer to `docs/style-guide.md` for formatting, emoji use, and file conventions.
+## 💡 Ways to Contribute Today
 
-4. **Commit Clearly**  
-   Use this structure:  
-   - `add: new trust score logic for profile audit`  
-   - `fix: patch logic error in role pattern matching`  
-   - `doc: update glossary with agent terms`  
+Even while core development remains focused, there are still meaningful ways to contribute.
 
-5. **Open a Pull Request**  
-   - Keep it atomic (one focused change per PR)  
-   - Reference related issues (e.g., `Closes #42`)  
-   - Include a test plan or reasoning in the PR description  
+### 📚 Learn and explore
+- Review public repositories  
+- Read documentation  
+- Follow architectural direction  
+- Understand guiding principles  
 
-## 📂 Where You Can Help
-- 🧠 Improve agent logic (`/agents`)  
-- 📚 Expand documentation (`/docs`)  
-- 🔎 Test rule engines (`/tests`)  
-- 🧪 Simulate edge cases (`/scenarios`)  
-- 🧩 Refactor shared utilities (`/utils`)  
+Thoughtful understanding is the most valuable first contribution.
 
-## 🤖 Behavior Expectations
-- Respect time, structure, and contribution intent  
-- Avoid debates without proposals  
-- Uphold system legibility over ego-driven cleverness  
+---
 
-> “We build for the next dev. The next agent. The next generation.”
+### 🧠 Provide thoughtful feedback
+If something is unclear or could be improved:
+- Suggest documentation clarity improvements  
+- Identify conceptual gaps  
+- Ask constructive questions  
+- Share insights respectfully  
 
-Thank you for helping build Satoshium. 🧠⚙️ Your contributions fuel a transparent future.
+Clear thinking strengthens systems.
+
+---
+
+### 🌍 Share responsibly
+If Satoshium resources are helpful:
+- Share educational materials  
+- Reference documentation  
+- Encourage thoughtful discussion  
+- Help others understand core concepts  
+
+Signal spreads through clarity.
+
+---
+
+## 🛠️ Future Contribution Pathways
+
+As the ecosystem matures, structured contribution opportunities will open in areas such as:
+
+- Documentation and knowledge expansion  
+- Testing and simulation environments  
+- Interface and usability improvements  
+- Modular tool development  
+- Research and specification refinement  
+
+Clear contribution guidelines will be published when appropriate.
+
+---
+
+## 🧠 Guiding Contribution Philosophy
+
+All future contributions will align with core Satoshium principles:
+
+- Verifiability over opacity  
+- Clarity over complexity  
+- Structure over improvisation  
+- Long-term durability over short-term novelty  
+- Respectful collaboration over noise  
+
+Satoshium is not being built for speed.  
+It is being built for usefulness and longevity.
+
+---
+
+## ⚖️ Behavioral Expectations
+
+When contribution pathways open more fully:
+
+- Respect time and structure  
+- Prioritize clarity and usefulness  
+- Avoid ego-driven complexity  
+- Focus on long-term value  
+- Communicate thoughtfully  
+
+The goal is not rapid expansion.  
+The goal is meaningful construction.
+
+---
+
+## 📬 Staying Connected
+
+To follow progress:
+
+🌍 https://satoshium.ai  
+🐙 https://github.com/SatoshiumAI  
+
+Updates appear when meaningful progress occurs.
+
+Not hype.  
+Not noise.  
+Just real forward movement.
+
+---
+
+**Satoshium is being built carefully and publicly.  
+The door to contribution will open wider as the foundation strengthens.**
