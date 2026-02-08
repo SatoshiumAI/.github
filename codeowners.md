@@ -1,61 +1,73 @@
-# 👑 CODEOWNERS
+# 👑 CODEOWNERS — Satoshium (Phase003)
 
-This file defines the ownership structure across the Satoshium repositories.
+This file defines ownership and review responsibility across the Satoshium repositories.
 
-Each directory or file listed below is assigned to specific individuals or teams who are responsible for reviewing changes and maintaining quality and alignment with the protocol.
+During the current public build phase, primary ownership and review responsibility remains centralized to ensure clarity, consistency, and architectural integrity.
 
-Changes to these files trigger automatic review requests for the assigned maintainers.
-
----
-
-## 🗂️ Ownership Rules
-
-```
-# Global Default
-* @satoshiumai
-
-# Core Repositories
-/core/ @satoshiumai
-/specs/ @satoshiumai
-/docs/ @satoshiumai
-
-# Utilities and Internal Logic
-/utils/ @satoshiumai
-/devtools/ @satoshiumai
-/agents/ @satoshiumai
-
-# Frontend and User Interaction
-/ui/ @satoshiumai
-/interface/ @satoshiumai
-
-# Governance and Coordination
-/governance/ @satoshiumai
-/.github/ @satoshiumai
-
-# Deployment and Nodes
-/node/ @satoshiumai
-/network/ @satoshiumai
-
-# Data and Visual Elements
-/data/ @satoshiumai
-/glyphs/ @satoshiumai
-
-# Future-Looking Repos
-/demos/ @satoshiumai
-/simulations/ @satoshiumai
-/future-uses/ @satoshiumai
-/scenarios/ @satoshiumai
-/certifier/ @satoshiumai
-
-# Operational Timeline and Journal
-/master-timeline/ @satoshiumai
-/journal/ @satoshiumai
-```
+As the ecosystem grows, ownership may expand to include additional contributors and maintainers.
 
 ---
 
-## 🧩 Notes
+# 🗂️ Ownership Rules
+---
 
-- To modify this file, you must be part of the `@satoshiumai` organization.
-- Updates should follow a peer-reviewed pull request process.
-- More granular ownership (by team or topic) may be introduced in the future as the contributor base grows.
+Global default owner
+
+- @satoshiumai
+
+Core documentation & architecture
+
+- /docs/ @satoshiumai
+- /specs/ @satoshiumai
+- /core/ @satoshiumai
+
+GitHub configuration & governance
+
+- /.github/ @satoshiumai
+
+Tools, agents, and experiments
+
+- /agents/ @satoshiumai
+- /utils/ @satoshiumai
+- /devtools/ @satoshiumai
+
+Interfaces & experience
+
+- /ui/ @satoshiumai
+- /interface/ @satoshiumai
+
+Network & infrastructure concepts
+
+- /network/ @satoshiumai
+- /node/ @satoshiumai
+
+Data & visuals
+
+- /data/ @satoshiumai
+- /glyphs/ @satoshiumai
+
+Research & future modules
+
+- /demos/ @satoshiumai
+- /simulations/ @satoshiumai
+- /future-uses/ @satoshiumai
+- /scenarios/ @satoshiumai
+- /certifier/ @satoshiumai
+
+Timeline & journal
+
+- /master-timeline/ @satoshiumai
+- /journal/ @satoshiumai
+
+---
+
+# 📋 Notes
+
+- Primary ownership currently remains with the Satoshium maintainer
+- Changes may trigger review requests automatically
+- Structure is intentionally simple during Phase003
+- Additional maintainers may be added as the ecosystem matures
+
+Satoshium is being built deliberately and publicly.  
+Ownership structures will evolve carefully alongside growth.
+
