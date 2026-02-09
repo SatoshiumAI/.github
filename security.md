@@ -1,49 +1,149 @@
-# 🔐 Security Policy
+# 🔐 Satoshium Security Policy (Phase003)
 
-⚠️ **Project Pause Notice**  
-As of **September 27, 2025**, the Satoshium project is temporarily on hold.  
-While active development is paused, we remain committed to handling any **serious security disclosures** responsibly. Please continue to follow the instructions below for reporting vulnerabilities.
+Security is foundational to Satoshium.
 
----
+Even in its documentation-first and public-build phase,  
+we maintain a clear and responsible security posture.
 
-## 🛡️ Supported Versions
-The following versions are currently supported with security updates:
+Satoshium is being built for a future where:
+- AI systems must be verifiable
+- Infrastructure must be resilient
+- Trust must be earned — not assumed
 
-| Version | Supported |
-|---------|-----------|
-| v2.x    | ✅ Yes (critical fixes only during pause) |
-| v1.x    | ❌ No |
+This document explains how security is handled during Phase003.
 
 ---
 
-## 🧭 Reporting a Vulnerability
-If you discover a vulnerability in this project:
+# 🛡️ Current Project Status
 
-- Do **not** open a public issue or pull request.  
-- Instead, please email us directly at **security@satoshium.ai**.  
-- Provide detailed information including:
-  - Description of the issue  
-  - Reproduction steps (if possible)  
-  - Suggested fix or workaround  
+Satoshium is currently in:
 
-We aim to respond within **48 hours** and take appropriate steps to investigate, validate, and remediate the issue.
+**Phase003 — Public build & education phase**
 
----
+This means:
 
-## 🤝 Responsible Disclosure
-We greatly appreciate responsible disclosure.  
-Contributors who responsibly report vulnerabilities may be publicly acknowledged in `recognition.md` or offered other forms of gratitude.
+- Many repositories are documentation-first
+- Some tools and demos are experimental
+- Core agent systems are not yet released publicly
+- Security architecture is evolving intentionally
+
+There is **no production financial platform** or live custody system within Satoshium at this time.
 
 ---
 
-## 🚨 Public vs Private Repositories
-Please be aware that:
+# 🧭 Reporting a Vulnerability
 
-- Some repositories in the Satoshium project are **private** and not open-source.  
-- Security protocols vary based on the nature and classification of each repository.  
-- Do not attempt to access or reverse-engineer any private repos without explicit authorization.  
+If you discover a legitimate security issue related to:
+
+- Public demos  
+- Website infrastructure  
+- Public repositories  
+- Documentation exposures  
+- Future agent testing environments  
+
+Please report it responsibly.
+
+### 📩 Contact
+Email: **security@satoshium.ai**
+
+Include:
+- Clear description of the issue
+- Steps to reproduce (if applicable)
+- Screenshots or logs if relevant
+- Suggested mitigation (optional)
 
 ---
 
-## 🙏 Thank You
-Your vigilance makes this project stronger. Even during this pause, responsible disclosure ensures Satoshium remains secure and trustworthy for the global community.  
+# ⏱️ Response Expectations
+
+We aim to:
+
+- Acknowledge reports within 48–72 hours
+- Investigate responsibly
+- Fix or mitigate legitimate risks
+- Credit responsible reporters when appropriate
+
+This is a long-term project — thoughtful response matters more than speed.
+
+---
+
+# 🚫 What Not To Do
+
+Please **do not**:
+
+- Open public issues for vulnerabilities
+- Attempt exploitation beyond proof-of-concept
+- Social engineer contributors
+- Probe private infrastructure
+- Attempt access to private repositories or systems
+
+Respectful disclosure ensures a strong ecosystem.
+
+---
+
+# 🔒 Current Security Philosophy
+
+Satoshium follows simple principles:
+
+**1. Education before infrastructure**  
+We do not rush live systems before they are ready.
+
+**2. Minimal attack surface**  
+Few live services = fewer risks.
+
+**3. Transparency over obscurity**  
+Clear architecture reduces hidden vulnerabilities.
+
+**4. Security grows with capability**  
+As agents and tools emerge, security hardens alongside them.
+
+---
+
+# 🧱 Future Security Direction
+
+As Satoshium evolves, security will expand into:
+
+- Cryptographic verification layers
+- Agent integrity systems
+- Trust scoring models
+- Audit-friendly architectures
+- Bitcoin-aligned verification logic
+
+Security will not be bolted on later.  
+It is being designed from the start.
+
+---
+
+# 🤝 Responsible Disclosure Recognition
+
+Individuals who responsibly report legitimate issues may be:
+
+- Acknowledged in `recognition.md`
+- Thanked publicly (if desired)
+- Invited into early contributor circles (future)
+
+---
+
+# 🌐 Scope Clarification
+
+Satoshium currently consists of:
+
+- Educational website
+- Public documentation repos
+- Early demonstration tools
+- Concept architecture
+
+There is **no token, custody platform, exchange, or live financial system** associated with Satoshium.
+
+Any claims suggesting otherwise are false.
+
+---
+
+# 🧠 Final Principle
+
+Security is not a feature.  
+It is a foundation.
+
+Satoshium is being built deliberately  
+so that when real systems arrive —  
+they are resilient, verifiable, and trustworthy from day one.
