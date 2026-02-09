@@ -1,76 +1,119 @@
-# 📋 Organization To‑Do — Satoshium (.github)
+# 📋 Satoshium To-Do — Phase003
 
-This is the **org-wide task tracker** that rolls up work across repositories.  
-Updated on **2025-08-17**.
+This is the **public-facing progress tracker** for Satoshium.
 
-> Source signals: roadmap updates (Phase 2 focus), recent announcements, and July–August journaling.  
-
----
-
-## ✅ Completed (July–Aug 2025)
-
-- 🧭 **Phase 1 Close‑out & Phase 2 Kickoff** (June 27–28) — CODEX audit complete; Phase 2 initiated.
-- 📣 **Announcements refresh** (late July) — Major July milestones added.
-- 📚 **Repo metadata standardization**
-  - `contributing.md` **in all repos** (7/30)
-  - `support.md` **in all repos** (7/31)
-  - `readme.md` + `license.md` standardized across repos (8/01)
-- 🎶 **Creative milestone** — *Satoshium: Rise of the Signal* released (8/01)
-- 🗺️ **Roadmap Expansion** — Added **month‑by‑month AI agent plan (Aug 2025 → Jul 2026)** (8/17)
+No hype.  
+No artificial deadlines.  
+Just visible progress.
 
 ---
 
-## 🚧 In Progress (Phase 2 priorities)
+# 🎯 Current Focus (Phase003)
 
-- 🧮 **Trust scoring engine** — finalize dimensions (trust, resilience, latency, severity); attach audit trails
-- 🔗 **Non‑binding hooks to `satoshium-certifier`** — submit scores for review
-- 🪞 **Mirror/Hash logging** — record triggered rules + decisions for replayability
-- 🧪 **Scenario expansion** — conflicting prompt logic; sandbox privilege escalation; health‑misinfo attempt
-- 📊 **Telemetry enrichment** — latency variance, drift tracking, escalation counters
+Phase003 is about **clarity, education, and foundation**.
 
----
+Primary goals:
 
-## 🎯 Next Up (Aug–Oct 2025)
+- Expand Bitcoin education hub on satoshium.ai  
+- Align all public repos with current direction  
+- Build clean, understandable architecture  
+- Document philosophy and principles clearly  
+- Maintain public transparency of progress  
 
-- 🧩 **Issue / PR templates** (org‑wide) — lightweight triage + contribution guides
-- 🗣️ **Enable Discussions** (or curated Issues) for proposal threads
-- 🧠 **Protocol alignment docs** — “agent behavior patterns” primer in `/docs/`
-- 🧾 **Scorecards** — archive pass/fail snapshots in `/logs` for audit replay
-- 🧰 **Dynamic scenario loader** — shuffle/randomize inputs for robustness
-- 🦾 **Red‑team “bad agents”** — adversarial profiles for stress tests
+This phase prioritizes **understanding before complexity**.
 
 ---
 
-## 🗺️ Month‑by‑Month Agent Plan (tracking)
+# 🧱 Website Expansion (Active)
 
-- **Sep 2025** — *Principle‑in‑Action Agent* (ethics + verification): spec, minimal prototype, certification hooks
-- **Oct 2025** — *EchoBot* (message relay + memory): retention windows, integrity checks, mirror logging
-- **Nov 2025** — *SayNoBot* (rejection & compliance): category‑aware refusals, severity gating
-- **Dec 2025** — *GuardianNet* (impersonation & escalation): high‑severity routes, alerting
-- **Jan 2026** — *CertifierBot* (rules validation): scoring pipelines, report schema
-- **Feb–Jul 2026** — subsequent domain agents per roadmap; each must ship with scenarios, metrics, and replayable logs
+Continuing structured expansion of:
 
-> Each agent deliverable = **spec → minimal agent → scenarios → metrics → mirror logs → (optional) certifier hook**.
+## Bitcoin Education
+- Bitcoin 101 pages  
+- Wallet & security guides  
+- Mining & network explanations  
+- Lightning & scaling education  
 
----
-
-## 🔄 Ongoing Hygiene
-
-- 🧹 Periodically update `why.md` and `announcements.md` with **meaningful** deltas
-- 🧭 Keep roadmap synced with month milestones and slip notes
-- 🧪 Maintain replayable simulation snapshots and seed corpora
-- 📎 Ensure every folder keeps a concise `readme.md`
+Each page should:
+- Be simple  
+- Be honest  
+- Be timeless  
+- Help someone learn Bitcoin correctly  
 
 ---
 
-## 📌 Out of Scope (for .github)
+# 🗺️ Public Repo Alignment
 
-- Production deployment logic
-- Live data ingestion or external API keys
-- Token issuance or attestations (see `satoshium-governance` / `satoshium-certifier`)
+All `.github` and public-facing repos being updated to:
+
+- Phase003 direction  
+- Clean documentation-first structure  
+- Consistent tone and philosophy  
+- Removal of outdated roadmap assumptions  
+- Removal of unnecessary complexity  
+
+Goal:  
+**If someone discovers Satoshium today — everything makes sense.**
 
 ---
 
-### Footnotes
-- Dates reflect org announcements and roadmap checkpoints.
-- Phase references follow the Commercial module’s roadmap; governance‑hardened logic remains in `satoshium-governance` & `satoshium-certifier`.
+# 🧠 Architecture Clarity
+
+Ongoing work:
+
+- Define ecosystem structure clearly  
+- Separate concept vs implementation  
+- Keep protocol-first philosophy  
+- Avoid premature tooling  
+
+Satoshium must be understandable  
+before it becomes executable.
+
+---
+
+# 🤖 Future (No Deadlines)
+
+When ready — not before:
+
+- Public agent frameworks  
+- Verification-first AI tools  
+- Identity + trust modules  
+- Open testing environments  
+
+Nothing ships early.  
+Everything ships intentionally.
+
+---
+
+# 🧭 Operating Philosophy
+
+Satoshium is built:
+
+- In public  
+- Without hype  
+- Without pressure  
+- Without artificial timelines  
+
+One solid step at a time.
+
+---
+
+# 🟢 Status
+
+**Phase003: Active**  
+Foundation and clarity phase.
+
+More will be added  
+only when it improves understanding.
+
+---
+
+# 🧠 Final Note
+
+This is not a startup sprint.
+
+This is long-term infrastructure thinking.
+
+Built carefully.  
+Built publicly.  
+Built to last.
