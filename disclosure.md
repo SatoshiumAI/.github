@@ -1,50 +1,89 @@
-# 🕵️ Disclosure Policy
+# 🕵️ Satoshium Disclosure Policy (Phase003)
 
-At **Satoshium**, we believe in open collaboration, responsible transparency, and ethical behavior.  
-This Disclosure Policy outlines how vulnerabilities, concerns, or sensitive issues should be reported and handled.
+Satoshium is being built as a long-term public project exploring decentralized intelligence aligned with Bitcoin and verifiable systems.
 
----
+Responsible disclosure helps protect the integrity, security, and credibility of everything being built.
 
-## 📬 Reporting a Vulnerability
-
-If you discover a potential security vulnerability, bug, or concern in any part of the Satoshium project:
-
-- **Do not create a public issue.**
-- **Email us directly** at [security@satoshium.ai](mailto:security@satoshium.ai)
-- Include relevant details such as:
-  - Affected repository or module
-  - Steps to reproduce
-  - Impact and severity
-  - Any suggestions for remediation
-
-We will acknowledge your report within **72 hours** and begin investigating immediately.
+This policy explains how to report vulnerabilities or sensitive concerns.
 
 ---
 
-## 🔒 Confidentiality
+# 📬 Reporting a Security Issue
 
-All reports will be treated with the highest degree of confidentiality.  
-We will not share your personal information without explicit permission.
+If you discover a potential vulnerability, flaw, or security concern related to Satoshium:
 
----
+**Do NOT open a public issue.**
 
-## 🧩 Responsible Disclosure
+Instead, report privately via email:
 
-We encourage **coordinated vulnerability disclosure**. Please allow us a reasonable timeframe to validate and patch any findings before publicly disclosing them.
+📧 security@satoshium.ai
 
----
+Include as much detail as possible:
 
-## 🎖️ Recognition
+- Affected repository or page  
+- Steps to reproduce  
+- Potential impact  
+- Severity assessment (if known)  
+- Suggested mitigation (optional)  
 
-Ethical reporters who follow this policy will receive credit on our [Hall of Thanks](https://github.com/satoshiumai/.github/blob/main/recognition.md)  
-and may be eligible for early access to security tools or other perks in the future.
-
----
-
-## 🔁 Updates to This Policy
-
-This policy may be updated over time. For the most current version, please refer to this file in the [Satoshium .github repo](https://github.com/satoshiumai/.github).
+Reports will be acknowledged as soon as reasonably possible.
 
 ---
 
-Thank you for keeping Satoshium secure, decentralized, and trustworthy.
+# 🔒 Confidentiality
+
+All reports will be treated confidentially.
+
+Personal information will never be shared without explicit permission.  
+Sensitive findings will be handled carefully and responsibly.
+
+---
+
+# 🧩 Responsible Disclosure Approach
+
+We support coordinated disclosure:
+
+- Issues are reviewed and validated  
+- Fixes or mitigations are prepared  
+- Public disclosure occurs only after appropriate review  
+
+Please allow reasonable time for investigation and response before public disclosure.
+
+---
+
+# 🎖️ Recognition
+
+Individuals who responsibly report valid issues may be acknowledged in:
+
+`recognition.md`
+
+Recognition is optional and will only occur with the reporter’s permission.
+
+---
+
+# 🛡️ Scope
+
+This policy applies to:
+
+- Public repositories  
+- Documentation and architecture  
+- Demo tools  
+- Future released systems  
+- Any official Satoshium infrastructure  
+
+---
+
+# 🔁 Policy Updates
+
+This policy may evolve as the ecosystem expands.
+
+Always refer to the latest version in the official Satoshium repository.
+
+---
+
+# 🧠 Final Note
+
+Security is not an afterthought.  
+It is part of the foundation.
+
+Thank you for helping keep Satoshium thoughtful, secure, and resilient.
