@@ -1,52 +1,99 @@
-# 📄 License – Satoshium Project
+# 📄 License — Satoshium (Phase003)
 
-This repository is part of the **Satoshium** decentralized intelligence infrastructure.  
-By contributing or using this code, you agree to the terms below.
+This repository is part of the **Satoshium decentralized intelligence ecosystem**.
+
+Satoshium is being built as an open, educational, and architecture-first project  
+focused on Bitcoin-aligned, verifiable AI systems.
 
 ---
 
-## ⚖️ License Type
+# ⚖️ License Type
 
-Unless otherwise specified, this repository is licensed under the:
+Unless otherwise specified, all public Satoshium repositories are released under the:
 
-**MIT License**
+## MIT License
 
-This license allows:
+This allows:
 
 - ✅ Commercial use  
 - ✅ Modification  
 - ✅ Distribution  
-- ✅ Private use
+- ✅ Private use  
+- ✅ Forking and experimentation  
+
+You are free to build on this work.
 
 ---
 
-## 📜 Terms and Conditions
+# 📜 Attribution Requirement
 
-### 📌 Attribution
+You must include:
 
-You **must** include the original license and copyright notice
-in any copy or substantial portion of this software.
+- Original license  
+- Copyright notice  
+- Clear attribution to Satoshium
 
-### ⛔ Liability
-
-This software is provided “as is”, without warranty of any kind.  
-The Satoshium team is **not liable** for any damages or misuse.
-
-### 🔐 Security Assumptions
-
-All deployed agents and protocols must undergo independent review before production use.  
-Licensees are responsible for security testing within their own environments.
+in any substantial reuse of this code or documentation.
 
 ---
 
-## 🧠 Summary
+# ⛔ Liability Notice
 
-> “Use it, fork it, build on it—but verify it.”
+This project is provided:
 
-You are free to build on this work—just make sure you understand its responsibilities.
+> **“As is” — without warranty of any kind**
 
-For any clarifications, email us at: **contact@satoshium.ai**
+Satoshium contributors are not liable for:
+
+- Losses  
+- Damages  
+- Misuse  
+- Security failures  
+- Production deployment issues  
+
+Users assume full responsibility for implementation.
 
 ---
 
-© 2025-present [Satoshium Contributors](https://github.com/satoshiumai)
+# 🔐 Security & Deployment Philosophy
+
+Satoshium is currently:
+
+**Education-first. Architecture-first. Verification-first.**
+
+Any future:
+
+- Agents  
+- Protocol tools  
+- Automation systems  
+
+must undergo independent review and testing before real-world deployment.
+
+Nothing in this repository should be considered production-ready unless explicitly stated.
+
+---
+
+# 🧠 Guiding Principle
+
+> Use it.  
+> Fork it.  
+> Learn from it.  
+> Build responsibly.
+
+Satoshium is open by design —  
+but sovereignty requires responsibility.
+
+---
+
+# 📬 Contact
+
+Questions or clarifications:
+
+**contact@satoshium.ai**
+
+---
+
+# 🏷️ Copyright
+
+© 2026 Satoshium Contributors  
+https://github.com/satoshiumai
