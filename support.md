@@ -1,50 +1,142 @@
-# 🛟 Support
+# 🛟 Satoshium Support (Phase003)
 
-Thanks for being part of the Satoshium project!
+Thanks for being part of Satoshium.
 
-This file outlines how to get help, report issues, and escalate concerns in any Satoshium repository.
+This document explains how to get help, ask questions, and report issues as the ecosystem continues to grow.
 
----
-
-## 🔧 Need Help?
-
-If you’re stuck, have a question, or just need clarification:
-
-- 🧠 Start by reviewing the `docs/` folder in this repository
-- 🔍 Search existing issues before opening a new one
-- 💬 You may also check if Discussions are enabled for this repo
+Satoshium is being built in public —  
+so clear communication and respectful support matter.
 
 ---
 
-## 🐛 Found a Bug?
+# 🧭 First: What Satoshium Currently Is
 
-Please open a GitHub Issue and include:
+Satoshium is in **Phase003**:
 
-- ✅ A clear description of the bug
-- 📍 Steps to reproduce
-- 📷 Screenshots, logs, or stack traces if available
-- 💡 Any suggestions for a fix
+- Public build & education phase  
+- Documentation-first ecosystem  
+- Early demos and architecture  
+- No production financial platform  
+- No token or investment product  
 
----
-
-## 🛡️ Security or Sensitive Issues?
-
-If you believe you've found a security flaw or protocol vulnerability:
-
-1. Do **not** open a public issue.
-2. Instead, email: **security@satoshium.ai**
-
-We take protocol safety and agent integrity seriously. You’ll receive a prompt, confidential response.
+Most support questions today relate to:
+- Understanding the project
+- Navigating documentation
+- Exploring repositories
+- Following development direction
 
 ---
 
-## 📬 Escalation Paths
+# 🔎 Before Requesting Support
 
-For unresolved concerns or sensitive project coordination:
+Please first:
 
-- 🧭 General Contact: **contact@satoshium.ai**
-- 🧠 Project Lead: [Christopher D Burris](https://github.com/cdburris)
+1. Review the public website:  
+   https://satoshium.ai  
+
+2. Check the documentation in the repository  
+3. Review the roadmap and repo map  
+4. Search existing issues (if enabled)
+
+Many questions are answered in public documentation.
 
 ---
 
-> “Support isn’t just for problems—it’s how we stay aligned.” 🧭🤖
+# 🧠 General Questions & Guidance
+
+For general support, clarification, or alignment questions:
+
+📩 **contact@satoshium.ai**
+
+Include:
+- What you’re trying to understand or do  
+- Link to relevant page or repo  
+- Clear, concise question  
+
+This helps ensure thoughtful responses.
+
+---
+
+# 🐛 Reporting Problems or Errors
+
+If you find:
+
+- Broken links  
+- Incorrect documentation  
+- Demo issues  
+- Technical errors  
+
+You may:
+
+**Option A — GitHub Issue (when enabled)**
+- Describe the issue clearly  
+- Include steps to reproduce  
+- Add screenshots if helpful  
+
+**Option B — Email**
+📩 contact@satoshium.ai
+
+---
+
+# 🔐 Security Concerns
+
+If you believe you’ve discovered a legitimate security issue:
+
+Do NOT post publicly.
+
+Instead contact:
+📩 **security@satoshium.ai**
+
+Include:
+- Description of the concern  
+- Steps to reproduce  
+- Supporting evidence if applicable  
+
+Responsible disclosure helps protect the ecosystem.
+
+---
+
+# 🤝 Contributors & Builders
+
+If you want to:
+
+- Contribute documentation  
+- Suggest improvements  
+- Build aligned tools  
+- Help expand education  
+
+Start by reviewing:
+
+- `contributing.md`
+- `roadmap.md`
+- `repo-map`
+- Public documentation
+
+Satoshium grows through thoughtful contribution — not noise.
+
+---
+
+# 🚧 Response Expectations
+
+Satoshium is a deliberate, long-term build.
+
+Response times may vary, but all legitimate inquiries are reviewed carefully.
+
+Priority order:
+1. Security concerns  
+2. Critical errors  
+3. Documentation clarity  
+4. General questions  
+
+---
+
+# 🧭 Final Note
+
+Support is not just about fixing problems.
+
+It helps keep the system aligned, clear, and useful  
+for everyone learning and building alongside Satoshium.
+
+Built in public.  
+With clarity.  
+For the long term.
