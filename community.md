@@ -1,49 +1,99 @@
-# 🌐 Community Guidelines
+# 🌐 Satoshium Community
 
-Welcome to the Satoshium Community! We're building a decentralized intelligence protocol together — one contribution, one conversation, and one block at a time. To maintain a healthy and productive environment, we ask all participants to follow these guidelines.
+Satoshium is being built in public — carefully, deliberately, and with long-term purpose.
 
----
-
-## 🤝 Respect & Inclusion
-
-- Be kind, constructive, and respectful in all interactions.
-- Celebrate diversity — all backgrounds, perspectives, and skill levels are welcome.
-- Avoid harassment, discrimination, or exclusionary behavior.
+While the ecosystem is still in early formation, this document outlines how participation, collaboration, and future community engagement will evolve.
 
 ---
 
-## 🧠 Constructive Collaboration
+# 🧭 Current Phase (Phase003)
 
-- Share knowledge openly and generously.
-- Review and critique with the intent to build and improve.
-- Credit contributors for ideas, fixes, and design input.
+At this stage:
 
----
+- Satoshium is primarily a public build and education effort  
+- Core architecture and philosophy are being established  
+- Most development remains founder-led  
+- Public interaction is observational, educational, and exploratory  
 
-## 🛡️ Safe & Open Participation
-
-- Ensure that discussions, issues, and pull requests remain focused and accessible.
-- Report any behavior that violates the [Code of Conduct](./code-of-conduct.md).
-- Use inclusive language and avoid assumptions about others.
+Community will expand over time — not all at once.
 
 ---
 
-## 🔄 Community Engagement
+# 🤝 Participation Philosophy
 
-- Engage in project discussions via GitHub Issues and Discussions.
-- Attend live chats, demo days, or async updates if hosted.
-- Suggest improvements or new agent ideas — we grow with your input!
+Satoshium is open to:
+
+- Learners exploring Bitcoin and decentralized intelligence  
+- Developers studying architecture and ideas  
+- Researchers examining trust systems and verification  
+- Future contributors aligned with long-term vision  
+
+We value thoughtful participation over rapid growth.
+
+Quality over noise.  
+Signal over hype.
 
 ---
 
-## 💡 Contribution Channels
+# 🧠 Expected Conduct
 
-- 📢 **Announcements:** See `announcements.md` for recent news and updates.
-- 🛠️ **Development:** Check the open issues and project boards for tasks to tackle.
-- 🧭 **Governance:** Engage with proposals, policies, and open debates.
+Anyone interacting with Satoshium spaces should:
+
+- Be respectful and constructive  
+- Focus on ideas, not personalities  
+- Avoid hype, spam, or promotion-driven behavior  
+- Maintain intellectual honesty  
+- Respect the long-term nature of the build  
+
+See `code-of-conduct.md` for baseline behavioral expectations.
 
 ---
 
-Thank you for helping us build a decentralized, transparent, and inspiring future with Satoshium.
+# 🛠️ Contribution (Future Expansion)
 
-*Together, we’re not just coding — we’re creating a new protocol for trust.*
+Structured community contribution will expand gradually.
+
+Future participation may include:
+
+- Documentation improvements  
+- Research collaboration  
+- Testing and feedback  
+- Educational expansion  
+- Tool and agent development  
+
+When contribution channels open publicly, they will be clearly documented.
+
+---
+
+# 🧭 Communication Channels
+
+During Phase003, primary public signals come from:
+
+- 🌍 Main site: https://satoshium.ai  
+- 🗺️ Public repo map  
+- 📘 Education pages  
+- 🧠 Architecture and philosophy docs  
+- 🤖 Public demo tools  
+
+Additional community spaces may be introduced later.
+
+---
+
+# 🛡️ Community Philosophy
+
+Satoshium is not building a crowd.  
+It is building a foundation.
+
+Healthy community forms around clarity, purpose, and time — not urgency.
+
+We are building slowly so what emerges is strong.
+
+---
+
+# 🧠 Final Note
+
+If you are here early, you are seeing the foundation stage.
+
+Observe. Learn. Think.
+
+Participation will expand when the system is ready — and when it serves the mission.
