@@ -1,51 +1,94 @@
-# 🌐 Contributors to Satoshium
+# 🌐 Satoshium Contributors
 
-We recognize and thank the individuals helping build **Satoshium** — a decentralized intelligence protocol governed by Bitcoin.
+Satoshium is a long-term public build exploring decentralized intelligence aligned with Bitcoin and verifiable systems.
 
-This project exists because of the time, effort, and dedication of its contributors. Whether through code, design, documentation, testing, strategy, or community engagement — your involvement makes this movement stronger.
-
----
-
-## 👥 Acknowledged Contributors
-
-- **Christopher D Burris** – Vision, architecture, policy governance, and protocol leadership
-- **Open Source Collaborators** – Anonymous contributors helping refine logic and modularity
-- **AI Co-Creators** – Agent-based development assistance powered by Satoshium prototypes
+This page recognizes those contributing to its early formation and ongoing development.
 
 ---
 
-## 🧠 Contribute Your Expertise
+# 🧭 Current Phase (Phase003)
 
-We welcome contributions in the following areas:
+Satoshium is currently in a foundational stage:
 
-- Software engineering (Python, JS, Node, React)
-- AI and agent-based systems
-- Decentralized protocol design
-- Policy and ethics frameworks
-- Documentation and educational content
-- Testing, QA, and simulation environments
+- Core direction and architecture are being established  
+- Public education and documentation are expanding  
+- Tools and systems are being developed gradually  
+- Most development remains founder-led  
 
----
-
-## 📬 Get Involved
-
-Reach out via:
-
-- **X (Twitter)**: [@satoshiumAI](https://twitter.com/satoshiumAI)
-- **GitHub Discussions**: [github.com/satoshiumai/.github/discussions](https://github.com/satoshiumai/.github/discussions)
-- **Email**: contact@satoshium.ai
-
-> Every contributor, big or small, helps push decentralized intelligence forward. Join us.
+Contributor recognition will expand over time as the ecosystem grows.
 
 ---
 
-## 🔐 Contribution Ethics
+# 👤 Primary Builder
 
-We operate under a principle of **transparent evolution**:
-- No closed-door decisions
-- All suggestions reviewed with clear feedback loops
-- Contributions evaluated on merit, clarity, and impact
+**Christopher D. Burris**  
+Vision, architecture, educational framework, and long-term system direction.
 
-Thank you for being part of something foundational. 🧬
+Satoshium is being built deliberately and publicly — one layer at a time.
 
-— *The Satoshium Core Team*
+---
+
+# 🤖 AI-Assisted Development
+
+AI tools and agent-based systems assist in:
+
+- documentation refinement  
+- structural design  
+- research exploration  
+- simulation and concept testing  
+
+All outputs are reviewed and curated within the Satoshium framework.
+
+AI supports the build — it does not define the mission.
+
+---
+
+# 🌱 Future Contributors
+
+As the ecosystem matures, contributors may include:
+
+- developers  
+- researchers  
+- designers  
+- educators  
+- testers and reviewers  
+
+Contribution pathways will open gradually when structure and tooling support it.
+
+---
+
+# 🧠 How Contribution Will Work (Future)
+
+Future contribution areas may include:
+
+- documentation & education  
+- protocol research  
+- testing and simulations  
+- interface and experience design  
+- aligned tooling and experiments  
+
+When public contribution begins, clear guidelines will be provided.
+
+---
+
+# 🛡️ Contribution Principles
+
+All contributions will be evaluated based on:
+
+- clarity  
+- usefulness  
+- alignment with mission  
+- long-term value  
+- respect for open, verifiable systems  
+
+Satoshium grows carefully — not quickly.
+
+---
+
+# 🧭 Final Note
+
+If you are seeing this early, you are witnessing the foundation stage.
+
+Satoshium is being built step by step, in public, with intention.
+
+Recognition will expand as participation expands — naturally and over time.
