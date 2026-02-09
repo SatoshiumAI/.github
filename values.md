@@ -1,36 +1,143 @@
-# 🌱 Our Values
+# 🌱 Satoshium Values (Phase003)
 
-At **Satoshium**, we strive to build decentralized intelligence governed by cryptographic truth. These core values serve as the compass for our technology, our community, and our future.
+These values guide the development of Satoshium.
 
----
+They are not marketing statements.  
+They are operating principles.
 
-## 🧱 1. Protocol Over Power  
-We believe decentralized protocols should replace centralized commands. Power is not to be held—it is to be distributed.
-
-## 🔍 2. Transparency by Default  
-We operate in the open. Code, decisions, and trade-offs are visible and inspectable.
-
-## 🛡 3. Privacy with Purpose  
-We protect user privacy, not to conceal corruption, but to empower individuals.
-
-## ⚖️ 4. Integrity Over Incentives  
-We choose what is right—even when it’s not profitable. Our incentives serve integrity, not the other way around.
-
-## 🧠 5. Intelligence with Accountability  
-Artificial agents must be auditable, reproducible, and align with cryptographic truth—not human whims.
-
-## 🌍 6. Borderless Collaboration  
-We welcome contributors across geographies, ideologies, and cultures, united by a common protocol.
-
-## 🚀 7. Resilience Through Simplicity  
-We build modular, composable systems designed to fail gracefully and recover quickly.
-
-## 📚 8. Education is Empowerment  
-We teach what we build. Knowledge is not hoarded—it’s open-sourced and shared.
-
-## 💡 9. Curiosity Fuels Innovation  
-We encourage exploration, experimentation, and iteration. Our roadmap is shaped by both logic and learning.
+Satoshium is being built slowly, publicly, and intentionally.  
+These values exist to keep the direction clear.
 
 ---
 
-These values are living principles. As **Satoshium** evolves, they may grow—but they will not break.
+# 🧱 Protocol Over Authority
+
+Rules should be verifiable — not imposed.
+
+We believe systems should operate by transparent protocol rather than centralized command or personal influence.
+
+When rules are clear and inspectable, trust becomes optional.
+
+---
+
+# 🔍 Transparency by Default
+
+Satoshium is being built in public.
+
+Decisions, structure, and direction are visible whenever possible.  
+Clarity reduces confusion.  
+Openness builds long-term credibility.
+
+Not everything must be public — but nothing should be intentionally misleading.
+
+---
+
+# 🛡 Privacy with Responsibility
+
+Privacy protects individuals.  
+It should not protect corruption.
+
+Satoshium supports privacy as a tool for:
+- personal sovereignty  
+- safety  
+- freedom of thought  
+- open participation  
+
+Privacy and accountability can coexist.
+
+---
+
+# ⚖️ Integrity Over Incentives
+
+Not everything valuable is profitable.
+
+Satoshium prioritizes:
+- long-term usefulness  
+- clarity  
+- honesty  
+- durability  
+
+Short-term hype, speculation, or artificial urgency are avoided.
+
+---
+
+# 🧠 Intelligence Aligned with Truth
+
+Artificial intelligence must be:
+- auditable  
+- explainable  
+- bounded by rules  
+- aligned with verifiable reality  
+
+Systems built without grounding drift toward manipulation.  
+Systems grounded in truth remain stable.
+
+---
+
+# 🌍 Open and Borderless Participation
+
+Satoshium is open to anyone who approaches in good faith.
+
+Participation does not require:
+- credentials  
+- geography  
+- status  
+- permission  
+
+Respectful collaboration is always welcome.
+
+---
+
+# 🧱 Simplicity Creates Resilience
+
+Complex systems fail in complex ways.
+
+Where possible, Satoshium favors:
+- simple structures  
+- modular design  
+- clear logic  
+- minimal dependency  
+
+Resilience grows from clarity, not complication.
+
+---
+
+# 📚 Education Comes First
+
+Understanding must come before adoption.
+
+Satoshium emphasizes:
+- clear Bitcoin education  
+- transparent architecture  
+- honest explanation of trade-offs  
+- long-term thinking  
+
+An informed community builds stronger systems.
+
+---
+
+# 🚧 Built for the Long Term
+
+Satoshium is not being rushed.
+
+It is being built:
+- carefully  
+- visibly  
+- without artificial deadlines  
+- without hype cycles  
+
+Each step should make the system stronger and more understandable.
+
+---
+
+# 🧭 Final Note
+
+Values are only meaningful when they guide action.
+
+These principles exist to ensure that  
+as Satoshium evolves,  
+its foundation remains stable.
+
+Clear.  
+Verifiable.  
+Built to last.
