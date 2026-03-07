@@ -1,128 +1,137 @@
 # Satoshium
 
-A decentralized intelligence infrastructure built on Bitcoin.
+A decentralized intelligence infrastructure aligned with the Bitcoin standard.
+
+Satoshium explores how humans and AI can reason about complex systems using shared knowledge, verifiable claims, and simulation environments.
 
 Built in public.  
 Calm. Long-term. Real.
 
 ---
 
-## 🛰️ Welcome to Satoshium
+# 🛰️ What Satoshium Is
 
-Satoshium is a Bitcoin-aligned intelligence ecosystem exploring how verifiable truth, cryptographic ownership, and autonomous systems can coexist.
+Satoshium is being developed as a **reasoning platform for decentralized systems**.
 
-What began as an idea for AI agents has evolved into something broader:
+The platform explores how knowledge, verification, and simulation can combine to support more reliable decision-making in complex environments.
 
-- Public education  
-- Real tools  
-- Open architecture  
-- Bitcoin-aligned intelligence  
-- Verifiable systems built for the long term  
+The architecture brings together several foundational ideas:
 
-Satoshium is not being rushed.  
-It is being built deliberately — one solid release at a time.
+- **Bitcoin** → cryptographic trust and verifiable value  
+- **Knowledge systems** → structured terminology and shared definitions  
+- **Verification layers** → rules, governance, and safety constraints  
+- **Simulation environments** → testing ideas before deployment  
+- **AI systems** → assisting humans in reasoning about large systems  
 
----
-
-## 🚀 Current Direction — Phase003
-
-Phase003 marks the transition from early exploration to active public build.
-
-The focus now:
-
-- Building real tools before speculation  
-- Teaching Bitcoin and sovereign systems clearly  
-- Exploring AI agents governed by rules, not whims  
-- Publishing progress openly  
-- Creating infrastructure that can outlast hype cycles  
-
-No artificial deadlines.  
-No vapor.  
-Just steady forward motion.
-
-Every commit = forward motion.
+Together these form an infrastructure where both **humans and AI systems can reason using shared, verifiable information.**
 
 ---
 
-## 🧠 What Satoshium Represents
+# 🧠 Platform Model
 
-Satoshium exists at the intersection of:
+Satoshium is structured as a layered system.
 
-**Bitcoin → verifiable value**  
-**AI → programmable capability**  
-**Agents → autonomous execution**
+Core layers include:
 
-Together, they enable systems that are:
-- Trust-minimized  
-- Protocol-governed  
-- Transparent  
-- Sovereign by design  
+### Knowledge Layer
+Canonical terminology, specifications, and shared platform definitions.
 
-The goal is not rapid growth.  
-The goal is durable infrastructure.
+### Trust & Safety Layer
+Verification rules, governance constraints, and safety boundaries.
 
----
+### Intelligence Layer
+Interfaces, agents, and reasoning tools that interact with the platform’s knowledge structures.
 
-## 🧩 Ecosystem Overview
+### Simulation Layer
+Experimental environments used to test scenarios, models, and system behavior.
 
-Satoshium is being built as a modular ecosystem.
+### Public Interface Layer
+Documentation, education, and public access to the platform’s tools and architecture.
 
-Core areas include:
-
-- Bitcoin education & public knowledge  
-- Lightning & payment infrastructure  
-- AI-assisted tools and agents  
-- Verifiable coordination systems  
-- Public documentation and research  
-
-Some repositories remain private while foundational work stabilizes.  
-Public components are released gradually — once solid.
+This structure allows the ecosystem to evolve **deliberately and transparently over time.**
 
 ---
 
-## 💡 Who This Is For
+# 🚀 Public Build
 
-Satoshium is for people who value:
+Satoshium is being built openly through the **Satoshium Progress Build**.
 
-- Verifiable systems over hype  
-- Sovereignty over convenience  
-- Long-term infrastructure over short-term trends  
-- Calm building over fast marketing  
+Public development includes:
+
+- Architecture documentation
+- Platform experiments
+- Labs and simulation tools
+- Development milestones
+- Repository ecosystem mapping
+
+Progress site:
+
+**https://satoshium.ai**
+
+Public build documentation:
+
+**https://github.com/SatoshiumAI/satoshium-progress**
+
+---
+
+# 🧩 Repository Ecosystem
+
+The Satoshium organization contains repositories representing different architectural layers.
+
+Examples include:
+
+- Canon & specification repositories  
+- Knowledge and documentation systems  
+- Trust and governance infrastructure  
+- Intelligence and agent frameworks  
+- Simulation and laboratory environments  
+- Public interfaces and educational systems  
+
+Not every repository is public.  
+Components are released gradually as they stabilize.
+
+---
+
+# 💡 Who Satoshium Is For
+
+Satoshium is intended for people interested in:
+
+- decentralized intelligence systems
+- Bitcoin-aligned infrastructure
+- verifiable knowledge systems
+- AI governance and reasoning frameworks
+- simulation-driven development
 
 Including:
 
-- Developers building Bitcoin-aligned tools  
-- Designers exploring AI + sovereignty  
-- Researchers studying decentralized systems  
-- Individuals seeking signal over noise  
+- developers
+- researchers
+- system designers
+- long-horizon builders
 
 ---
 
-## 🌍 Public Build Philosophy
+# 🌍 Philosophy
+
+Satoshium follows a simple approach:
 
 Built in public.  
-Not hype.  
-Not vapor.  
-Visible progress only.
+Long-term oriented.  
+No hype.  
+Only real progress.
 
-Satoshium is not chasing attention.  
-It is building foundations.
+The goal is not rapid growth.
 
-The work is iterative.  
-The timeline is long.  
-The direction is clear.
+The goal is **durable intelligence infrastructure.**
 
 ---
 
-## 📬 Connect
+# 📬 Connect
 
-🌍 Main site: https://satoshium.ai  
-🐙 GitHub: https://github.com/SatoshiumAI  
-📧 contact@satoshium.ai  
+🌍 https://satoshium.ai  
+🐙 https://github.com/SatoshiumAI  
+📧 contact@satoshium.ai
 
 ---
 
-**Not a startup. Not a DAO.  
-A long-term protocol ecosystem built on truth.**
-
-Phase003 — Public build era.
+**Satoshium — Sovereign intelligence infrastructure for the Bitcoin era.**
