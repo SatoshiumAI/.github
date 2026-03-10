@@ -2,18 +2,18 @@
 
 This file answers common questions about Satoshium, its purpose, and how the ecosystem is being built.
 
-Satoshium is a long-term public build exploring Bitcoin-aligned intelligence, verifiable systems, and calm infrastructure development.
+Satoshium is a long-term public build exploring Bitcoin-aligned intelligence infrastructure, verifiable systems, and calm infrastructure development.
 
 ---
 
 ## 🤖 What is Satoshium?
 
-Satoshium is a Bitcoin-aligned intelligence ecosystem exploring how verifiable value, transparent rules, and autonomous systems can coexist.
+Satoshium is a Bitcoin-aligned intelligence infrastructure exploring how verifiable value, transparent rules, and autonomous systems can coexist.
 
 It combines:
 
 - Bitcoin as a foundation of verifiable value  
-- AI-assisted tools and agent concepts  
+- AI-assisted tools and experimental system concepts  
 - Public education and documentation  
 - Modular infrastructure built in the open  
 
@@ -31,7 +31,7 @@ Each repository focuses on a specific function such as:
 - Core logic and schemas  
 - Specifications and documentation  
 - Interfaces and tools  
-- Agent concepts and simulations  
+- Concept exploration and simulations  
 - Educational and public-facing components  
 
 This structure allows development to remain:
@@ -50,9 +50,10 @@ Some represent future-facing research or staging areas.
 Neither in the traditional sense.
 
 Satoshium is better understood as:
+
 > a long-term infrastructure exploration
 
-It may produce tools, agents, and educational resources over time, but it is not being rushed toward a single commercial release.
+It may produce tools, systems, and educational resources over time, but it is not being rushed toward a single commercial release.
 
 Components are released only when stable and meaningful.
 
@@ -63,6 +64,7 @@ Components are released only when stable and meaningful.
 Yes.
 
 Public-facing components now include:
+
 - Educational resources around Bitcoin and sovereignty  
 - Website and documentation ecosystem  
 - Early AI-assisted demonstrations  
@@ -88,13 +90,15 @@ The goal is clarity and usefulness — not premature exposure of unfinished syst
 Most AI projects focus on speed, capability, and growth.
 
 Satoshium focuses on:
+
 - verifiability  
 - transparency  
 - rule-based operation  
 - alignment with cryptographic ownership  
 - long-term durability  
 
-It is not attempting to compete with mainstream AI platforms.  
+It is not attempting to compete with mainstream AI platforms.
+
 It is exploring how intelligence can function within verifiable systems.
 
 ---
@@ -119,6 +123,7 @@ It is designed for long-term relevance.
 As the ecosystem matures, contribution pathways will expand.
 
 For now:
+
 - Observe progress  
 - Explore public repositories  
 - Follow updates  
