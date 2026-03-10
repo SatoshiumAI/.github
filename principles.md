@@ -1,4 +1,4 @@
-# 🌐 Satoshium Principles
+# 📜 Satoshium Principles
 
 These principles guide the long-term design and evolution of Satoshium.
 
@@ -15,7 +15,7 @@ Built to last.
 
 Opaque systems create fragile trust.
 
-Satoshium favors intelligence that can be:
+Satoshium favors intelligence and system behavior that can be:
 - examined  
 - understood  
 - tested  
@@ -54,13 +54,13 @@ Its characteristics:
 
 make it a reliable base layer for systems that require long-term trust minimization.
 
-Where appropriate, Satoshium aligns with Bitcoin as a foundational layer.
+Where appropriate, Satoshium aligns with Bitcoin as a root layer of trust.
 
 ---
 
 ## 🧬 4. Accountability Matters
 
-Autonomous systems should operate within clear boundaries.
+Autonomous systems should operate within explicit and reviewable boundaries.
 
 Where agents or automated processes are used, they should aim to be:
 - understandable  
@@ -147,4 +147,4 @@ They are intended to:
 
 They may evolve as understanding improves, but their purpose remains constant:
 
-To support the creation of verifiable, durable, and transparent digital systems.
+To support the creation of verifiable, durable, and transparent digital infrastructure.
