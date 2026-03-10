@@ -92,8 +92,6 @@ Components are released gradually as they stabilize.
 
 ---
 
----
-
 # 🗺️ Satoshium Repository Map
 
 Satoshium is composed of multiple repositories that together form a layered intelligence infrastructure.
