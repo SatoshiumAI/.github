@@ -1,4 +1,4 @@
-# 👁️ First Look at Satoshium (Phase003)
+# 👁️ First Look at Satoshium
 
 Welcome to **Satoshium**.
 
@@ -10,7 +10,7 @@ Satoshium is being built deliberately and publicly, one layer at a time.
 
 ## 🧭 What Is Satoshium?
 
-Satoshium is a long-term project exploring **decentralized intelligence** aligned with Bitcoin and verifiable systems.
+Satoshium is a long-term project exploring **decentralized intelligence infrastructure** aligned with Bitcoin and verifiable systems.
 
 At its core, Satoshium asks:
 
@@ -78,11 +78,11 @@ No installation is required to follow the project.
 
 ---
 
-## 🤖 About Tools and Agents
+## 🧪 About Tools and Experiments
 
 Some demonstrations and experiments exist, but Satoshium is **not yet a finished system**.
 
-Agents, tools, and modules will emerge gradually — only when they align with the underlying philosophy.
+Tools, systems, and experiments will emerge gradually — only when they align with the underlying philosophy.
 
 This is intentional.
 
@@ -98,13 +98,13 @@ To avoid confusion, Satoshium is not:
 - a social network  
 - a hype-driven AI platform  
 
-It is a **long-term exploration of verifiable intelligence**.
+It is a **long-term exploration of verifiable intelligence infrastructure**.
 
 ---
 
 ## 🌱 Participation (For Now)
 
-During Phase003:
+During early development:
 
 - learning and observation are encouraged  
 - documentation feedback is welcome  
