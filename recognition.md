@@ -1,4 +1,4 @@
-# 🌟 Recognition (Phase003)
+# 🌟 Recognition (Phase004)
 
 Satoshium is being built deliberately and publicly.
 
@@ -26,7 +26,7 @@ Formal recognition will grow naturally as participation expands.
 # 👤 Primary Builder
 
 **Christopher D. Burris**  
-Founder, architect, and long-term steward of the Satoshium project.
+Founder and primary architect of the Satoshium project.
 
 Responsible for:
 - vision and direction  
@@ -40,7 +40,7 @@ Satoshium is being built step by step, in public.
 
 # 🤖 AI-Assisted Contributions
 
-AI tools assist with:
+AI tools assist the project through:
 
 - documentation refinement  
 - structural development  
