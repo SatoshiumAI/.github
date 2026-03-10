@@ -1,12 +1,12 @@
 # Mission
 
-To build a decentralized intelligence ecosystem aligned with Bitcoin, truth, and long-term sovereignty.
+To build a decentralized intelligence infrastructure aligned with Bitcoin, truth, and long-term sovereignty.
 
 Satoshium exists to explore and create systems where:
 
 - Value is verifiable  
 - Intelligence is accountable  
-- Agents operate under rules, not whims  
+- Systems operate under rules, not whims  
 - Individuals retain control over identity and assets  
 - Infrastructure outlasts hype cycles  
 
@@ -26,6 +26,7 @@ We are entering an era where:
 Without verifiable foundations, these systems risk becoming opaque and unaccountable.
 
 Bitcoin introduced a new model:
+
 > Trust minimized. Rules enforced. Truth verifiable.
 
 Satoshium extends that model into intelligent systems.
@@ -57,7 +58,7 @@ Over time, Satoshium aims to contribute to:
 
 - Bitcoin-aligned educational infrastructure  
 - AI tools governed by clear rules and auditability  
-- Autonomous agents that respect cryptographic ownership  
+- Autonomous systems that respect cryptographic ownership  
 - Systems that reduce reliance on centralized trust  
 - Public knowledge that helps individuals understand and adapt  
 
@@ -78,10 +79,11 @@ No hype-driven launches.
 No promises without working prototypes.
 
 Progress is measured by:
-- Clarity
-- Stability
-- Usefulness
-- Verifiability
+
+- Clarity  
+- Stability  
+- Usefulness  
+- Verifiability  
 
 ---
 
