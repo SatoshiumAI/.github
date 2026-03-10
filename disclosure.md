@@ -1,6 +1,6 @@
-# 🕵️ Satoshium Disclosure Policy (Phase003)
+# 🕵️ Satoshium Disclosure Policy
 
-Satoshium is being built as a long-term public project exploring decentralized intelligence aligned with Bitcoin and verifiable systems.
+Satoshium is being built as a long-term public project exploring decentralized intelligence infrastructure aligned with Bitcoin and verifiable systems.
 
 Responsible disclosure helps protect the integrity, security, and credibility of everything being built.
 
