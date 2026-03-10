@@ -10,14 +10,15 @@ For now, this document explains how thoughtful participation may occur as develo
 
 ---
 
-## 🧭 Current Phase — Public Build (Phase003)
+## 🧭 Current Development Stage
 
-Satoshium is currently in an active public build phase.
+Satoshium is currently in an active public build stage.
 
 Focus areas include:
+
 - Educational infrastructure around Bitcoin and sovereignty  
 - Architecture and documentation refinement  
-- AI-assisted tool exploration  
+- Platform systems exploration  
 - Verifiable system design  
 - Long-term ecosystem alignment  
 
@@ -25,6 +26,7 @@ Development is ongoing and steady.
 However, structured external contributions are intentionally limited until core components stabilize.
 
 This helps preserve:
+
 - clarity  
 - coherence  
 - architectural integrity  
@@ -37,6 +39,7 @@ This helps preserve:
 Even while core development remains focused, there are still meaningful ways to contribute.
 
 ### 📚 Learn and explore
+
 - Review public repositories  
 - Read documentation  
 - Follow architectural direction  
@@ -47,7 +50,9 @@ Thoughtful understanding is the most valuable first contribution.
 ---
 
 ### 🧠 Provide thoughtful feedback
+
 If something is unclear or could be improved:
+
 - Suggest documentation clarity improvements  
 - Identify conceptual gaps  
 - Ask constructive questions  
@@ -58,7 +63,9 @@ Clear thinking strengthens systems.
 ---
 
 ### 🌍 Share responsibly
+
 If Satoshium resources are helpful:
+
 - Share educational materials  
 - Reference documentation  
 - Encourage thoughtful discussion  
@@ -75,7 +82,7 @@ As the ecosystem matures, structured contribution opportunities will open in are
 - Documentation and knowledge expansion  
 - Testing and simulation environments  
 - Interface and usability improvements  
-- Modular tool development  
+- Modular platform tool development  
 - Research and specification refinement  
 
 Clear contribution guidelines will be published when appropriate.
