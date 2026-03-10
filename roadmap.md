@@ -1,4 +1,4 @@
-# 🗺️ Satoshium Roadmap (Phase003)
+# 🗺️ Satoshium Roadmap (Phase004)
 
 A public, realistic plan.  
 Built one visible step at a time.
@@ -20,39 +20,46 @@ Every step should be real.
 
 ---
 
-# 🟢 Phase 0 — Proof of Progress (Now)
+# 🟢 Phase 0 — Foundation & Proof of Progress
 
 **Status:** Active
 
-This phase establishes visible legitimacy and foundation.
+This phase establishes visible legitimacy and structural foundations.
+
+Completed / ongoing:
 
 - ✅ Public build hub (website)
 - ✅ Bitcoin education library
 - ✅ “What is Satoshium?” explainer
 - ✅ Repo map (public architecture view)
-- ✅ AI demo (public + USPTO-supportive)
+- ✅ Early AI demonstrations
 - ✅ Roadmap + changelog transparency
 
-Focus:  
-Clarity. Presence. Proof of real build.
+Focus:
+
+Clarity.  
+Public presence.  
+Proof that real work is happening.
 
 ---
 
-# 🟣 Phase 1 — Public Demos
+# 🟣 Phase 1 — Architecture & Platform Structure
 
 **Status:** Beginning
 
-Simple, useful demonstrations of ideas.
+This phase focuses on strengthening the internal architecture of the ecosystem.
 
-Planned:
+Planned work:
 
-- Satoshium Hub Chat demo page
-- Bitcoin imitator checker
-- Agent firewall explorer (Aegis)
-- Architecture explorer
+- Platform architecture documentation
+- Repo ecosystem alignment
+- Platform layer definitions
+- Core platform modules maturing
+- Knowledge layer expansion
 
-Goal:  
-Show, not tell.
+Goal:
+
+Ensure Satoshium grows as a **coherent platform**, not a collection of projects.
 
 ---
 
@@ -62,15 +69,16 @@ Show, not tell.
 
 Prepare the ecosystem for contributors and builders.
 
-Planned:
+Planned work:
 
-- “Start Here” onboarding page
-- Public docs hub
-- First “good first issue” list
+- “Start Here” developer guide
+- Public documentation hub
 - Contributor pathways
-- Structured documentation expansion
+- First curated "good first issue" list
+- Developer-friendly architecture explanations
 
-Goal:  
+Goal:
+
 Make Satoshium understandable and buildable.
 
 ---
@@ -79,31 +87,33 @@ Make Satoshium understandable and buildable.
 
 **Status:** Future
 
-Growth without noise.
+Gradual ecosystem growth without hype.
 
-Planned:
+Planned work:
 
-- Newsletter updates (periodic)
-- Public milestone tracking
-- Community contributions showcase
-- Contributor recognition
-- Long-term ecosystem alignment
+- periodic public updates
+- milestone tracking
+- contributor recognition
+- community participation in experiments
+- educational content expansion
 
-Goal:  
-A small, aligned community — not hype-driven growth.
+Goal:
+
+A small, aligned ecosystem of builders and thinkers.
 
 ---
 
-# 🧠 Long-Term Direction (Beyond Phase003)
+# 🧠 Long-Term Direction
 
-Satoshium may eventually include:
+Over time Satoshium may explore:
 
-- Verification-first AI agents  
-- Trust and audit systems  
-- Bitcoin-aligned identity layers  
-- Cryptographically accountable intelligence  
+- verification-first intelligent systems
+- trust and audit infrastructure
+- Bitcoin-aligned identity frameworks
+- cryptographically accountable reasoning systems
+- simulation-driven governance tools
 
-But only when ready.
+But only when the foundations are ready.
 
 No premature releases.  
 No artificial deadlines.
@@ -116,30 +126,32 @@ Not by funding.
 Not by followers.  
 Not by noise.
 
-Progress =
+Progress equals:
 
-- Useful pages created  
-- Clear ideas published  
-- Real tools demonstrated  
-- Honest transparency  
+- useful documentation
+- clear ideas
+- working demonstrations
+- honest transparency
 
 ---
 
 # 🔐 Guiding Rule
 
-If it does not help people understand  
-Bitcoin, AI, or sovereignty better…
+If something does not help people understand
 
-…it does not ship.
+Bitcoin, AI, or sovereignty better —
+
+it does not ship.
 
 ---
 
 # 🌐 Explore
 
-- Main site: https://satoshium.ai  
-- Public build hub  
-- Repo map  
-- GitHub organization  
+Main site:  
+https://satoshium.ai
+
+Public build hub:  
+https://github.com/SatoshiumAI/satoshium-progress
 
 ---
 
@@ -153,4 +165,3 @@ Not a trend.
 
 A system being constructed carefully  
 for the world that comes next.
-```
