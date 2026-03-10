@@ -2,20 +2,20 @@
 
 Satoshium is being built in public — carefully, deliberately, and with long-term purpose.
 
-While the ecosystem is still in early formation, this document outlines how participation, collaboration, and future community engagement will evolve.
+While the ecosystem is still in early formation, this document outlines how participation, collaboration, and future community engagement may evolve.
 
 ---
 
-# 🧭 Current Phase (Phase003)
+# 🧭 Current Development Stage
 
 At this stage:
 
 - Satoshium is primarily a public build and education effort  
-- Core architecture and philosophy are being established  
+- Core architecture and platform concepts are still being established  
 - Most development remains founder-led  
 - Public interaction is observational, educational, and exploratory  
 
-Community will expand over time — not all at once.
+Community will expand gradually — not all at once.
 
 ---
 
@@ -24,9 +24,9 @@ Community will expand over time — not all at once.
 Satoshium is open to:
 
 - Learners exploring Bitcoin and decentralized intelligence  
-- Developers studying architecture and ideas  
-- Researchers examining trust systems and verification  
-- Future contributors aligned with long-term vision  
+- Developers studying architecture and systems design  
+- Researchers examining trust systems and verification frameworks  
+- Future contributors aligned with the long-term vision  
 
 We value thoughtful participation over rapid growth.
 
@@ -59,7 +59,7 @@ Future participation may include:
 - Research collaboration  
 - Testing and feedback  
 - Educational expansion  
-- Tool and agent development  
+- Platform systems and tool development  
 
 When contribution channels open publicly, they will be clearly documented.
 
@@ -67,13 +67,13 @@ When contribution channels open publicly, they will be clearly documented.
 
 # 🧭 Communication Channels
 
-During Phase003, primary public signals come from:
+Primary public signals currently come from:
 
 - 🌍 Main site: https://satoshium.ai  
 - 🗺️ Public repo map  
 - 📘 Education pages  
-- 🧠 Architecture and philosophy docs  
-- 🤖 Public demo tools  
+- 🧠 Architecture and philosophy documentation  
+- 🤖 Public demonstration tools  
 
 Additional community spaces may be introduced later.
 
