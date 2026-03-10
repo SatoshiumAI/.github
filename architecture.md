@@ -1,187 +1,210 @@
-# 🏗️ Architecture
+# 🏗️ Satoshium Architecture
 
-This document outlines the high-level structure and architectural philosophy of the Satoshium ecosystem.
+This document outlines the architectural model guiding the development of the Satoshium ecosystem.
 
-It exists to help contributors, observers, and future builders understand how Satoshium is structured, how its components interact, and why it is being built this way.
+Satoshium is being developed as a **layered intelligence infrastructure** designed to support long-term systems where humans and AI collaborate using shared knowledge, verification frameworks, and simulation environments.
 
-Satoshium is designed as long-term infrastructure — not a short-term product.
+The architecture prioritizes:
+
+- verifiable truth
+- shared reasoning systems
+- governance and safety constraints
+- simulation before deployment
+- long-horizon system design
+
+Satoshium is not designed as a short-term application.
+
+It is being built as **durable infrastructure for decentralized intelligence systems aligned with Bitcoin-style trust models**.
 
 ---
 
-## 🧠 Architectural Philosophy
+# 🧠 Architectural Principles
 
 Satoshium is built around several core design principles:
 
-- **Bitcoin-aligned foundations**: Verifiable value and cryptographic truth serve as base primitives.
-- **Transparency by design**: Systems should be auditable and understandable.
-- **Protocol over personality**: Rules and logic take precedence over human discretion.
-- **Modularity**: Components should function independently and integrate cleanly.
-- **Longevity**: Architecture is designed to remain useful across technological cycles.
+### Truth Anchoring
+Cryptographic verification and auditable assumptions serve as foundational primitives.
 
-This is not rapid startup architecture.  
-It is calm, layered infrastructure.
+### Shared Knowledge
+Canonical terminology and structured definitions enable consistent reasoning across humans and AI systems.
 
----
+### Reasoning Infrastructure
+Tools and environments exist to explore claims, test ideas, and refine understanding.
 
-## 🧩 Core System Layers
+### Simulation-First Development
+Concepts should be explored and validated in controlled simulation environments before real deployment.
 
-Satoshium is being developed as a modular ecosystem composed of the following primary layers:
+### Public Build Transparency
+The platform is developed openly with visible progress and long-horizon engineering discipline.
 
-### Agents Layer (`/agents`)
-AI-driven entities designed to interpret, execute, and validate actions according to defined rules and constraints.
-
-These may eventually include:
-- assistant agents  
-- monitoring agents  
-- verification agents  
-- coordination agents  
-
-All agents are designed to operate within clear, auditable boundaries.
+This approach favors clarity and durability over rapid iteration.
 
 ---
 
-### Core Layer (`/core`)
-Foundational schemas, constants, rule definitions, and base logic used across the ecosystem.
+# 🧩 Architectural Stack (High-Level)
 
-This layer ensures consistency and reliability across all modules.
+Satoshium is organized as a layered platform where each layer supports a specific capability within the ecosystem.
 
----
+## Trust Layer
 
-### Interface Layer (`/interface`)
-Human-facing dashboards, tools, and interaction surfaces.
+Foundational assumptions and cryptographic primitives that anchor system verification.
 
-Purpose:
-- make complex systems understandable  
-- provide transparency into operations  
-- allow safe interaction with agents and tools  
-
-Interfaces prioritize clarity over visual complexity.
+This layer reflects the influence of Bitcoin’s trust model where rules and verification precede human interpretation.
 
 ---
 
-### Data Layer (`/data`)
-Structured knowledge, registries, datasets, and reference material.
+## Governance & Safety Layer (Aegis)
 
-Over time this may include:
-- public knowledge structures  
-- agent-readable datasets  
-- system logs and verification data  
+Policy frameworks and safety constraints that govern system behavior.
 
-Data is treated as long-term infrastructure.
+This layer introduces rule enforcement, agent safety boundaries, and governance mechanisms that ensure systems operate within defined limits.
 
 ---
 
-### Specs Layer (`/specs`)
-Defines behavioral standards, agent roles, lifecycle logic, and system expectations.
+## Knowledge Engine
 
-This acts as:
-> the rulebook for how Satoshium components operate
+The shared vocabulary and conceptual foundation of the platform.
 
-Clear specifications reduce ambiguity and improve reliability.
+The Knowledge Engine defines:
 
----
+- canonical terminology
+- trust models
+- conceptual definitions
+- architectural specifications
 
-### Utilities Layer (`/utils`)
-Reusable tools for:
-- encryption  
-- messaging  
-- simulation  
-- verification  
-- data handling  
-
-Utilities are designed to remain portable across environments.
+This shared knowledge layer allows humans and AI systems to reason consistently about decentralized systems.
 
 ---
 
-### Governance Layer (`/governance`)
-Documents and structures guiding:
-- contribution standards  
-- protocol updates  
-- decision frameworks  
-- system integrity  
+## Intelligence Layer
 
-Governance is intended to be transparent and rule-based where possible.
+The interaction layer where humans and AI systems engage with the platform.
 
----
+This includes:
 
-## 🔀 Conceptual Data Flow
+- AI research tools
+- reasoning interfaces
+- structured interaction environments
+- development workflows for platform systems
 
-A simplified interaction model:
-
-1. Input enters through an interface or system trigger  
-2. Validation occurs via defined rules or agent review  
-3. Execution is performed by a system component or agent  
-4. Results are logged for transparency and auditability  
-5. Output is returned to user, system, or record layer  
-
-Every step prioritizes clarity and traceability.
+Agents operate within this layer but are **not the center of the architecture**.
 
 ---
 
-## 🧬 Agent Lifecycle Model
+## Simulation Layer (Satoshium Labs)
 
-Where applicable, agents follow a consistent lifecycle:
+Controlled environments used to explore scenarios and test ideas before real-world deployment.
 
-OBSERVE → INTERPRET → VALIDATE → ACT → LOG
+Simulations allow experimentation with:
 
+- governance models
+- economic structures
+- AI coordination systems
+- decentralized infrastructure
 
-This structure ensures:
-- predictable behavior  
-- auditability  
-- repeatability  
-- controlled autonomy  
-
-Agents are designed to operate within defined boundaries, not free-form improvisation.
+Simulation-first development helps prevent fragile system design.
 
 ---
 
-## ⚙️ System Structure
+## Service Exposure Layer
 
-Satoshium favors:
+Public-facing services that expose platform capabilities to external users and systems.
 
-- Modular repositories  
-- Composable components  
-- Clear documentation  
-- Verifiable outputs  
-- Reproducible behavior  
+Examples may include:
 
-Components may be used:
-- individually  
-- in combined environments  
-- for simulation  
-- for public tools  
+- educational platforms
+- public interfaces
+- documentation systems
+- accessible infrastructure tools
 
-Flexibility without chaos.
+This layer represents the outward expression of the ecosystem.
 
 ---
 
-## 🧭 Evolution Approach
+# 🔄 The Satoshium Reasoning Loop
 
-Satoshium’s architecture will evolve slowly and deliberately.
+At the core of the platform is a continuous reasoning cycle shared by humans and AI systems.
 
-Focus areas over time:
+Knowledge
+↓
+Claims
+↓
+Verification
+↓
+Simulation
+↓
+Learning
+↓
+Knowledge
 
-- Strengthening core foundations  
-- Expanding educational and public-facing tools  
-- Exploring AI-assisted systems within verifiable constraints  
-- Integrating Bitcoin and Lightning where meaningful  
-- Improving transparency and usability  
 
-There are no artificial deadlines.  
+### Knowledge
+Canonical definitions and shared terminology.
+
+### Claims
+Hypotheses or proposed system ideas generated by humans or AI.
+
+### Verification
+Governance rules and trust models evaluate claims.
+
+### Simulation
+Labs environments test system behavior and scenarios.
+
+### Learning
+Insights and refinements are returned to the knowledge layer.
+
+This loop allows the ecosystem to **continuously refine its understanding of complex decentralized systems**.
+
+---
+
+# 🗺️ System Mapping
+
+Each architectural layer corresponds to system areas within the Satoshium ecosystem.
+
+Examples include:
+
+- **Knowledge Systems** — canonical terminology and platform definitions  
+- **Intelligence Systems** — AI research interfaces and structured interaction tools  
+- **Governance Systems** — safety enforcement and agent constraints  
+- **Simulation Systems** — experimental environments used for concept validation  
+- **Documentation Systems** — public progress, repository mapping, and traceability  
+
+Together these systems form a coherent platform for exploring decentralized intelligence infrastructure.
+
+---
+
+# 🧭 Evolution Approach
+
+Satoshium evolves slowly and deliberately.
+
+Focus areas include:
+
+- strengthening core knowledge structures
+- expanding simulation capabilities
+- developing verification and governance frameworks
+- improving public infrastructure and education
+- aligning AI research with Bitcoin-style trust systems
+
+There are no artificial deadlines.
+
 Architecture evolves as understanding deepens.
 
 ---
 
-## 🌍 Why This Architecture Exists
+# 🌍 Why This Architecture Exists
 
-The goal is not complexity.
+The goal of Satoshium is not complexity.
 
-The goal is clarity, durability, and usefulness.
+The goal is **clarity, durability, and usefulness**.
 
-Satoshium is being built as:
-> infrastructure for a future where intelligence and verifiable value coexist
+Satoshium explores a future where:
 
-Each architectural decision reflects that long-term view.
+- intelligence systems operate within verifiable rules
+- shared knowledge enables consistent reasoning
+- governance frameworks prevent uncontrolled automation
+- decentralized systems evolve through transparent experimentation
+
+Each architectural decision reflects that long-term vision.
 
 Built calmly.  
 Built publicly.  
