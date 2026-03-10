@@ -1,4 +1,4 @@
-# 📊 Satoshium Metrics (Phase003)
+# 📊 Satoshium Metrics
 
 Satoshium is being built deliberately and transparently.
 
@@ -14,12 +14,14 @@ It is guided by signal, clarity, and steady construction.
 Not everything meaningful can be measured.
 
 Satoshium does not track success by:
+
 - Token price  
 - Investor funding  
 - Marketing reach  
 - Social media growth  
 
 Instead, progress is reflected through:
+
 - Educational impact  
 - Architectural clarity  
 - Public understanding  
@@ -29,26 +31,29 @@ We measure what matters — and ignore what doesn’t.
 
 ---
 
-# 🧱 Current Phase003 Indicators
+# 🧱 Early Development Indicators
 
-During the current public build phase, progress may be observed through:
+During the current public build stage, progress may be observed through:
 
 ### 🌐 Public Website Development
+
 - Expansion of Bitcoin education pages  
 - Architecture and philosophy clarity  
 - Public-facing documentation  
-- AI demonstration deployment  
+- Experimental demonstrations
 
 ### 📘 Documentation & Structure
+
 - Repository organization and alignment  
 - Manifesto and protocol clarity  
 - Governance and principles refinement  
-- Educational publishing consistency  
+- Educational publishing consistency
 
-### 🤖 System Direction
-- Conceptual agent architecture  
+### 🧠 System Direction
+
+- Reasoning architecture development  
 - Trust and verification models  
-- Public roadmap realism  
+- Simulation and experimentation design  
 - Long-term ecosystem coherence  
 
 These are indicators of foundation — not finished products.
@@ -62,8 +67,8 @@ The following are intentionally not tracked yet:
 - Active user counts  
 - Revenue  
 - Token usage (none exists)  
-- Agent deployment metrics  
 - Platform usage statistics  
+- Infrastructure adoption metrics  
 
 These will only be introduced when real systems exist to measure.
 
@@ -73,13 +78,15 @@ These will only be introduced when real systems exist to measure.
 
 If and when operational systems emerge, metrics may include:
 
-- Agent verification success rates  
+- Verification success rates  
 - Network integrity indicators  
 - Trust-layer adoption  
 - Educational reach and usage  
 - Public contribution patterns  
+- Simulation outcomes and learning cycles  
 
 Metrics will always remain:
+
 - Transparent  
 - Minimal  
 - Meaningful  
@@ -92,6 +99,7 @@ Metrics will always remain:
 Metrics must never become performance theater.
 
 Satoshium will not optimize for:
+
 - Optics  
 - Growth pressure  
 - Artificial engagement  
