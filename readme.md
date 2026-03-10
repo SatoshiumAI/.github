@@ -1,6 +1,6 @@
 # Satoshium
 
-A decentralized intelligence infrastructure aligned with the Bitcoin standard.
+A decentralized intelligence infrastructure aligned with the Bitcoin trust model.
 
 Satoshium explores how humans and AI can reason about complex systems using shared knowledge, verifiable claims, and simulation environments.
 
@@ -40,7 +40,7 @@ Canonical terminology, specifications, and shared platform definitions.
 Verification rules, governance constraints, and safety boundaries.
 
 ### Intelligence Layer
-Interfaces, agents, and reasoning tools that interact with the platform’s knowledge structures.
+Interfaces, reasoning tools, and intelligent systems that interact with the platform’s knowledge structures.
 
 ### Simulation Layer
 Experimental environments used to test scenarios, models, and system behavior.
@@ -58,11 +58,11 @@ Satoshium is being built openly through the **Satoshium Progress Build**.
 
 Public development includes:
 
-- Architecture documentation
-- Platform experiments
-- Labs and simulation tools
-- Development milestones
-- Repository ecosystem mapping
+- Architecture documentation  
+- Platform experiments  
+- Labs and simulation tools  
+- Development milestones  
+- Repository ecosystem mapping  
 
 Progress site:
 
@@ -83,7 +83,7 @@ Examples include:
 - Canon & specification repositories  
 - Knowledge and documentation systems  
 - Trust and governance infrastructure  
-- Intelligence and agent frameworks  
+- Intelligence and reasoning systems  
 - Simulation and laboratory environments  
 - Public interfaces and educational systems  
 
@@ -96,18 +96,18 @@ Components are released gradually as they stabilize.
 
 Satoshium is intended for people interested in:
 
-- decentralized intelligence systems
-- Bitcoin-aligned infrastructure
-- verifiable knowledge systems
-- AI governance and reasoning frameworks
-- simulation-driven development
+- decentralized intelligence systems  
+- Bitcoin-aligned infrastructure  
+- verifiable knowledge systems  
+- AI governance and reasoning frameworks  
+- simulation-driven development  
 
 Including:
 
-- developers
-- researchers
-- system designers
-- long-horizon builders
+- developers  
+- researchers  
+- system designers  
+- long-horizon builders  
 
 ---
 
