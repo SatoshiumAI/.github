@@ -1,6 +1,6 @@
-# 🤝 Satoshium Code of Conduct (Phase003)
+# 🤝 Satoshium Code of Conduct
 
-Satoshium is being built as a calm, long-term public project exploring Bitcoin-aligned intelligence and verifiable systems.
+Satoshium is being built as a calm, long-term public project exploring Bitcoin-aligned intelligence infrastructure, shared knowledge systems, and verifiable reasoning environments.
 
 A respectful and thoughtful environment helps ensure clarity, collaboration, and durable progress.
 
@@ -89,7 +89,8 @@ Actions will be taken thoughtfully and proportionally.
 
 # 🧠 Final Note
 
-Satoshium is being built carefully and publicly.  
+Satoshium is being built carefully and publicly.
+
 A respectful environment ensures the project remains:
 
 - clear  
