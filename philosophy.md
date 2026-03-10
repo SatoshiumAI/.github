@@ -16,6 +16,7 @@ We are entering a world where intelligence can act, decide, and transact.
 Without verifiable foundations, such systems risk becoming opaque, centralized, and unaccountable.
 
 Bitcoin introduced a different model:
+
 > Truth that can be verified.  
 > Rules that cannot be altered arbitrarily.  
 > Systems that do not rely on trust in individuals.
@@ -29,35 +30,41 @@ Satoshium extends this model into intelligent and autonomous systems.
 These principles shape every decision within the ecosystem.
 
 ### Verifiability over authority
+
 Trust is not requested.  
 It is earned through transparency, math, and reproducibility.
 
 ### Protocol over personality
+
 Systems should function according to clear rules — not individual discretion.
 
 ### Transparency by default
+
 Black-box systems and hidden control structures undermine long-term trust.
 
 ### Reproducibility matters
+
 If something works once, it should work consistently.  
 Predictability creates reliability.
 
 ### Sovereignty with responsibility
+
 Ownership of assets, identity, and decisions carries responsibility alongside freedom.
 
 ---
 
-## 🤖 Agents, Not Just Applications
+## 🧠 Systems, Not Just Applications
 
-Satoshium explores agent-based systems rather than traditional app-centric models.
+Satoshium explores autonomous systems rather than traditional app-centric models.
 
 This includes:
-- Rule-bound intelligent agents  
+
+- Rule-bound intelligent systems  
 - Verifiable decision logic  
 - Cryptographic identity and integrity  
 - Transparent interaction between systems  
 
-Agents should operate within clear boundaries, not opaque authority.
+These systems operate within clear boundaries, not opaque authority.
 
 There are no hidden overrides.  
 No silent permissions.  
@@ -102,6 +109,7 @@ Progress is measured by usefulness and integrity — not noise.
 As artificial intelligence becomes more capable and financial systems more digital, the need for verifiable foundations grows.
 
 Systems that combine:
+
 - intelligence  
 - cryptographic truth  
 - transparent rules  
@@ -119,6 +127,7 @@ The objective is not domination.
 It is contribution.
 
 To help build a world where:
+
 - value is verifiable  
 - systems are understandable  
 - intelligence operates within rules  
