@@ -1,9 +1,9 @@
-# 📄 License — Satoshium (Phase003)
+# 📄 License — Satoshium
 
-This repository is part of the **Satoshium decentralized intelligence ecosystem**.
+This repository is part of the **Satoshium decentralized intelligence infrastructure**.
 
 Satoshium is being built as an open, educational, and architecture-first project  
-focused on Bitcoin-aligned, verifiable AI systems.
+exploring decentralized intelligence systems anchored to the Bitcoin trust layer.
 
 ---
 
@@ -63,9 +63,9 @@ Satoshium is currently:
 
 Any future:
 
-- Agents  
-- Protocol tools  
-- Automation systems  
+- systems  
+- tools  
+- automation modules  
 
 must undergo independent review and testing before real-world deployment.
 
