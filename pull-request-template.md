@@ -1,4 +1,4 @@
-# 🚀 Satoshium Pull Request Template (Phase003)
+# 🚀 Satoshium Pull Request Template (Phase004)
 
 Thank you for contributing to **Satoshium**.
 
@@ -13,7 +13,7 @@ Please complete the sections below before submitting a pull request.
 
 Briefly describe the purpose of your changes and what they improve.
 
-Summary: <Describe the change clearly>
+Summary: <Describe the change clearly>  
 Related Issue: #<Issue number if applicable>
 
 ---
@@ -32,7 +32,7 @@ Select all that apply:
 
 ---
 
-# ✅ Phase003 Checklist
+# ✅ Phase004 Checklist
 
 Before submitting, confirm:
 
@@ -59,6 +59,7 @@ Describe how changes were reviewed or tested.
 <Explain verification steps, preview links, or checks performed>
 
 If documentation-only:
+
 > Confirm formatting and link integrity checked.
 
 ---
@@ -78,6 +79,7 @@ Satoshium values:
 - clarity over speed  
 - structure over volume  
 - signal over noise  
+- durability over novelty  
 - long-term usefulness over short-term activity  
 
 Every contribution should strengthen the foundation.
