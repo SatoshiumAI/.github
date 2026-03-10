@@ -6,13 +6,13 @@ This page recognizes those contributing to its early formation and ongoing devel
 
 ---
 
-# 🧭 Current Phase (Phase003)
+# 🧭 Current Development Stage
 
 Satoshium is currently in a foundational stage:
 
 - Core direction and architecture are being established  
 - Public education and documentation are expanding  
-- Tools and systems are being developed gradually  
+- Platform systems and tools are being developed gradually  
 - Most development remains founder-led  
 
 Contributor recognition will expand over time as the ecosystem grows.
@@ -30,7 +30,7 @@ Satoshium is being built deliberately and publicly — one layer at a time.
 
 # 🤖 AI-Assisted Development
 
-AI tools and agent-based systems assist in:
+AI-assisted systems and tools support development in areas such as:
 
 - documentation refinement  
 - structural design  
@@ -65,7 +65,7 @@ Future contribution areas may include:
 - protocol research  
 - testing and simulations  
 - interface and experience design  
-- aligned tooling and experiments  
+- aligned platform tooling and experimentation  
 
 When public contribution begins, clear guidelines will be provided.
 
