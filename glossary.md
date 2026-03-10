@@ -1,90 +1,150 @@
-# 📘 Satoshium Glossary (Phase003)
+# 📘 Satoshium Glossary
 
 This glossary defines core terminology used throughout the **Satoshium** ecosystem.
 
-Satoshium is a decentralized intelligence architecture built on Bitcoin-aligned principles.  
+Satoshium is a decentralized intelligence infrastructure built on Bitcoin-aligned principles.
+
 Clear language ensures clear protocol — and clear protocol enables trust.
 
 ---
 
 # 🔑 Core Concepts
 
-## Agent
-A modular, autonomous unit of logic operating under defined protocol rules.
-
-Satoshium agents are:
-- Cryptographically accountable  
-- Scope-bound  
-- Logic-driven  
-- Unable to act outside defined permissions  
-
-Agents follow rules — not personalities.
-
----
-
-## Protocol
-The rule layer governing how agents, systems, and interactions occur.
-
-Protocol replaces:
-- Trust in individuals  
-- Centralized command  
-- Hidden decision-making  
-
-Satoshium is governed by protocol — not authority.
-
----
-
-## Verification
-The process of confirming integrity, truth, or compliance through cryptographic or transparent logic.
-
-Verification always outweighs:
-- Claims  
-- Branding  
-- Authority  
-- Reputation  
-
-If it cannot be verified, it cannot be trusted.
-
----
-
 ## Decentralized Intelligence
+
 Intelligence systems designed to operate:
-- Without centralized control  
-- Without coercion  
-- Without political bias  
-- Without hidden influence  
+
+- without centralized control  
+- without coercion  
+- without hidden authority  
+- without political influence  
 
 Decentralized intelligence must be:
-- Transparent  
-- Auditable  
-- Cryptographically accountable  
+
+- transparent  
+- auditable  
+- cryptographically accountable  
 
 ---
 
 ## Bitcoin Alignment
+
 Bitcoin serves as the foundational trust layer for Satoshium.
 
 Why Bitcoin:
-- Immutable ledger  
-- Neutral rules  
-- Global verification  
-- No central authority  
+
+- immutable ledger  
+- neutral rules  
+- global verification  
+- no central authority  
 
 Bitcoin enables systems that cannot be rewritten by power.
 
 ---
 
-## Phase003
-The current public development phase of Satoshium.
+## Protocol
 
-Focus areas:
-- Education & public understanding  
-- Architecture clarity  
-- Protocol-first design  
-- Documentation standardization  
-- Public-facing presence  
+The rule layer governing how systems interact.
 
-This phase prioritizes **clarity over speed**.
+Protocol replaces:
+
+- trust in individuals  
+- centralized command  
+- hidden decision-making  
+
+Satoshium favors **protocol over persuasion**.
+
+---
+
+## Knowledge
+
+Structured understanding accumulated within the Satoshium ecosystem.
+
+Knowledge includes:
+
+- definitions  
+- verified claims  
+- architectural concepts  
+- system reasoning models  
+
+Knowledge forms the starting point of the reasoning cycle.
+
+---
+
+## Claim
+
+A proposed statement or hypothesis that can be evaluated.
+
+Claims may originate from:
+
+- research  
+- system observation  
+- simulation outcomes  
+- human insight  
+
+Claims must be evaluated before becoming trusted knowledge.
+
+---
+
+## Verification
+
+The process of confirming integrity, truth, or compliance using transparent logic or cryptographic methods.
+
+Verification outweighs:
+
+- authority  
+- branding  
+- reputation  
+- persuasion  
+
+If something cannot be verified, it cannot be trusted.
+
+---
+
+## Simulation
+
+A controlled environment used to explore system behavior before real-world deployment.
+
+Simulations allow experimentation with:
+
+- governance models  
+- economic coordination  
+- infrastructure behavior  
+- decentralized intelligence systems  
+
+Simulation reduces fragile system design.
+
+---
+
+## Learning Loop
+
+The iterative reasoning cycle guiding Satoshium development:
+
+Knowledge
+→ Claims
+→ Verification
+→ Simulation
+→ Learning
+→ Knowledge
+
+
+Insights produced through experimentation feed back into the knowledge layer.
+
+This loop enables continuous improvement.
+
+---
+
+## Trust Layer
+
+The foundational mechanisms used to anchor system verification.
+
+Within Satoshium this primarily includes:
+
+- Bitcoin  
+- cryptographic signatures  
+- deterministic verification rules  
+
+The trust layer ensures systems cannot be manipulated by authority or persuasion.
 
 ---
 
@@ -93,10 +153,11 @@ This phase prioritizes **clarity over speed**.
 Language is part of protocol.
 
 Words must:
-- Mean something specific  
-- Remain consistent  
-- Avoid hype or ambiguity  
-- Support long-term clarity  
+
+- mean something specific  
+- remain consistent  
+- avoid hype or ambiguity  
+- support long-term clarity  
 
 If terminology becomes vague, systems become vulnerable.
 
@@ -109,15 +170,17 @@ Precision protects integrity.
 This glossary will expand carefully over time.
 
 Future additions may include:
-- Agent classifications  
-- Trust models  
-- Verification layers  
-- System modules  
+
+- governance models  
+- verification layers  
+- simulation environments  
+- infrastructure coordination systems  
 
 All additions must align with:
-- Protocol integrity  
+
+- protocol integrity  
 - Bitcoin-aligned principles  
-- Long-term clarity  
+- long-term clarity  
 
 ---
 
