@@ -1,15 +1,14 @@
-# 👑 CODEOWNERS — Satoshium (Phase003)
+# 👑 CODEOWNERS — Satoshium
 
-This file defines ownership and review responsibility across the Satoshium repositories.
+This file defines ownership and review responsibility across Satoshium repositories.
 
-During the current public build phase, primary ownership and review responsibility remains centralized to ensure clarity, consistency, and architectural integrity.
+During the current development stage, primary ownership and review responsibility remains centralized to ensure clarity, consistency, and architectural integrity.
 
 As the ecosystem grows, ownership may expand to include additional contributors and maintainers.
 
 ---
 
 # 🗂️ Ownership Rules
----
 
 Global default owner
 
@@ -25,28 +24,24 @@ GitHub configuration & governance
 
 - /.github/ @satoshiumai
 
-Tools, agents, and experiments
+Platform systems & infrastructure
 
-- /agents/ @satoshiumai
+- /network/ @satoshiumai
+- /node/ @satoshiumai
 - /utils/ @satoshiumai
 - /devtools/ @satoshiumai
 
-Interfaces & experience
+Interfaces & user interaction
 
 - /ui/ @satoshiumai
 - /interface/ @satoshiumai
 
-Network & infrastructure concepts
-
-- /network/ @satoshiumai
-- /node/ @satoshiumai
-
-Data & visuals
+Knowledge & data systems
 
 - /data/ @satoshiumai
 - /glyphs/ @satoshiumai
 
-Research & future modules
+Simulation, research, and experimentation
 
 - /demos/ @satoshiumai
 - /simulations/ @satoshiumai
@@ -54,7 +49,7 @@ Research & future modules
 - /scenarios/ @satoshiumai
 - /certifier/ @satoshiumai
 
-Timeline & journal
+Project history & documentation
 
 - /master-timeline/ @satoshiumai
 - /journal/ @satoshiumai
@@ -65,9 +60,8 @@ Timeline & journal
 
 - Primary ownership currently remains with the Satoshium maintainer
 - Changes may trigger review requests automatically
-- Structure is intentionally simple during Phase003
+- Structure is intentionally simple during early platform development
 - Additional maintainers may be added as the ecosystem matures
 
 Satoshium is being built deliberately and publicly.  
-Ownership structures will evolve carefully alongside growth.
-
+Ownership structures will evolve carefully alongside ecosystem growth.
