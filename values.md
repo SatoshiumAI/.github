@@ -1,12 +1,12 @@
-# 🌱 Satoshium Values (Phase003)
+# 🌱 Satoshium Values (Phase004)
 
 These values guide the development of Satoshium.
 
 They are not marketing statements.  
 They are operating principles.
 
-Satoshium is being built slowly, publicly, and intentionally.  
-These values exist to keep the direction clear.
+Satoshium is being built as layered coordination infrastructure — slowly, publicly, and intentionally.  
+These values help ensure the direction remains stable as the platform evolves.
 
 ---
 
@@ -14,21 +14,21 @@ These values exist to keep the direction clear.
 
 Rules should be verifiable — not imposed.
 
-We believe systems should operate by transparent protocol rather than centralized command or personal influence.
+Satoshium favors transparent protocol over centralized command, reputation authority, or personality-driven direction.
 
-When rules are clear and inspectable, trust becomes optional.
+When systems operate on inspectable structure, trust becomes optional.
 
 ---
 
 # 🔍 Transparency by Default
 
-Satoshium is being built in public.
+Satoshium is being built in public wherever possible.
 
-Decisions, structure, and direction are visible whenever possible.  
-Clarity reduces confusion.  
-Openness builds long-term credibility.
+Architecture, terminology, services, and simulations are documented across domains so the platform remains understandable as it grows.
 
 Not everything must be public — but nothing should be intentionally misleading.
+
+Transparency supports long-term coordination.
 
 ---
 
@@ -38,12 +38,13 @@ Privacy protects individuals.
 It should not protect corruption.
 
 Satoshium supports privacy as a tool for:
-- personal sovereignty  
-- safety  
-- freedom of thought  
-- open participation  
 
-Privacy and accountability can coexist.
+- personal sovereignty
+- safe participation
+- independent exploration
+- responsible experimentation
+
+Privacy and accountability are complementary — not contradictory.
 
 ---
 
@@ -52,39 +53,59 @@ Privacy and accountability can coexist.
 Not everything valuable is profitable.
 
 Satoshium prioritizes:
-- long-term usefulness  
-- clarity  
-- honesty  
-- durability  
 
-Short-term hype, speculation, or artificial urgency are avoided.
+- long-term usefulness
+- structural clarity
+- honest documentation
+- durable infrastructure
+
+Short-term hype, speculation, or artificial urgency are intentionally avoided.
 
 ---
 
-# 🧠 Intelligence Aligned with Truth
+# 🧠 Intelligence Aligned with Verifiable Structure
 
-Artificial intelligence must be:
-- auditable  
-- explainable  
-- bounded by rules  
-- aligned with verifiable reality  
+Artificial intelligence should operate within observable constraints.
 
-Systems built without grounding drift toward manipulation.  
-Systems grounded in truth remain stable.
+Satoshium supports intelligence systems that are:
+
+- auditable
+- explainable
+- scope-bounded
+- verification-aware
+- aligned with shared terminology
+
+Systems grounded in structure remain stable over time.
+
+---
+
+# 📡 Signal Without Noise
+
+Signals should communicate what matters — not amplify distraction.
+
+Satoshium develops interpretation surfaces that:
+
+- clarify platform direction
+- expose system evolution
+- improve coordination awareness
+- reduce ambiguity across layers
+
+Signal infrastructure supports understanding, not attention capture.
 
 ---
 
 # 🌍 Open and Borderless Participation
 
-Satoshium is open to anyone who approaches in good faith.
+Satoshium is open to anyone acting in good faith.
 
 Participation does not require:
-- credentials  
-- geography  
-- status  
-- permission  
 
-Respectful collaboration is always welcome.
+- credentials
+- geography
+- institutional affiliation
+- prior permission
+
+Respectful collaboration strengthens shared infrastructure.
 
 ---
 
@@ -93,26 +114,45 @@ Respectful collaboration is always welcome.
 Complex systems fail in complex ways.
 
 Where possible, Satoshium favors:
-- simple structures  
-- modular design  
-- clear logic  
-- minimal dependency  
 
-Resilience grows from clarity, not complication.
+- layered architecture
+- modular systems
+- minimal assumptions
+- observable coordination surfaces
+- documentation before automation
+
+Resilience grows from clarity.
 
 ---
 
-# 📚 Education Comes First
+# 📚 Knowledge Before Automation
 
-Understanding must come before adoption.
+Shared terminology must exist before coordination systems expand.
 
 Satoshium emphasizes:
-- clear Bitcoin education  
-- transparent architecture  
-- honest explanation of trade-offs  
-- long-term thinking  
 
-An informed community builds stronger systems.
+- glossary development
+- architecture documentation
+- education library growth
+- specification alignment
+- registry coordination surfaces
+
+Understanding supports trustworthy automation.
+
+---
+
+# 🔐 Verification Before Execution
+
+Authority should emerge from structure — not assumption.
+
+Satoshium prioritizes:
+
+- governance infrastructure
+- verification ledger surfaces
+- registry identity coordination
+- observable lifecycle alignment for agents (future)
+
+Execution systems should follow verification systems.
 
 ---
 
@@ -121,21 +161,23 @@ An informed community builds stronger systems.
 Satoshium is not being rushed.
 
 It is being built:
-- carefully  
-- visibly  
-- without artificial deadlines  
-- without hype cycles  
 
-Each step should make the system stronger and more understandable.
+- deliberately
+- visibly
+- without artificial timelines
+- without hype cycles
+- with layered infrastructure alignment
+
+Each step strengthens the platform’s foundation.
 
 ---
 
 # 🧭 Final Note
 
-Values are only meaningful when they guide action.
+Values matter only when they guide architecture.
 
-These principles exist to ensure that  
-as Satoshium evolves,  
+These principles ensure that as Satoshium evolves across trust, knowledge, intelligence, signal, and simulation layers —
+
 its foundation remains stable.
 
 Clear.  
