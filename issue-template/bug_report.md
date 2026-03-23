@@ -56,7 +56,12 @@ What actually happened instead?
 - Device:
 - Operating System:
 - Browser:
-- Repo/Page/Module:
+- governance services
+- verification ledger
+- registry surfaces
+- simulations
+- labs tools
+- navigation layers:
 - Any other relevant context:
 
 ---
