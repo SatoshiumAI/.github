@@ -57,8 +57,13 @@ body:
         Browser:
         Device:
         OS:
-        Repo/Page:
-    validations:
+        governance services
+        verification ledger
+        registry surfaces
+        simulations
+        labs tools
+        navigation layers
+        validations:
       required: false
 
   - type: textarea
