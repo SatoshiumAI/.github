@@ -6,7 +6,6 @@ on:
       - main
       - phase003
   pull_request:
-
 jobs:
   test-encryption:
     runs-on: ubuntu-latest
