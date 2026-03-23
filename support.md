@@ -1,44 +1,57 @@
-# 🛟 Satoshium Support (Phase003)
+# 🛟 Satoshium Support (Phase004)
 
 Thanks for being part of Satoshium.
 
-This document explains how to get help, ask questions, and report issues as the ecosystem continues to grow.
+This document explains how to get help, ask questions, and report issues as the ecosystem continues to grow across its layered infrastructure.
 
 Satoshium is being built in public —  
-so clear communication and respectful support matter.
+so clear communication and responsible support help keep the platform aligned and useful for everyone exploring it.
 
 ---
 
-# 🧭 First: What Satoshium Currently Is
+# 🧭 What Satoshium Currently Is
 
-Satoshium is in **Phase003**:
+Satoshium is in **Phase004 — layered infrastructure emergence**.
 
-- Public build & education phase  
-- Documentation-first ecosystem  
-- Early demos and architecture  
-- No production financial platform  
-- No token or investment product  
+This means:
 
-Most support questions today relate to:
-- Understanding the project
-- Navigating documentation
-- Exploring repositories
-- Following development direction
+- governance and verification services are operational
+- registry coordination infrastructure is emerging
+- glossary and terminology systems are expanding
+- simulation environments are active
+- documentation and architecture remain publicly visible
+- no custody platform or financial service exists
+
+Most support questions relate to:
+
+- understanding platform structure
+- navigating repositories
+- exploring services and simulations
+- interpreting architecture layers
+- locating documentation resources
 
 ---
 
 # 🔎 Before Requesting Support
 
-Please first:
+Please first review:
 
-1. Review the public website:  
-   https://satoshium.ai  
+1. Main platform  
+   https://satoshium.ai
 
-2. Check the documentation in the repository  
-3. Review the roadmap and repo map  
-4. Search existing issues (if enabled)
+2. Systems and services infrastructure  
+   https://satoshium.net
 
-Many questions are answered in public documentation.
+3. Education and terminology library  
+   https://satoshium.info
+
+4. Labs and simulations  
+   https://satoshium.xyz
+
+5. Repository directory  
+   https://satoshium.link/repos
+
+Many questions are already answered within these surfaces.
 
 ---
 
@@ -49,9 +62,10 @@ For general support, clarification, or alignment questions:
 📩 **contact@satoshium.ai**
 
 Include:
-- What you’re trying to understand or do  
-- Link to relevant page or repo  
-- Clear, concise question  
+
+- what you are trying to understand or explore
+- relevant page or repository link
+- clear, concise question
 
 This helps ensure thoughtful responses.
 
@@ -59,84 +73,112 @@ This helps ensure thoughtful responses.
 
 # 🐛 Reporting Problems or Errors
 
-If you find:
+If you encounter:
 
-- Broken links  
-- Incorrect documentation  
-- Demo issues  
-- Technical errors  
+- broken links
+- incorrect documentation
+- simulation issues
+- service interface problems
+- registry surface inconsistencies
+- repository navigation errors
 
-You may:
+You may report them using:
 
 **Option A — GitHub Issue (when enabled)**
-- Describe the issue clearly  
-- Include steps to reproduce  
-- Add screenshots if helpful  
+
+Include:
+
+- description of the issue
+- steps to reproduce
+- screenshots if helpful
 
 **Option B — Email**
+
 📩 contact@satoshium.ai
 
 ---
 
 # 🔐 Security Concerns
 
-If you believe you’ve discovered a legitimate security issue:
+If you believe you have discovered a legitimate security issue:
 
-Do NOT post publicly.
+Do **not** report it publicly.
 
 Instead contact:
+
 📩 **security@satoshium.ai**
 
 Include:
-- Description of the concern  
-- Steps to reproduce  
-- Supporting evidence if applicable  
 
-Responsible disclosure helps protect the ecosystem.
+- description of the concern
+- steps to reproduce
+- supporting evidence if applicable
+
+Responsible disclosure helps protect the platform.
 
 ---
 
 # 🤝 Contributors & Builders
 
-If you want to:
+If you would like to:
 
-- Contribute documentation  
-- Suggest improvements  
-- Build aligned tools  
-- Help expand education  
+- improve documentation
+- refine terminology systems
+- propose aligned tools
+- contribute simulations
+- support architecture clarity
+- participate in infrastructure evolution
 
 Start by reviewing:
 
 - `contributing.md`
 - `roadmap.md`
-- `repo-map`
-- Public documentation
+- repository directory
+- public architecture documentation
 
-Satoshium grows through thoughtful contribution — not noise.
+Satoshium grows through structured contribution.
 
 ---
 
 # 🚧 Response Expectations
 
-Satoshium is a deliberate, long-term build.
+Satoshium is a deliberate, long-horizon build.
 
-Response times may vary, but all legitimate inquiries are reviewed carefully.
+Response times may vary depending on platform activity.
 
 Priority order:
-1. Security concerns  
-2. Critical errors  
-3. Documentation clarity  
-4. General questions  
+
+1. security concerns
+2. critical service issues
+3. documentation clarity
+4. simulation feedback
+5. general platform questions
+
+All legitimate inquiries are reviewed carefully.
 
 ---
 
-# 🧭 Final Note
+# 🌐 Platform Support Scope
 
-Support is not just about fixing problems.
+Satoshium currently includes:
 
-It helps keep the system aligned, clear, and useful  
-for everyone learning and building alongside Satoshium.
+- layered architecture documentation
+- governance and verification services
+- registry coordination infrastructure (emerging)
+- glossary and education systems
+- simulations and experimental environments
+- repository navigation surfaces
+
+There is **no token**, exchange, custody system, or investment platform associated with Satoshium.
+
+---
+
+# 🧠 Final Note
+
+Support helps maintain clarity across the platform.
+
+It ensures architecture remains understandable, simulations remain usable, and infrastructure evolves responsibly.
 
 Built in public.  
-With clarity.  
+With structure.  
 For the long term.
