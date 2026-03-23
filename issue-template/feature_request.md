@@ -40,6 +40,21 @@ Why would this improve:
 
 ---
 
+## 🧱 Platform Layer Impact (optional)
+
+Which platform layer does this idea relate to?
+
+- Trust
+- Knowledge
+- Intelligence
+- Signal
+- Simulation
+- Developer
+- Navigation
+- Not sure yet
+
+---
+
 ## 🛠️ Proposed Idea or Approach
 Describe how this feature might work.
 
