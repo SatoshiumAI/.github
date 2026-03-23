@@ -2,10 +2,10 @@
 
 Thanks for being part of Satoshium.
 
-This document explains how to get help, ask questions, and report issues as the ecosystem continues to grow across its layered infrastructure.
+This document explains how to request help, report issues, and contribute improvements as the platform continues evolving across its layered coordination infrastructure.
 
-Satoshium is being built in public —  
-so clear communication and responsible support help keep the platform aligned and useful for everyone exploring it.
+Satoshium is built in public —  
+so clear communication helps maintain architectural clarity and long-term consistency across repositories.
 
 ---
 
@@ -19,77 +19,69 @@ This means:
 - registry coordination infrastructure is emerging
 - glossary and terminology systems are expanding
 - simulation environments are active
-- documentation and architecture remain publicly visible
+- architecture documentation remains publicly visible
 - no custody platform or financial service exists
 
-Most support questions relate to:
+Most support requests relate to:
 
-- understanding platform structure
-- navigating repositories
-- exploring services and simulations
-- interpreting architecture layers
-- locating documentation resources
+- understanding repository structure
+- navigating architecture layers
+- interpreting specifications
+- locating documentation
+- exploring services or simulations
 
 ---
 
 # 🔎 Before Requesting Support
 
-Please first review:
+Please review the following first:
 
-1. Main platform  
-   https://satoshium.ai
+- repository `README.md`
+- `docs/` directory documentation
+- `contributing.md`
+- `roadmap.md`
+- architecture references at https://satoshium.ai
+- repository directory at https://satoshium.link/repos
 
-2. Systems and services infrastructure  
-   https://satoshium.net
-
-3. Education and terminology library  
-   https://satoshium.info
-
-4. Labs and simulations  
-   https://satoshium.xyz
-
-5. Repository directory  
-   https://satoshium.link/repos
-
-Many questions are already answered within these surfaces.
+Many questions are already answered within these resources.
 
 ---
 
 # 🧠 General Questions & Guidance
 
-For general support, clarification, or alignment questions:
+For clarification or alignment questions:
 
 📩 **contact@satoshium.ai**
 
 Include:
 
-- what you are trying to understand or explore
-- relevant page or repository link
-- clear, concise question
+- what you are trying to understand
+- relevant repository or page link
+- concise description of the question
 
-This helps ensure thoughtful responses.
+Clear context improves response quality.
 
 ---
 
 # 🐛 Reporting Problems or Errors
 
-If you encounter:
+Report issues such as:
 
 - broken links
 - incorrect documentation
-- simulation issues
-- service interface problems
-- registry surface inconsistencies
+- simulation problems
+- service interface inconsistencies
+- registry surface alignment issues
 - repository navigation errors
 
-You may report them using:
+Use either:
 
-**Option A — GitHub Issue (when enabled)**
+**Option A — GitHub Issue (preferred)**
 
 Include:
 
 - description of the issue
-- steps to reproduce
+- reproduction steps
 - screenshots if helpful
 
 **Option B — Email**
@@ -100,7 +92,7 @@ Include:
 
 # 🔐 Security Concerns
 
-If you believe you have discovered a legitimate security issue:
+If you believe you have identified a security issue:
 
 Do **not** report it publicly.
 
@@ -111,32 +103,32 @@ Instead contact:
 Include:
 
 - description of the concern
-- steps to reproduce
-- supporting evidence if applicable
+- reproduction steps
+- supporting evidence if available
 
-Responsible disclosure helps protect the platform.
+Responsible disclosure protects the platform.
 
 ---
 
 # 🤝 Contributors & Builders
 
-If you would like to:
+You may contribute by:
 
-- improve documentation
-- refine terminology systems
-- propose aligned tools
-- contribute simulations
-- support architecture clarity
-- participate in infrastructure evolution
+- improving documentation
+- refining terminology alignment
+- proposing infrastructure-compatible tools
+- contributing simulations
+- clarifying architecture layers
+- strengthening registry coordination surfaces
 
 Start by reviewing:
 
 - `contributing.md`
 - `roadmap.md`
 - repository directory
-- public architecture documentation
+- architecture documentation
 
-Satoshium grows through structured contribution.
+Satoshium evolves through structured collaboration.
 
 ---
 
@@ -144,15 +136,13 @@ Satoshium grows through structured contribution.
 
 Satoshium is a deliberate, long-horizon build.
 
-Response times may vary depending on platform activity.
-
-Priority order:
+Response priority typically follows:
 
 1. security concerns
 2. critical service issues
 3. documentation clarity
 4. simulation feedback
-5. general platform questions
+5. general questions
 
 All legitimate inquiries are reviewed carefully.
 
@@ -169,7 +159,7 @@ Satoshium currently includes:
 - simulations and experimental environments
 - repository navigation surfaces
 
-There is **no token**, exchange, custody system, or investment platform associated with Satoshium.
+There is **no token, exchange, custody system, or investment platform** associated with Satoshium.
 
 ---
 
@@ -177,7 +167,7 @@ There is **no token**, exchange, custody system, or investment platform associat
 
 Support helps maintain clarity across the platform.
 
-It ensures architecture remains understandable, simulations remain usable, and infrastructure evolves responsibly.
+It ensures documentation remains accurate, simulations remain usable, and infrastructure evolves responsibly.
 
 Built in public.  
 With structure.  
