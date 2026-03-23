@@ -1,6 +1,6 @@
 ---
 name: "💡 Feature Request"
-about: Suggest an idea to improve the Satoshium ecosystem
+about: Suggest an idea to improve the Satoshium platform infrastructure
 title: "[FEATURE] "
 labels: enhancement
 assignees: ''
