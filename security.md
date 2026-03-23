@@ -1,16 +1,18 @@
-# 🔐 Satoshium Security Policy (Phase003)
+# 🔐 Satoshium Security Policy (Phase004)
 
 Security is foundational to Satoshium.
 
-Even in its documentation-first and public-build phase,  
-we maintain a clear and responsible security posture.
+Even while the platform is being built publicly and incrementally,  
+its architecture is designed around verification-first coordination, layered trust infrastructure, and transparent system evolution.
 
-Satoshium is being built for a future where:
+Satoshium is being developed for a future where:
+
 - AI systems must be verifiable
-- Infrastructure must be resilient
-- Trust must be earned — not assumed
+- infrastructure must be resilient
+- coordination must be observable
+- trust must be earned — not assumed
 
-This document explains how security is handled during Phase003.
+This document explains how security is handled during Phase004.
 
 ---
 
@@ -18,16 +20,19 @@ This document explains how security is handled during Phase003.
 
 Satoshium is currently in:
 
-**Phase003 — Public build & education phase**
+**Phase004 — Layered infrastructure & services emergence phase**
 
 This means:
 
-- Many repositories are documentation-first
-- Some tools and demos are experimental
-- Core agent systems are not yet released publicly
-- Security architecture is evolving intentionally
+- core architectural layers are publicly defined
+- governance and verification services are operational surfaces
+- registry infrastructure is emerging
+- simulations and experimental tools are expanding
+- agent coordination infrastructure is being introduced gradually
 
-There is **no production financial platform** or live custody system within Satoshium at this time.
+Satoshium is **not a custody platform**, exchange, or financial service.
+
+Security evolves alongside capability.
 
 ---
 
@@ -35,22 +40,26 @@ There is **no production financial platform** or live custody system within Sato
 
 If you discover a legitimate security issue related to:
 
-- Public demos  
-- Website infrastructure  
-- Public repositories  
-- Documentation exposures  
-- Future agent testing environments  
+- public tools or simulations
+- website infrastructure
+- registry surfaces
+- governance or verification services
+- public repositories
+- documentation exposures
+- experimental agent environments
 
-Please report it responsibly.
+please report it responsibly.
 
 ### 📩 Contact
+
 Email: **security@satoshium.ai**
 
 Include:
-- Clear description of the issue
-- Steps to reproduce (if applicable)
-- Screenshots or logs if relevant
-- Suggested mitigation (optional)
+
+- clear description of the issue
+- steps to reproduce (if applicable)
+- screenshots or logs if relevant
+- suggested mitigation (optional)
 
 ---
 
@@ -58,12 +67,13 @@ Include:
 
 We aim to:
 
-- Acknowledge reports within 48–72 hours
-- Investigate responsibly
-- Fix or mitigate legitimate risks
-- Credit responsible reporters when appropriate
+- acknowledge reports within 48–72 hours
+- investigate responsibly
+- mitigate legitimate risks
+- improve architecture where necessary
+- credit responsible reporters when appropriate
 
-This is a long-term project — thoughtful response matters more than speed.
+Security maturity grows alongside platform capability.
 
 ---
 
@@ -71,46 +81,141 @@ This is a long-term project — thoughtful response matters more than speed.
 
 Please **do not**:
 
-- Open public issues for vulnerabilities
-- Attempt exploitation beyond proof-of-concept
-- Social engineer contributors
-- Probe private infrastructure
-- Attempt access to private repositories or systems
+- open public issues for vulnerabilities
+- attempt exploitation beyond proof-of-concept
+- probe private infrastructure
+- social engineer contributors
+- attempt access to restricted repositories or services
+- interfere with experimental simulations
 
-Respectful disclosure ensures a strong ecosystem.
-
----
-
-# 🔒 Current Security Philosophy
-
-Satoshium follows simple principles:
-
-**1. Education before infrastructure**  
-We do not rush live systems before they are ready.
-
-**2. Minimal attack surface**  
-Few live services = fewer risks.
-
-**3. Transparency over obscurity**  
-Clear architecture reduces hidden vulnerabilities.
-
-**4. Security grows with capability**  
-As agents and tools emerge, security hardens alongside them.
+Respectful disclosure strengthens the ecosystem.
 
 ---
 
-# 🧱 Future Security Direction
+# 🧱 Security Across the Platform Layers
+
+Security in Satoshium is layered:
+
+**Trust → Knowledge → Intelligence → Signal → Simulation**
+
+Each layer reduces different categories of systemic risk.
+
+### Trust Layer
+
+Includes:
+
+- Verification Ledger infrastructure
+- Agent Governance surfaces
+- Registry coordination systems
+- legal transparency framework
+
+These components anchor accountability and identity alignment.
+
+---
+
+### Knowledge Layer
+
+Includes:
+
+- glossary systems
+- architecture documentation
+- specifications repositories
+- education library surfaces
+
+Shared terminology reduces ambiguity-based risk.
+
+---
+
+### Intelligence Layer
+
+Includes:
+
+- agent coordination logic (emerging)
+- reasoning infrastructure
+- automation frameworks (future-facing)
+
+Execution authority must remain verifiable.
+
+---
+
+### Signal Layer
+
+Includes:
+
+- Sovereign Signal awareness surfaces
+- updates ledger transparency
+- system status interpretation layers
+
+Signals communicate what matters — not just what exists.
+
+---
+
+### Simulation Layer
+
+Includes:
+
+- labs environments
+- interactive tools
+- scenario systems
+- experimental coordination models
+
+Simulations allow safe exploration before deployment.
+
+---
+
+# 🔒 Security Philosophy
+
+Satoshium follows several core security principles:
+
+**1. Verification before automation**
+
+Systems should prove integrity before executing authority.
+
+**2. Minimal attack surface**
+
+Incremental infrastructure reduces premature exposure.
+
+**3. Documentation-first transparency**
+
+Clear architecture prevents hidden assumptions.
+
+**4. Protocol over personality**
+
+Security emerges from structure, not central actors.
+
+**5. Security grows with capability**
+
+Infrastructure maturity increases alongside system responsibility.
+
+---
+
+# 🧰 Active Security Infrastructure
+
+Security-relevant platform surfaces already include:
+
+- Agent Governance Tool
+- Verification Ledger Tool
+- registry coordination layer (emerging)
+- architecture documentation across domains
+- public updates ledger transparency
+
+These systems support observable coordination rather than hidden control.
+
+---
+
+# 🚧 Future Security Direction
 
 As Satoshium evolves, security will expand into:
 
-- Cryptographic verification layers
-- Agent integrity systems
-- Trust scoring models
-- Audit-friendly architectures
-- Bitcoin-aligned verification logic
+- cryptographic agent identity alignment
+- registry-based discovery controls
+- lifecycle governance verification models
+- distributed coordination safeguards
+- simulation-layer stress testing environments
+- adversarial AI scenario modeling
+- Bitcoin-aligned verification anchors (long-term)
 
-Security will not be bolted on later.  
-It is being designed from the start.
+Security is designed into the architecture from the beginning.
 
 ---
 
@@ -118,9 +223,11 @@ It is being designed from the start.
 
 Individuals who responsibly report legitimate issues may be:
 
-- Acknowledged in `recognition.md`
-- Thanked publicly (if desired)
-- Invited into early contributor circles (future)
+- acknowledged in `recognition.md`
+- thanked publicly (if desired)
+- invited into early contributor circles (future)
+
+Responsible disclosure strengthens the platform.
 
 ---
 
@@ -128,22 +235,24 @@ Individuals who responsibly report legitimate issues may be:
 
 Satoshium currently consists of:
 
-- Educational website
-- Public documentation repos
-- Early demonstration tools
-- Concept architecture
+- layered documentation infrastructure
+- governance and verification services
+- registry coordination surfaces
+- simulations and experimental tools
+- educational architecture systems
 
-There is **no token, custody platform, exchange, or live financial system** associated with Satoshium.
+There is **no token**, exchange, custody system, or financial platform associated with Satoshium.
 
-Any claims suggesting otherwise are false.
+Any claims suggesting otherwise are incorrect.
 
 ---
 
 # 🧠 Final Principle
 
-Security is not a feature.  
+Security is not a feature.
+
 It is a foundation.
 
-Satoshium is being built deliberately  
-so that when real systems arrive —  
-they are resilient, verifiable, and trustworthy from day one.
+Satoshium is being constructed deliberately so that as coordination infrastructure expands —
+
+its integrity remains observable, verifiable, and resilient from the start.
