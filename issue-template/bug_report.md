@@ -1,6 +1,6 @@
 ---
 name: 🐞 Bug Report
-about: Report an issue to help improve the Satoshium ecosystem
+about: Report an issue to help improve the Satoshium platform infrastructure
 title: "[BUG] "
 labels: bug
 assignees: ''
