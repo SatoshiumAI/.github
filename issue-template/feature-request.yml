@@ -27,11 +27,13 @@ body:
     validations:
       required: true
 
+## 🧱 Platform Layer Impact (optional)
+
   - type: textarea
     id: problem
     attributes:
-      label: 🧭 What problem does this solve?
-      description: Explain the need or gap this feature addresses
+      label: 🧭 Which platform layer does this idea relate to?
+      description: Trust, Knowledge, Intelligence, Signal, Simulation, Developer, Navigation, Not sure yet.
       placeholder: Describe why this would be useful
     validations:
       required: true
