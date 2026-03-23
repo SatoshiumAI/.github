@@ -1,5 +1,5 @@
 name: 🐞 Bug Report
-description: Report something that is not working as expected within the Satoshium ecosystem
+description: Report something that is not working as expected within the Satoshium platform infrastructure
 title: "[BUG] "
 labels: ["bug"]
 assignees: []
