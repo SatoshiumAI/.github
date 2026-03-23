@@ -1,84 +1,139 @@
-# 📋 Satoshium To-Do — Phase003
+# 📋 Satoshium To-Do — Phase004
 
 This is the **public-facing progress tracker** for Satoshium.
 
 No hype.  
 No artificial deadlines.  
-Just visible progress.
+Just visible platform evolution.
 
 ---
 
-# 🎯 Current Focus (Phase003)
+# 🎯 Current Focus (Phase004)
 
-Phase003 is about **clarity, education, and foundation**.
+Phase004 is about **layered infrastructure emergence**.
 
 Primary goals:
 
-- Expand Bitcoin education hub on satoshium.ai  
-- Align all public repos with current direction  
-- Build clean, understandable architecture  
-- Document philosophy and principles clearly  
-- Maintain public transparency of progress  
+- expand governance and verification services
+- continue registry coordination infrastructure
+- strengthen glossary and terminology systems
+- align repositories with platform architecture layers
+- extend simulation environments
+- maintain transparent platform updates
 
-This phase prioritizes **understanding before complexity**.
-
----
-
-# 🧱 Website Expansion (Active)
-
-Continuing structured expansion of:
-
-## Bitcoin Education
-- Bitcoin 101 pages  
-- Wallet & security guides  
-- Mining & network explanations  
-- Lightning & scaling education  
-
-Each page should:
-- Be simple  
-- Be honest  
-- Be timeless  
-- Help someone learn Bitcoin correctly  
+This phase prioritizes **structure before automation**.
 
 ---
 
-# 🗺️ Public Repo Alignment
+# 🧱 Trust Layer Expansion (Active)
 
-All `.github` and public-facing repos being updated to:
+Continuing structured development of:
 
-- Phase003 direction  
-- Clean documentation-first structure  
-- Consistent tone and philosophy  
-- Removal of outdated roadmap assumptions  
-- Removal of unnecessary complexity  
+- Agent Governance infrastructure
+- Verification Ledger services
+- registry coordination surfaces
+- platform transparency layers
+- legal and architectural clarity across domains
 
-Goal:  
-**If someone discovers Satoshium today — everything makes sense.**
+Trust infrastructure anchors the rest of the system.
 
 ---
 
-# 🧠 Architecture Clarity
+# 📘 Knowledge Layer Expansion
 
-Ongoing work:
+Ongoing work includes:
 
-- Define ecosystem structure clearly  
-- Separate concept vs implementation  
-- Keep protocol-first philosophy  
-- Avoid premature tooling  
+- glossary growth
+- terminology alignment across repositories
+- architecture documentation consistency
+- education library refinement
+- cross-domain structure clarity
 
-Satoshium must be understandable  
-before it becomes executable.
+Shared meaning supports coordinated systems.
+
+---
+
+# 🤖 Intelligence Layer Foundations (Emerging)
+
+Early groundwork includes:
+
+- coordination logic surfaces
+- agent lifecycle concepts
+- verification-first execution models
+- architecture alignment for future automation
+
+Execution expands gradually and deliberately.
+
+---
+
+# 📡 Signal Layer Development
+
+Signal infrastructure continues expanding through:
+
+- Sovereign Signal awareness surfaces
+- updates ledger transparency
+- system visibility improvements
+- interpretation-layer communication tools
+
+Signals communicate what matters across the platform.
+
+---
+
+# 🧪 Simulation Layer Expansion
+
+Continuing development across:
+
+- labs environments
+- experimental tools
+- scenario simulations
+- coordination prototypes
+- interactive architecture demonstrations
+
+Simulations allow safe exploration before deployment.
+
+---
+
+# 🌐 Domain Ecosystem Alignment
+
+Structured expansion continues across:
+
+- satoshium.ai (platform hub)
+- satoshium.net (systems and services)
+- satoshium.info (education and glossary)
+- satoshium.xyz (labs and simulations)
+- satoshium.dev (developer layer)
+- satoshium.link (repository navigation)
+
+Each domain supports a distinct platform layer.
+
+---
+
+# 🗺️ Repository Alignment
+
+All `.github` and public-facing repositories continue aligning with:
+
+- Phase004 architecture structure
+- layered coordination model
+- consistent terminology
+- updated platform navigation
+- registry-aware documentation
+- service-layer infrastructure visibility
+
+Goal:
+
+**If someone discovers Satoshium today — the architecture is immediately understandable.**
 
 ---
 
 # 🤖 Future (No Deadlines)
 
-When ready — not before:
+When infrastructure maturity supports it:
 
-- Public agent frameworks  
-- Verification-first AI tools  
-- Identity + trust modules  
-- Open testing environments  
+- agent lifecycle coordination systems
+- registry-based discovery infrastructure
+- verification-aligned automation tools
+- simulation-layer stress testing environments
+- distributed coordination experiments
 
 Nothing ships early.  
 Everything ships intentionally.
@@ -89,22 +144,22 @@ Everything ships intentionally.
 
 Satoshium is built:
 
-- In public  
-- Without hype  
-- Without pressure  
-- Without artificial timelines  
+- in public
+- without hype
+- without artificial timelines
+- with verification-first structure
+- with layered coordination architecture
 
-One solid step at a time.
+One deliberate step at a time.
 
 ---
 
 # 🟢 Status
 
-**Phase003: Active**  
-Foundation and clarity phase.
+**Phase004: Active**  
+Layered infrastructure emergence phase.
 
-More will be added  
-only when it improves understanding.
+Additional capabilities expand only when architecture supports them.
 
 ---
 
@@ -112,7 +167,7 @@ only when it improves understanding.
 
 This is not a startup sprint.
 
-This is long-term infrastructure thinking.
+This is long-horizon coordination infrastructure.
 
 Built carefully.  
 Built publicly.  
