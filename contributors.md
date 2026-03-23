@@ -1,94 +1,59 @@
-# 🌐 Satoshium Contributors
+# 🌐 Contributors to Satoshium
 
-Satoshium is a long-term public build exploring decentralized intelligence aligned with Bitcoin and verifiable systems.
+We recognize and thank the individuals helping build **Satoshium** — layered coordination infrastructure developed in public.
 
-This page recognizes those contributing to its early formation and ongoing development.
-
----
-
-# 🧭 Current Development Stage
-
-Satoshium is currently in a foundational stage:
-
-- Core direction and architecture are being established  
-- Public education and documentation are expanding  
-- Platform systems and tools are being developed gradually  
-- Most development remains founder-led  
-
-Contributor recognition will expand over time as the ecosystem grows.
+Satoshium evolves through documentation, architecture alignment, simulations, terminology systems, governance surfaces, and supporting services across multiple platform layers.
 
 ---
 
-# 👤 Primary Builder
+## 👥 Acknowledged Contributors
 
-**Christopher D. Burris**  
-Vision, architecture, educational framework, and long-term system direction.
-
-Satoshium is being built deliberately and publicly — one layer at a time.
-
----
-
-# 🤖 AI-Assisted Development
-
-AI-assisted systems and tools support development in areas such as:
-
-- documentation refinement  
-- structural design  
-- research exploration  
-- simulation and concept testing  
-
-All outputs are reviewed and curated within the Satoshium framework.
-
-AI supports the build — it does not define the mission.
+- **Christopher D Burris** – platform architecture, coordination design, infrastructure direction, and repository stewardship
+- **Open-source collaborators** – contributors improving documentation clarity, structure, simulations, and terminology alignment
+- **AI-assisted development workflows** – tooling support used during documentation drafting, structural refinement, and experimental infrastructure exploration
 
 ---
 
-# 🌱 Future Contributors
+## 🧠 Contribution Areas
 
-As the ecosystem matures, contributors may include:
+Contributions are especially valuable in:
 
-- developers  
-- researchers  
-- designers  
-- educators  
-- testers and reviewers  
-
-Contribution pathways will open gradually when structure and tooling support it.
-
----
-
-# 🧠 How Contribution Will Work (Future)
-
-Future contribution areas may include:
-
-- documentation & education  
-- protocol research  
-- testing and simulations  
-- interface and experience design  
-- aligned platform tooling and experimentation  
-
-When public contribution begins, clear guidelines will be provided.
+- documentation refinement
+- terminology alignment
+- architecture-layer consistency
+- simulations and experimentation environments
+- registry coordination infrastructure (emerging)
+- governance and verification support layers
+- developer tooling and navigation surfaces
 
 ---
 
-# 🛡️ Contribution Principles
+## 📬 Get Involved
 
-All contributions will be evaluated based on:
+You can participate through:
 
-- clarity  
-- usefulness  
-- alignment with mission  
-- long-term value  
-- respect for open, verifiable systems  
+- GitHub Issues and Pull Requests
+- repository Discussions (where enabled)
+- architecture clarification proposals
+- simulation feedback
+- documentation improvements
 
-Satoshium grows carefully — not quickly.
+If unsure where to begin, documentation alignment is always a strong starting point.
 
 ---
 
-# 🧭 Final Note
+## 🔐 Contribution Principles
 
-If you are seeing this early, you are witnessing the foundation stage.
+Satoshium develops through transparent iteration:
 
-Satoshium is being built step by step, in public, with intention.
+- documentation-first improvements
+- terminology consistency
+- architecture-layer awareness
+- verifiable coordination surfaces
+- incremental infrastructure evolution
 
-Recognition will expand as participation expands — naturally and over time.
+Contributions are evaluated on clarity, usefulness, and alignment with platform structure.
+
+---
+
+Thank you for helping build coordination systems that remain understandable as they evolve.
