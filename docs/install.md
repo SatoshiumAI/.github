@@ -1,4 +1,4 @@
-# 🛠️ Satoshium Installation & Setup (Phase003)
+# 🛠️ Satoshium Installation & Setup
 
 Welcome to **Satoshium**.
 
@@ -9,7 +9,7 @@ This guide explains how to **explore, learn from, and eventually build within** 
 
 ---
 
-# 🧭 First: What “Installation” Means Here
+# 🧭 First: What "Installation" Means Here
 
 There is currently **no required installation** to follow Satoshium.
 
@@ -19,7 +19,7 @@ You can engage with the ecosystem in three ways:
 2. 🧠 Explore public repositories
 3. 🧪 (Future) Run agents and tools locally
 
-Phase003 focuses primarily on **learning, structure, and foundation**.
+The current focus is on **learning, structure, and foundation** — building a platform that is understandable before it is operable.
 
 ---
 
@@ -30,7 +30,7 @@ Start here:
 * 🌍 Main site: [https://satoshium.ai](https://satoshium.ai)
 * 📘 Bitcoin education hub
 * 🧠 Satoshium philosophy & architecture
-* 🤖 Public AI demo (USPTO qualifying)
+* 🤖 Public AI demo
 * 🗺️ Public repo map
 
 You can follow the entire project without installing a single tool.
@@ -58,7 +58,7 @@ Many repos are documentation-first and require **no runtime install**.
 
 ---
 
-# 🧪 Future Installation (Phase004+)
+# 🧪 Future Installation
 
 As Satoshium evolves, optional installs may include:
 
@@ -100,7 +100,7 @@ Satoshium is open by design.
 
 # 🚧 Development Status
 
-**Phase003 Status:**
+**Current focus:**
 Foundation, education, architecture, and public presence.
 
 **Not yet released:**
