@@ -1,4 +1,3 @@
-# 🎨 Satoshium Style Guide (Phase003)
 
 This style guide defines the writing, formatting, and structural standards for all Satoshium documentation and public-facing content.
 
@@ -71,9 +70,9 @@ Follow with a short paragraph explaining the purpose of the file.
 Use consistent hierarchy:
 
 ```
-# Title  
-## Section  
-### Subsection  
+# Title
+## Section
+### Subsection
 ```
 
 Avoid skipping heading levels.
@@ -158,11 +157,8 @@ Use consistent bullet or numbered formatting.
 
 Always use fenced code blocks:
 
-````
 ```bash
 git clone https://github.com/satoshiumai/example
-````
-
 ```
 
 ---
@@ -171,11 +167,11 @@ git clone https://github.com/satoshiumai/example
 
 When creating or updating documentation:
 
-- Explain before assuming knowledge  
-- Keep structure predictable  
-- Avoid unnecessary repetition  
-- Update outdated references  
-- Maintain consistency across repos  
+- Explain before assuming knowledge
+- Keep structure predictable
+- Avoid unnecessary repetition
+- Update outdated references
+- Maintain consistency across repos
 
 Documentation should help future readers understand quickly.
 
@@ -185,10 +181,10 @@ Documentation should help future readers understand quickly.
 
 Before finalizing a document:
 
-- Check spelling and grammar  
-- Confirm links work  
-- Ensure formatting renders cleanly  
-- Keep structure consistent  
+- Check spelling and grammar
+- Confirm links work
+- Ensure formatting renders cleanly
+- Keep structure consistent
 
 Small refinements create long-term clarity.
 
@@ -200,10 +196,10 @@ This style guide will evolve alongside the Satoshium ecosystem.
 
 As new repositories, tools, and contributors emerge, standards may expand while preserving core principles of:
 
-- clarity  
-- consistency  
-- durability  
-- transparency  
+- clarity
+- consistency
+- durability
+- transparency
 
 ---
 
@@ -214,4 +210,3 @@ Good documentation is not decoration.
 It is infrastructure.
 
 This guide exists to ensure Satoshium remains understandable and maintainable for years to come.
-```
