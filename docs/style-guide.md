@@ -1,3 +1,4 @@
+# 🎨 Satoshium Style Guide
 
 This style guide defines the writing, formatting, and structural standards for all Satoshium documentation and public-facing content.
 
