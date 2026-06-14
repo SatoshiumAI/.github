@@ -6,7 +6,10 @@
 
 Thank you for your interest in Satoshium.
 
-Satoshium is being built deliberately as long-term infrastructure exploring Bitcoin-aligned intelligence, verifiable systems, and transparent digital coordination.
+Satoshium is being built deliberately as long-term infrastructure
+exploring information systems, verification, identity, governance,
+trust, decentralized intelligence, and Bitcoin-aligned digital
+coordination.
 
 Contribution pathways will expand over time as the ecosystem stabilizes.
 
@@ -37,6 +40,20 @@ This helps preserve:
 - long-term maintainability  
 
 ---
+
+Current ecosystem development includes:
+
+- Atlas
+- Navigator
+- Certifier
+- Registry
+- Chronicle
+- Anchor
+- Beacon
+- Attestor
+- Aegis
+- Agent Governance
+- Verification Ledger
 
 ## 💡 Ways to Contribute Today
 
@@ -138,5 +155,9 @@ Just real forward movement.
 
 ---
 
-**Satoshium is being built carefully and publicly.  
-The door to contribution will open wider as the foundation strengthens.**
+Satoshium is being built carefully, publicly, and with a long-term view.
+
+The door to contribution will open wider as the foundation strengthens.
+
+Understanding comes first.
+Contribution follows.
