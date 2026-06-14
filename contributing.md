@@ -1,5 +1,9 @@
 # 🤝 Contributing to Satoshium
 
+**Organization:** Satoshium
+
+**Maintained By:** Christopher D. Burris — Satoshium™ Intelligence Systems
+
 Thank you for your interest in Satoshium.
 
 Satoshium is being built deliberately as long-term infrastructure exploring Bitcoin-aligned intelligence, verifiable systems, and transparent digital coordination.
