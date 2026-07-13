@@ -1,0 +1,154 @@
+name: Validate Toolkit
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: ["**"]
+
+jobs:
+  validate:
+    name: Syntax, Import & Smoke Tests (Python ${{ matrix.python-version }})
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        python-version: ["3.11"]
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      # -----------------------------------------------------------------------
+      # Step 1 — Syntax check: compile every Python file with py_compile.
+      # Catches SyntaxErrors without executing any code.
+      # -----------------------------------------------------------------------
+      - name: Syntax check — src/
+        run: |
+          python -m py_compile src/__init__.py
+          python -m py_compile src/models.py
+          python -m py_compile src/validator.py
+          python -m py_compile src/checklist.py
+          python -m py_compile src/generator.py
+
+      - name: Syntax check — scripts/
+        run: |
+          python -m py_compile scripts/__init__.py
+          python -m py_compile scripts/new_certification.py
+          python -m py_compile scripts/validate_certification.py
+          python -m py_compile scripts/generate_artifacts.py
+          python -m py_compile scripts/check_release.py
+
+      - name: Syntax check — tests/
+        run: |
+          python -m py_compile tests/__init__.py
+          python -m py_compile tests/test_new_certification.py
+          python -m py_compile tests/test_validator.py
+          python -m py_compile tests/test_generator.py
+          python -m py_compile tests/test_checklist.py
+
+      # -----------------------------------------------------------------------
+      # Step 2 — Import check: import each src/ module to surface ImportError,
+      # broken relative imports, and NameErrors at module load time.
+      # -----------------------------------------------------------------------
+      - name: Import check — src modules
+        run: |
+          python -c "from src import models;    print('src.models OK')"
+          python -c "from src import validator; print('src.validator OK')"
+          python -c "from src import checklist; print('src.checklist OK')"
+          python -c "from src import generator; print('src.generator OK')"
+
+      # -----------------------------------------------------------------------
+      # Step 3 — Unit tests (unittest discover).
+      # Covers new-certification, validator, generator, and checklist logic
+      # including fixture-based integration checks.
+      # -----------------------------------------------------------------------
+      - name: Run unit tests
+        run: python -m unittest discover tests -v
+
+      # -----------------------------------------------------------------------
+      # Step 4 — Smoke: validate the pre-populated example certification.
+      # validate_certification.py must exit 0 on a clean package.
+      # -----------------------------------------------------------------------
+      - name: Smoke — validate example certification
+        run: python scripts/validate_certification.py examples/SC-CERT-2026-0001
+
+      # -----------------------------------------------------------------------
+      # Step 5 — Smoke: generate artifacts from the example package.
+      # generate_artifacts.py must exit 0 and produce 12 output files.
+      # -----------------------------------------------------------------------
+      - name: Smoke — generate artifacts from example package
+        run: |
+          python scripts/generate_artifacts.py examples/SC-CERT-2026-0001
+          echo "Generated files:"
+          ls -1 examples/SC-CERT-2026-0001/
+
+      # -----------------------------------------------------------------------
+      # Step 6 — Smoke: new_certification.py creates a folder from a fresh ID.
+      # -----------------------------------------------------------------------
+      - name: Smoke — new certification (init from template)
+        run: |
+          python scripts/new_certification.py SC-CERT-CI-0001
+          test -f output/SC-CERT-CI-0001/certification_package.json
+          echo "New certification folder created successfully."
+
+      # -----------------------------------------------------------------------
+      # Step 7 — Release check PASS: complete fixture must exit 0.
+      #
+      # tests/fixtures/complete-certification/ contains all 13 required artifact
+      # files with no placeholder markers.  check_release.py must succeed.
+      # -----------------------------------------------------------------------
+      - name: Release check — complete fixture must PASS (exit 0)
+        run: |
+          python scripts/check_release.py tests/fixtures/complete-certification
+          echo "Release check correctly passed on the complete fixture."
+
+      # -----------------------------------------------------------------------
+      # Step 8 — Release check FAIL: incomplete fixture must exit 1.
+      #
+      # tests/fixtures/incomplete-certification/ has only 2 of 13 required
+      # artifact files, and both files contain placeholder markers.
+      # check_release.py must fail (exit 1).  If it exits 0 unexpectedly,
+      # this step fails CI — no || true masking.
+      # -----------------------------------------------------------------------
+      - name: Release check — incomplete fixture must FAIL (exit 1)
+        run: |
+          if python scripts/check_release.py tests/fixtures/incomplete-certification; then
+            echo "ERROR: check_release should have failed on the incomplete fixture, but it exited 0."
+            exit 1
+          fi
+          echo "Release check correctly failed on the incomplete fixture (exit 1 as expected)."
+
+      # -----------------------------------------------------------------------
+      # Step 9 — Verify no Replit-specific files crept in.
+      # -----------------------------------------------------------------------
+      - name: Check for Replit-specific lock-in files
+        run: |
+          REPLIT_FILES=".replit replit.nix .breakpoints"
+          FOUND=0
+          for f in $REPLIT_FILES; do
+            if [ -f "$f" ]; then
+              echo "ERROR: Found Replit-specific file: $f"
+              FOUND=1
+            fi
+          done
+          if [ "$FOUND" -eq 1 ]; then
+            exit 1
+          fi
+          echo "No Replit-specific files found."
+
+      # -----------------------------------------------------------------------
+      # Step 10 — Confirm stdlib-only: no requirements.txt should exist.
+      # -----------------------------------------------------------------------
+      - name: Verify no requirements.txt (stdlib-only project)
+        run: |
+          if [ -f "requirements.txt" ]; then
+            echo "ERROR: requirements.txt found — this project must be stdlib-only."
+            exit 1
+          fi
+          echo "Confirmed: no requirements.txt (stdlib-only)."
